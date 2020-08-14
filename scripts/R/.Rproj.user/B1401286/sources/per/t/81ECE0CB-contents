@@ -1,0 +1,17 @@
+library(data.table)
+library(ggplot2)
+
+setwd('/Users/zarnazhadi/Desktop/hippocampus_TFs/expression_data/')
+dat <- fread(file = 'DDX11L1_expression_data.csv', header = TRUE, sep=',')
+
+# hippocampus
+hippocampus <- dat[dat$`tissue type` == 'Hippocampus']
+colnames(hippocampus) <- c('sample', 'DDX11L1_expression', 'tissue_type')
+tf <- colnames(hippocampus[,2])
+
+ggplot(hippocampus, aes(x=sample, y=DDX11L1_expression)) +
+  geom_boxplot(color="red", fill="orange", alpha=0.2)+
+  theme(
+    axis.text.y = element_text(angle = 90)
+  ) +
+  ggtitle(paste0(tf, "in hippocampus tissue"))
