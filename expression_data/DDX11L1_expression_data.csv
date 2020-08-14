@@ -1,0 +1,2643 @@
+sample,DDX11L1_expression,tissue_type
+GTEX-1117F-3226-SM-5N9CT,0.01776,Cortex 
+GTEX-111FC-3126-SM-5GZZ2,0,Cortex 
+GTEX-111FC-3326-SM-5GZYV,0,Cerebellum 
+GTEX-1128S-2726-SM-5H12C,0.01709,Cortex 
+GTEX-1128S-2826-SM-5N9DI,0,Cerebellum 
+GTEX-117XS-3026-SM-5N9CA,0,Cortex 
+GTEX-117XS-3126-SM-5GIDP,0.03692,Cerebellum 
+GTEX-1192X-0011-R10a-SM-DO941,0.03947,Frontal Cortex (BA9) 
+GTEX-1192X-0011-R5a-SM-DNZZA,0,Caudate (basal ganglia) 
+GTEX-1192X-0011-R6a-SM-DNZZB,0,Nucleus accumbens (basal ganglia) 
+GTEX-1192X-0011-R7b-SM-DNZZC,0,Putamen (basal ganglia) 
+GTEX-1192X-0011-R8b-SM-DO11U,0,Hypothalamus 
+GTEX-1192X-0011-R9b-SM-DO934,0,Spinal cord (cervical c-1) 
+GTEX-1192X-3126-SM-5N9BY,0.02598,Cortex 
+GTEX-1192X-3226-SM-5987D,0.03228,Cerebellum 
+GTEX-11DXW-0011-R1a-SM-DNZZD,0,Hippocampus 
+GTEX-11DXW-0011-R3b-SM-DNZZE,0,Anterior cingulate cortex (BA24) 
+GTEX-11DXW-0011-R5b-SM-DO11D,0,Caudate (basal ganglia) 
+GTEX-11DXW-0011-R6a-SM-DO11N,0.01051,Nucleus accumbens (basal ganglia) 
+GTEX-11DXW-0011-R7b-SM-DO119,0,Putamen (basal ganglia) 
+GTEX-11DXW-1026-SM-5H11K,0,Cerebellum 
+GTEX-11DXW-1126-SM-5H12Q,0,Cortex 
+GTEX-11DXY-0011-R10b-SM-DO12C,0,Frontal Cortex (BA9) 
+GTEX-11DXY-0011-R11a-SM-DNZZN,0.04045,Cerebellar Hemisphere 
+GTEX-11DXY-0011-R5b-SM-DNZZL,0,Caudate (basal ganglia) 
+GTEX-11DXY-0011-R6a-SM-DNZZF,0,Nucleus accumbens (basal ganglia) 
+GTEX-11DXY-0011-R7a-SM-DO11L,0.01266,Putamen (basal ganglia) 
+GTEX-11DXY-0011-R8a-SM-DO11M,0,Hypothalamus 
+GTEX-11DXY-3126-SM-5N9BT,0,Cerebellum 
+GTEX-11DXY-3226-SM-5GIDE,0,Cortex 
+GTEX-11DYG-0011-R10b-SM-DNZZO,0,Frontal Cortex (BA9) 
+GTEX-11DYG-0011-R11a-SM-DNZZP,0,Cerebellar Hemisphere 
+GTEX-11DYG-0011-R5a-SM-DO928,0,Caudate (basal ganglia) 
+GTEX-11DYG-0011-R6a-SM-DO936,0,Nucleus accumbens (basal ganglia) 
+GTEX-11DYG-0011-R7b-SM-EXUS6,0,Putamen (basal ganglia) 
+GTEX-11DYG-0011-R8a-SM-DO93F,0,Hypothalamus 
+GTEX-11DYG-2926-SM-5H132,0.02971,Cerebellum 
+GTEX-11DZ1-0011-R10b-SM-DO943,0,Frontal Cortex (BA9) 
+GTEX-11DZ1-0011-R11b-SM-DO11W,0,Cerebellar Hemisphere 
+GTEX-11DZ1-0011-R2a-SM-DNZZM,0,Substantia nigra 
+GTEX-11DZ1-0011-R3a-SM-DNZYY,0.01497,Anterior cingulate cortex (BA24) 
+GTEX-11DZ1-0011-R5a-SM-DO11J,0,Caudate (basal ganglia) 
+GTEX-11DZ1-0011-R6b-SM-DNZZG,0.01376,Nucleus accumbens (basal ganglia) 
+GTEX-11DZ1-0011-R7a-SM-DNZZH,0.01498,Putamen (basal ganglia) 
+GTEX-11DZ1-0011-R8b-SM-DNZZI,0,Hypothalamus 
+GTEX-11DZ1-0011-R9a-SM-DO933,0.01877,Spinal cord (cervical c-1) 
+GTEX-11DZ1-2926-SM-5A5KI,0.03155,Cerebellum 
+GTEX-11EI6-0011-R10a-SM-DO93R,0,Frontal Cortex (BA9) 
+GTEX-11EI6-0011-R11a-SM-DO11V,0,Cerebellar Hemisphere 
+GTEX-11EI6-0011-R1a-SM-DO93L,0.01289,Hippocampus 
+GTEX-11EI6-0011-R8a-SM-DO93M,0,Hypothalamus 
+GTEX-11EI6-2926-SM-5985U,0,Cerebellum 
+GTEX-11EI6-3026-SM-5GZZO,0.01485,Cortex 
+GTEX-11EMC-0011-R10a-SM-DNZZJ,0.03262,Frontal Cortex (BA9) 
+GTEX-11EMC-0011-R11b-SM-DNZZK,0,Cerebellar Hemisphere 
+GTEX-11EMC-0011-R2b-SM-DO114,0,Substantia nigra 
+GTEX-11EMC-0011-R8b-SM-DO91Z,0,Hypothalamus 
+GTEX-11EMC-0011-R9b-SM-DO921,0.01726,Spinal cord (cervical c-1) 
+GTEX-11EMC-3226-SM-5EGKW,0,Cortex 
+GTEX-11EMC-3326-SM-5P9JH,0,Cerebellum 
+GTEX-11GS4-0011-R1a-SM-DO129,0.01527,Hippocampus 
+GTEX-11GS4-0011-R2a-SM-DO942,0,Substantia nigra 
+GTEX-11GS4-3126-SM-5A5LH,0.02153,Cortex 
+GTEX-11GSO-0011-R1b-SM-57WD3,0,Hippocampus 
+GTEX-11GSO-0011-R2a-SM-57WDF,0,Substantia nigra 
+GTEX-11GSO-0011-R3b-SM-57WB2,0,Anterior cingulate cortex (BA24) 
+GTEX-11GSO-2926-SM-5HL73,0.0263,Cortex 
+GTEX-11GSO-3026-SM-5Q5AL,0,Cerebellum 
+GTEX-11GSP-0011-R10a-SM-5NQ7J,0,Frontal Cortex (BA9) 
+GTEX-11GSP-0011-R11b-SM-5NQ7V,0.04251,Cerebellar Hemisphere 
+GTEX-11GSP-0011-R1a-SM-9QEJ3,0.01448,Hippocampus 
+GTEX-11GSP-0011-R2b-SM-9QEGE,0,Substantia nigra 
+GTEX-11GSP-0011-R3a-SM-9QEGF,0.01511,Anterior cingulate cortex (BA24) 
+GTEX-11GSP-0011-R5a-SM-57WBE,0,Caudate (basal ganglia) 
+GTEX-11GSP-0011-R6b-SM-57WBQ,0,Nucleus accumbens (basal ganglia) 
+GTEX-11GSP-0011-R7b-SM-57WC3,0.01927,Putamen (basal ganglia) 
+GTEX-11GSP-0011-R8b-SM-5NQ79,0.01695,Hypothalamus 
+GTEX-11GSP-0011-R9b-SM-5NQ77,0.01983,Spinal cord (cervical c-1) 
+GTEX-11GSP-3126-SM-5A5LL,0.02734,Cerebellum 
+GTEX-11GSP-3226-SM-5986O,0.01693,Cortex 
+GTEX-11H98-0011-R10b-SM-5NQ98,0,Frontal Cortex (BA9) 
+GTEX-11H98-0011-R11b-SM-5NQ6U,0,Cerebellar Hemisphere 
+GTEX-11H98-0011-R5b-SM-57WCF,0,Caudate (basal ganglia) 
+GTEX-11H98-0011-R8a-SM-5NQ8V,0,Hypothalamus 
+GTEX-11NUK-0011-R4a-SM-DO12B,0.07179,Amygdala 
+GTEX-11NUK-0011-R5a-SM-DO93N,0.01298,Caudate (basal ganglia) 
+GTEX-11NUK-0011-R6a-SM-DO93O,0.01369,Nucleus accumbens (basal ganglia) 
+GTEX-11NUK-0011-R7a-SM-DO93P,0,Putamen (basal ganglia) 
+GTEX-11NUK-2926-SM-5A5MD,0.01797,Cortex 
+GTEX-11NUK-3026-SM-5986K,0,Cerebellum 
+GTEX-11NV4-0011-R5a-SM-5NQ88,0,Caudate (basal ganglia) 
+GTEX-11NV4-0011-R6a-SM-57WD5,0.01613,Nucleus accumbens (basal ganglia) 
+GTEX-11NV4-0011-R7a-SM-57WDH,0,Putamen (basal ganglia) 
+GTEX-11NV4-2126-SM-5N9DS,0,Cortex 
+GTEX-11NV4-2226-SM-5BC4T,0,Cerebellum 
+GTEX-11O72-0011-R5a-SM-DO922,0,Caudate (basal ganglia) 
+GTEX-11O72-0011-R6a-SM-DNZZQ,0,Nucleus accumbens (basal ganglia) 
+GTEX-11O72-2826-SM-5HL6W,0.03311,Cerebellum 
+GTEX-11O72-2926-SM-5BC4V,0.0192,Cortex 
+GTEX-11OC5-0626-SM-5HL6M,0,Cerebellum 
+GTEX-11OC5-0726-SM-5P9JK,0,Cortex 
+GTEX-11OF3-0011-R11a-SM-57WCR,0,Cerebellar Hemisphere 
+GTEX-11OF3-0011-R5a-SM-57WB4,0,Caudate (basal ganglia) 
+GTEX-11OF3-0011-R6b-SM-57WBG,0,Nucleus accumbens (basal ganglia) 
+GTEX-11OF3-0011-R7a-SM-57WCG,0,Putamen (basal ganglia) 
+GTEX-11OF3-0011-R8b-SM-57WCS,0,Hypothalamus 
+GTEX-11OF3-2926-SM-5HL78,0.02889,Cortex 
+GTEX-11ONC-0011-R1a-SM-57WD4,0.01915,Hippocampus 
+GTEX-11ONC-0011-R4b-SM-DO93H,0,Amygdala 
+GTEX-11ONC-0011-R5b-SM-DO93I,0,Caudate (basal ganglia) 
+GTEX-11ONC-0011-R6a-SM-DO12A,0.01397,Nucleus accumbens (basal ganglia) 
+GTEX-11ONC-0011-R7b-SM-DO93J,0,Putamen (basal ganglia) 
+GTEX-11ONC-0011-R8b-SM-5NQ87,0,Hypothalamus 
+GTEX-11ONC-0011-R9b-SM-5NQ8J,0,Spinal cord (cervical c-1) 
+GTEX-11ONC-2926-SM-5P9JM,0.03437,Cortex 
+GTEX-11ONC-3026-SM-5985W,0.05504,Cerebellum 
+GTEX-11PRG-0011-R10b-SM-DO93G,0,Frontal Cortex (BA9) 
+GTEX-11PRG-0011-R11b-SM-DNZZY,0,Cerebellar Hemisphere 
+GTEX-11PRG-0011-R2a-SM-69LQ5,0,Substantia nigra 
+GTEX-11PRG-0011-R4a-SM-DNZZR,0,Amygdala 
+GTEX-11PRG-0011-R5b-SM-DNZZS,0.01362,Caudate (basal ganglia) 
+GTEX-11PRG-0011-R6b-SM-DO923,0.01408,Nucleus accumbens (basal ganglia) 
+GTEX-11PRG-0011-R7a-SM-DNZZT,0.01347,Putamen (basal ganglia) 
+GTEX-11PRG-2826-SM-5BC54,0,Cerebellum 
+GTEX-11PRG-2926-SM-5987A,0,Cortex 
+GTEX-11TTK-0011-R10b-SM-DO925,0,Frontal Cortex (BA9) 
+GTEX-11TTK-0011-R11b-SM-DO112,0.02062,Cerebellar Hemisphere 
+GTEX-11TTK-0011-R4a-SM-DNZZU,0,Amygdala 
+GTEX-11TTK-0011-R5a-SM-DNZZV,0,Caudate (basal ganglia) 
+GTEX-11TTK-0011-R6b-SM-DNZZW,0,Nucleus accumbens (basal ganglia) 
+GTEX-11TTK-0011-R7b-SM-DNZZZ,0,Putamen (basal ganglia) 
+GTEX-11TTK-0011-R8b-SM-DO111,0.01537,Hypothalamus 
+GTEX-11TTK-2826-SM-5GU5K,0.08278,Cerebellum 
+GTEX-11TTK-2926-SM-5PNYP,0.05276,Cortex 
+GTEX-11TUW-0011-R10a-SM-DO924,0,Frontal Cortex (BA9) 
+GTEX-11TUW-0011-R1a-SM-DO92S,0,Hippocampus 
+GTEX-11TUW-0011-R2b-SM-DO92T,0,Substantia nigra 
+GTEX-11UD1-0011-R1b-SM-5BC7D,0,Hippocampus 
+GTEX-11UD1-0011-R2b-SM-5BC6O,0.02787,Substantia nigra 
+GTEX-11UD1-0011-R3a-SM-5BC6S,0,Anterior cingulate cortex (BA24) 
+GTEX-11UD1-0011-R5b-SM-5P9FP,0.01929,Caudate (basal ganglia) 
+GTEX-11UD2-0011-R9b-SM-DO926,0,Spinal cord (cervical c-1) 
+GTEX-11WQC-0011-R10a-SM-57WCT,0.02208,Frontal Cortex (BA9) 
+GTEX-11WQC-0011-R11b-SM-57WD6,0.06373,Cerebellar Hemisphere 
+GTEX-11WQC-0011-R1b-SM-DO932,0.0277,Hippocampus 
+GTEX-11WQC-0011-R2a-SM-DO927,0,Substantia nigra 
+GTEX-11WQC-0011-R3a-SM-DO11T,0,Anterior cingulate cortex (BA24) 
+GTEX-11WQC-0011-R5a-SM-5BC74,0,Caudate (basal ganglia) 
+GTEX-11WQC-0011-R6a-SM-5BC77,0,Nucleus accumbens (basal ganglia) 
+GTEX-11WQC-0011-R7b-SM-5BC7A,0,Putamen (basal ganglia) 
+GTEX-11WQC-0011-R8b-SM-57WCH,0,Hypothalamus 
+GTEX-11WQK-0011-R10a-SM-5BC6R,0.0448,Frontal Cortex (BA9) 
+GTEX-11WQK-0011-R3b-SM-DO93K,0,Anterior cingulate cortex (BA24) 
+GTEX-11WQK-0011-R8a-SM-5BC7C,0.01694,Hypothalamus 
+GTEX-11WQK-0011-R9b-SM-5BC6N,0,Spinal cord (cervical c-1) 
+GTEX-11WQK-3026-SM-5EQL6,0,Cortex 
+GTEX-11ZTS-0011-R10a-SM-DO93S,0,Frontal Cortex (BA9) 
+GTEX-11ZTS-0011-R11a-SM-DO113,0.0622,Cerebellar Hemisphere 
+GTEX-11ZTS-0011-R1a-SM-5BC71,0,Hippocampus 
+GTEX-11ZTS-0011-R2b-SM-5BC75,0.04344,Substantia nigra 
+GTEX-11ZTS-0011-R3a-SM-5BC78,0,Anterior cingulate cortex (BA24) 
+GTEX-11ZTS-0011-R8a-SM-57WDI,0.01585,Hypothalamus 
+GTEX-11ZTS-0011-R9b-SM-DO93Q,0.03026,Spinal cord (cervical c-1) 
+GTEX-11ZTS-3226-SM-5EGID,0,Cerebellum 
+GTEX-11ZU8-0011-R4a-SM-5BC6Y,0.01724,Amygdala 
+GTEX-11ZUS-0011-R11b-SM-5BC7B,0,Cerebellar Hemisphere 
+GTEX-11ZUS-0011-R8a-SM-5BC73,0,Hypothalamus 
+GTEX-11ZUS-0011-R9b-SM-5BC76,0.02494,Spinal cord (cervical c-1) 
+GTEX-11ZUS-2826-SM-5EQKW,0.07297,Cerebellum 
+GTEX-11ZUS-2926-SM-5FQSL,0.02047,Cortex 
+GTEX-11ZVC-0011-R1b-SM-5BC6M,0,Hippocampus 
+GTEX-11ZVC-0011-R3a-SM-5BC6V,0,Anterior cingulate cortex (BA24) 
+GTEX-11ZVC-0011-R4a-SM-5BC6Z,0,Amygdala 
+GTEX-11ZVC-0011-R9a-SM-57WC5,0,Spinal cord (cervical c-1) 
+GTEX-11ZVC-3026-SM-59HJM,0,Cerebellum 
+GTEX-12126-0011-R10b-SM-5BC6T,0.02101,Frontal Cortex (BA9) 
+GTEX-12126-0011-R11a-SM-5BC6X,0.03362,Cerebellar Hemisphere 
+GTEX-12126-0011-R9b-SM-5BC6P,0,Spinal cord (cervical c-1) 
+GTEX-12126-0926-SM-5FQTW,0,Cerebellum 
+GTEX-12126-1026-SM-5P9JJ,0.03046,Cortex 
+GTEX-1212Z-0011-R1b-SM-5BC72,0.0216,Hippocampus 
+GTEX-12584-0011-R6a-SM-5NQ7C,0,Nucleus accumbens (basal ganglia) 
+GTEX-1269C-3126-SM-5EGI6,0,Cerebellum 
+GTEX-12WSA-0011-R10b-SM-5P9ET,0,Frontal Cortex (BA9) 
+GTEX-12WSA-0011-R2a-SM-57WDK,0.01789,Substantia nigra 
+GTEX-12WSA-0011-R4a-SM-57WB7,0.01509,Amygdala 
+GTEX-12WSA-0011-R5b-SM-5GU5I,0,Caudate (basal ganglia) 
+GTEX-12WSA-0011-R7b-SM-5GU5U,0.01902,Putamen (basal ganglia) 
+GTEX-12WSA-0011-R8a-SM-5P9EX,0.01024,Hypothalamus 
+GTEX-12WSA-2926-SM-5EQ4D,0.03227,Cortex 
+GTEX-12WSC-0011-R10a-SM-5GU57,0,Frontal Cortex (BA9) 
+GTEX-12WSC-0011-R11a-SM-5GU5J,0,Cerebellar Hemisphere 
+GTEX-12WSC-0011-R3a-SM-5P9F1,0.01057,Anterior cingulate cortex (BA24) 
+GTEX-12WSC-0011-R5b-SM-5CVNS,0,Caudate (basal ganglia) 
+GTEX-12WSC-0011-R6b-SM-5LU99,0,Nucleus accumbens (basal ganglia) 
+GTEX-12WSC-0011-R7b-SM-5LU9L,0,Putamen (basal ganglia) 
+GTEX-12WSC-0011-R9a-SM-5GU4U,0.09479,Spinal cord (cervical c-1) 
+GTEX-12WSC-2926-SM-5BC5Z,0,Cerebellum 
+GTEX-12WSC-3026-SM-5GCNF,0.0211,Cortex 
+GTEX-12WSD-0011-R11a-SM-9OSVC,0.03951,Cerebellar Hemisphere 
+GTEX-12WSD-0011-R1b-SM-5LZVY,0.03695,Hippocampus 
+GTEX-12WSD-0011-R2a-SM-5LZWB,0.01543,Substantia nigra 
+GTEX-12WSD-0011-R3b-SM-5LZWN,0.0347,Anterior cingulate cortex (BA24) 
+GTEX-12WSD-0011-R4b-SM-5LZUA,0,Amygdala 
+GTEX-12WSD-0011-R5b-SM-5CVNG,0,Caudate (basal ganglia) 
+GTEX-12WSD-0011-R6b-SM-5P9JU,0,Nucleus accumbens (basal ganglia) 
+GTEX-12WSD-0011-R7b-SM-5PNWE,0,Putamen (basal ganglia) 
+GTEX-12WSD-0011-R9a-SM-5GU6W,0,Spinal cord (cervical c-1) 
+GTEX-12WSD-3026-SM-5LZU7,0,Cerebellum 
+GTEX-12WSD-3126-SM-5HL7P,0,Cortex 
+GTEX-12WSE-0011-R10b-SM-5P9JV,0.01602,Frontal Cortex (BA9) 
+GTEX-12WSE-0011-R11b-SM-5P9JW,0.04733,Cerebellar Hemisphere 
+GTEX-12WSE-0011-R1b-SM-5GU4V,0.04011,Hippocampus 
+GTEX-12WSE-0011-R6b-SM-5LZV5,0.01617,Nucleus accumbens (basal ganglia) 
+GTEX-12WSE-0011-R7a-SM-5PNWF,0,Putamen (basal ganglia) 
+GTEX-12WSE-2926-SM-5RQJ9,0,Cerebellum 
+GTEX-12WSF-0011-R10a-SM-5LZVH,0,Frontal Cortex (BA9) 
+GTEX-12WSF-0011-R11a-SM-5LZVT,0.05293,Cerebellar Hemisphere 
+GTEX-12WSF-0011-R1a-SM-5DUVI,0,Hippocampus 
+GTEX-12WSF-0011-R2a-SM-5DUVU,0.01533,Substantia nigra 
+GTEX-12WSF-0011-R3a-SM-5DUW7,0.03671,Anterior cingulate cortex (BA24) 
+GTEX-12WSF-0011-R4b-SM-5HL88,0,Amygdala 
+GTEX-12WSF-0011-R5a-SM-5HL8K,0,Caudate (basal ganglia) 
+GTEX-12WSF-0011-R6b-SM-5HL8W,0,Nucleus accumbens (basal ganglia) 
+GTEX-12WSF-0011-R7b-SM-5HL99,0,Putamen (basal ganglia) 
+GTEX-12WSF-3126-SM-6M478,0,Cortex 
+GTEX-12WSH-0011-R10a-SM-5LZUS,0,Frontal Cortex (BA9) 
+GTEX-12WSH-0011-R11a-SM-5LZVM,0.03152,Cerebellar Hemisphere 
+GTEX-12WSH-0011-R1a-SM-5GU5V,0,Hippocampus 
+GTEX-12WSH-0011-R2a-SM-5GU68,0,Substantia nigra 
+GTEX-12WSH-0011-R4a-SM-5GU6K,0.01996,Amygdala 
+GTEX-12WSH-0011-R5b-SM-5P9F3,0,Caudate (basal ganglia) 
+GTEX-12WSH-0011-R6b-SM-5P9F4,0,Nucleus accumbens (basal ganglia) 
+GTEX-12WSH-0011-R9b-SM-5LZUG,0.02745,Spinal cord (cervical c-1) 
+GTEX-12WSH-3026-SM-5CVNI,0.01848,Cortex 
+GTEX-12WSH-3126-SM-5LZW8,0,Cerebellum 
+GTEX-12WSI-0011-R11b-SM-5P9EZ,0,Cerebellar Hemisphere 
+GTEX-12WSI-0011-R7b-SM-5GU78,0.02348,Putamen (basal ganglia) 
+GTEX-12WSM-0011-R10a-SM-5DUWV,0,Frontal Cortex (BA9) 
+GTEX-12WSM-0011-R11a-SM-5DUX8,0,Cerebellar Hemisphere 
+GTEX-12WSM-0011-R1a-SM-5LZW6,0.02035,Hippocampus 
+GTEX-12WSM-0011-R3b-SM-5LZWI,0,Anterior cingulate cortex (BA24) 
+GTEX-12WSM-0011-R5a-SM-5EQ4Y,0.01783,Caudate (basal ganglia) 
+GTEX-12WSM-0011-R6b-SM-5EQ6N,0,Nucleus accumbens (basal ganglia) 
+GTEX-12WSM-0011-R7b-SM-5EGLD,0,Putamen (basal ganglia) 
+GTEX-12WSM-0011-R8a-SM-5DUWJ,0,Hypothalamus 
+GTEX-12WSM-2126-SM-5GCOC,0,Cerebellum 
+GTEX-12ZZW-0011-R10b-SM-5HL9X,0,Frontal Cortex (BA9) 
+GTEX-12ZZW-0011-R3a-SM-5DUWW,0,Anterior cingulate cortex (BA24) 
+GTEX-12ZZW-0011-R4a-SM-5DUX9,0,Amygdala 
+GTEX-12ZZW-0011-R5a-SM-5DUVN,0,Caudate (basal ganglia) 
+GTEX-12ZZW-0011-R6a-SM-5DUVZ,0.01761,Nucleus accumbens (basal ganglia) 
+GTEX-12ZZW-0011-R7a-SM-5DUWC,0,Putamen (basal ganglia) 
+GTEX-12ZZW-2926-SM-5LZUP,0,Cortex 
+GTEX-12ZZX-0011-R10b-SM-5DUWK,0.0251,Frontal Cortex (BA9) 
+GTEX-12ZZX-0011-R11a-SM-5DUVJ,0,Cerebellar Hemisphere 
+GTEX-12ZZX-0011-R1a-SM-5EQ6B,0,Hippocampus 
+GTEX-12ZZX-0011-R2a-SM-5EGLG,0.02004,Substantia nigra 
+GTEX-12ZZX-0011-R3b-SM-5EGLH,0.01836,Anterior cingulate cortex (BA24) 
+GTEX-12ZZX-0011-R5a-SM-5HL89,0.01426,Caudate (basal ganglia) 
+GTEX-12ZZX-0011-R6a-SM-5HL8L,0,Nucleus accumbens (basal ganglia) 
+GTEX-12ZZX-0011-R7b-SM-5DUVV,0,Putamen (basal ganglia) 
+GTEX-12ZZX-0011-R8a-SM-5DUW8,0,Hypothalamus 
+GTEX-12ZZX-2826-SM-5BC6K,0.032,Cerebellum 
+GTEX-12ZZX-2926-SM-5GCOQ,0,Cortex 
+GTEX-12ZZY-0011-R10b-SM-5HL7W,0,Frontal Cortex (BA9) 
+GTEX-12ZZY-0011-R5a-SM-5EGL9,0,Caudate (basal ganglia) 
+GTEX-12ZZY-0011-R6b-SM-5EGLA,0.01824,Nucleus accumbens (basal ganglia) 
+GTEX-12ZZY-0011-R7a-SM-5EGLB,0,Putamen (basal ganglia) 
+GTEX-12ZZY-2926-SM-5DUXO,0.03419,Cerebellum 
+GTEX-12ZZY-3026-SM-5GCOU,0.05319,Cortex 
+GTEX-12ZZZ-0011-R10a-SM-5P9HC,0.01326,Frontal Cortex (BA9) 
+GTEX-12ZZZ-0011-R11a-SM-5EGLC,0.01294,Cerebellar Hemisphere 
+GTEX-12ZZZ-0011-R3b-SM-5DUXK,0.01763,Anterior cingulate cortex (BA24) 
+GTEX-12ZZZ-0011-R4b-SM-5DUV7,0,Amygdala 
+GTEX-12ZZZ-0011-R5a-SM-5EQ4M,0,Caudate (basal ganglia) 
+GTEX-12ZZZ-0011-R6b-SM-5EQ5B,0.03278,Nucleus accumbens (basal ganglia) 
+GTEX-12ZZZ-0011-R7b-SM-5EGLE,0.01578,Putamen (basal ganglia) 
+GTEX-12ZZZ-3026-SM-5BC67,0.02618,Cortex 
+GTEX-12ZZZ-3126-SM-5LZU6,0,Cerebellum 
+GTEX-13112-0011-R1b-SM-5HL7K,0.0137,Hippocampus 
+GTEX-13112-0011-R3b-SM-5HL9L,0,Anterior cingulate cortex (BA24) 
+GTEX-13112-0011-R4b-SM-5DUXL,0,Amygdala 
+GTEX-13112-0011-R5b-SM-5DUV8,0,Caudate (basal ganglia) 
+GTEX-13112-0011-R6b-SM-5DUVK,0,Nucleus accumbens (basal ganglia) 
+GTEX-13112-0011-R7b-SM-5DUVW,0,Putamen (basal ganglia) 
+GTEX-13112-0011-R8b-SM-664OV,0,Hypothalamus 
+GTEX-13112-2926-SM-5DUWT,0,Cerebellum 
+GTEX-1313W-0011-R10b-SM-5DUXA,0,Frontal Cortex (BA9) 
+GTEX-1313W-0011-R11a-SM-5DUXN,0.06734,Cerebellar Hemisphere 
+GTEX-1313W-0011-R1b-SM-5EQ4A,0,Hippocampus 
+GTEX-1313W-0011-R2a-SM-5EGLF,0,Substantia nigra 
+GTEX-1313W-0011-R3a-SM-5EGLI,0,Anterior cingulate cortex (BA24) 
+GTEX-1313W-0011-R4b-SM-5KLZV,0.03167,Amygdala 
+GTEX-1313W-0011-R5b-SM-5L3EP,0,Caudate (basal ganglia) 
+GTEX-1313W-0011-R6a-SM-5K7XO,0.04668,Nucleus accumbens (basal ganglia) 
+GTEX-1313W-0011-R7b-SM-5DUWL,0,Putamen (basal ganglia) 
+GTEX-1313W-0011-R8a-SM-5DUVM,0.02083,Hypothalamus 
+GTEX-1313W-3026-SM-5LZUZ,0,Cerebellum 
+GTEX-1313W-3126-SM-5LZUI,0,Cortex 
+GTEX-131XH-0011-R10a-SM-5EGLJ,0,Frontal Cortex (BA9) 
+GTEX-131XH-0011-R11a-SM-5EGLN,0,Cerebellar Hemisphere 
+GTEX-131XH-0011-R1a-SM-5DUWA,0,Hippocampus 
+GTEX-131XH-0011-R2b-SM-5DUVY,0,Substantia nigra 
+GTEX-131XH-0011-R3b-SM-5DUWM,0,Anterior cingulate cortex (BA24) 
+GTEX-131XH-0011-R4b-SM-5DUWB,0,Amygdala 
+GTEX-131XH-0011-R6a-SM-5KM2G,0.04341,Nucleus accumbens (basal ganglia) 
+GTEX-131XH-0011-R8a-SM-5EGLL,0,Hypothalamus 
+GTEX-131XH-2926-SM-5LZU4,0,Cerebellum 
+GTEX-131XW-0011-R10a-SM-5DUVA,0,Frontal Cortex (BA9) 
+GTEX-131XW-0011-R11a-SM-5DUV9,0.01788,Cerebellar Hemisphere 
+GTEX-131XW-0011-R6b-SM-5K7XY,0,Nucleus accumbens (basal ganglia) 
+GTEX-131XW-0011-R8a-SM-5DUWY,0,Hypothalamus 
+GTEX-131XW-0011-R9a-SM-5N9EO,0,Spinal cord (cervical c-1) 
+GTEX-131XW-3126-SM-5LZUC,0,Cortex 
+GTEX-131YS-0011-R10b-SM-5EQ5N,0,Frontal Cortex (BA9) 
+GTEX-131YS-0011-R11b-SM-5EGLM,0.07008,Cerebellar Hemisphere 
+GTEX-131YS-0011-R1a-SM-5DUXC,0,Hippocampus 
+GTEX-131YS-0011-R3b-SM-5DUXB,0,Anterior cingulate cortex (BA24) 
+GTEX-131YS-0011-R4a-SM-5DUVL,0.04855,Amygdala 
+GTEX-131YS-0011-R5b-SM-5K7YB,0,Caudate (basal ganglia) 
+GTEX-131YS-0011-R7a-SM-5IJDA,0,Putamen (basal ganglia) 
+GTEX-131YS-0011-R9b-SM-5EQLY,0.02368,Spinal cord (cervical c-1) 
+GTEX-131YS-3026-SM-5EGHY,0.06057,Cerebellum 
+GTEX-131YS-3126-SM-5KLYT,0.01902,Cortex 
+GTEX-132Q8-0011-R10b-SM-5DUWZ,0.02919,Frontal Cortex (BA9) 
+GTEX-132Q8-0011-R11b-SM-5DUW9,0.04926,Cerebellar Hemisphere 
+GTEX-132Q8-0011-R1a-SM-5EGLK,0,Hippocampus 
+GTEX-132Q8-0011-R2b-SM-5EQ5Z,0.044,Substantia nigra 
+GTEX-132Q8-0011-R5a-SM-5IJDM,0,Caudate (basal ganglia) 
+GTEX-132Q8-0011-R6a-SM-5K7YN,0,Nucleus accumbens (basal ganglia) 
+GTEX-132Q8-0011-R7b-SM-5N9F1,0.005382,Putamen (basal ganglia) 
+GTEX-132Q8-0011-R8b-SM-5DUWX,0.01763,Hypothalamus 
+GTEX-132Q8-2926-SM-5IFFP,0,Cerebellum 
+GTEX-132Q8-3026-SM-5PNVG,0.0387,Cortex 
+GTEX-1399T-0011-R11a-SM-5J2O1,0,Cerebellar Hemisphere 
+GTEX-1399T-0011-R1b-SM-5DUWN,0.01876,Hippocampus 
+GTEX-1399T-0011-R2b-SM-5DUXM,0,Substantia nigra 
+GTEX-1399T-0011-R4b-SM-5DUVX,0,Amygdala 
+GTEX-1399T-0011-R5b-SM-5IJDK,0,Caudate (basal ganglia) 
+GTEX-1399T-0011-R6b-SM-5K7YL,0,Nucleus accumbens (basal ganglia) 
+GTEX-1399T-0011-R8b-SM-5IJD8,0,Hypothalamus 
+GTEX-1399T-3026-SM-5KLZC,0,Cortex 
+GTEX-1399T-3126-SM-5IJFS,0,Cerebellum 
+GTEX-139T4-0011-R9b-SM-5HL6S,0,Spinal cord (cervical c-1) 
+GTEX-139T8-0011-R1a-SM-5HL75,0.01451,Hippocampus 
+GTEX-139T8-0011-R3b-SM-5HL4R,0,Anterior cingulate cortex (BA24) 
+GTEX-139T8-0011-R4a-SM-5HL54,0,Amygdala 
+GTEX-139T8-0011-R5b-SM-5J1MO,0,Caudate (basal ganglia) 
+GTEX-139T8-1026-SM-5J2MC,0.01479,Cortex 
+GTEX-139TS-0011-R10a-SM-5K7TU,0.01318,Frontal Cortex (BA9) 
+GTEX-139TS-0011-R2b-SM-5J1MX,0,Substantia nigra 
+GTEX-139TS-0011-R5b-SM-5J2MZ,0.03052,Caudate (basal ganglia) 
+GTEX-139TS-0011-R6a-SM-5J2OB,0,Nucleus accumbens (basal ganglia) 
+GTEX-139TS-0011-R7a-SM-5K7X7,0,Putamen (basal ganglia) 
+GTEX-139TS-0011-R8a-SM-5J1NP,0.01088,Hypothalamus 
+GTEX-139TS-3126-SM-5LZWX,0,Cerebellum 
+GTEX-139TT-0011-R11b-SM-5LZV1,0,Cerebellar Hemisphere 
+GTEX-139TT-0011-R1a-SM-5LZVD,0,Hippocampus 
+GTEX-139TT-0011-R3b-SM-5K7VL,0,Anterior cingulate cortex (BA24) 
+GTEX-139TT-0011-R5b-SM-5K7W8,0.01338,Caudate (basal ganglia) 
+GTEX-139TT-0011-R6b-SM-5J2ON,0,Nucleus accumbens (basal ganglia) 
+GTEX-139TT-0011-R7b-SM-5J2MN,0,Putamen (basal ganglia) 
+GTEX-139TT-2626-SM-5LZUB,0,Cerebellum 
+GTEX-139TU-0011-R5b-SM-5L3E1,0,Caudate (basal ganglia) 
+GTEX-139UW-0011-R11a-SM-5IJGN,0.01703,Cerebellar Hemisphere 
+GTEX-139UW-0011-R9b-SM-5LZYT,0,Spinal cord (cervical c-1) 
+GTEX-13CF2-0011-R11b-SM-5LZXO,0,Cerebellar Hemisphere 
+GTEX-13CF2-0011-R1a-SM-5LZY1,0,Hippocampus 
+GTEX-13CF2-0011-R2a-SM-5L3DC,0,Substantia nigra 
+GTEX-13CF2-0011-R3b-SM-5LZZ6,0,Anterior cingulate cortex (BA24) 
+GTEX-13CF2-0011-R5a-SM-5LZWS,0,Caudate (basal ganglia) 
+GTEX-13CF2-0011-R7b-SM-5K7UV,0.01286,Putamen (basal ganglia) 
+GTEX-13CF2-0011-R8b-SM-5IJCX,0,Hypothalamus 
+GTEX-13CF2-3026-SM-5IFFX,0,Cerebellum 
+GTEX-13CIG-0011-R3b-SM-5K7XF,0,Anterior cingulate cortex (BA24) 
+GTEX-13CIG-0011-R5b-SM-5L3F2,0,Caudate (basal ganglia) 
+GTEX-13CIG-0011-R8b-SM-5LZX5,0.0238,Hypothalamus 
+GTEX-13CIG-0011-R9a-SM-5K7VU,0,Spinal cord (cervical c-1) 
+GTEX-13CZV-0011-R10b-SM-5LZYD,0,Frontal Cortex (BA9) 
+GTEX-13CZV-0011-R11b-SM-5N9FN,0,Cerebellar Hemisphere 
+GTEX-13CZV-0011-R3a-SM-5KM27,0.01792,Anterior cingulate cortex (BA24) 
+GTEX-13CZV-0011-R4b-SM-5J2NY,0.03963,Amygdala 
+GTEX-13CZV-0011-R5a-SM-5K7XA,0,Caudate (basal ganglia) 
+GTEX-13CZV-0011-R7b-SM-5LZXH,0.03224,Putamen (basal ganglia) 
+GTEX-13CZV-0011-R9a-SM-5LZXT,0,Spinal cord (cervical c-1) 
+GTEX-13FHO-0011-R10b-SM-5J2MM,0,Frontal Cortex (BA9) 
+GTEX-13FHO-0011-R11b-SM-5LZYQ,0,Cerebellar Hemisphere 
+GTEX-13FHO-0011-R1b-SM-5KLZG,0.03373,Hippocampus 
+GTEX-13FHO-0011-R3b-SM-5K7YA,0,Anterior cingulate cortex (BA24) 
+GTEX-13FHO-0011-R5b-SM-5LZZ3,0,Caudate (basal ganglia) 
+GTEX-13FHO-0011-R6b-SM-5LZX1,0.01556,Nucleus accumbens (basal ganglia) 
+GTEX-13FHO-0011-R7b-SM-5LZXD,0,Putamen (basal ganglia) 
+GTEX-13FHO-2926-SM-5L3ES,0,Cerebellum 
+GTEX-13FHO-3026-SM-5J1O9,0,Cortex 
+GTEX-13FHP-0011-R11b-SM-5LZXP,0.05939,Cerebellar Hemisphere 
+GTEX-13FHP-0011-R1b-SM-5K7XL,0.01587,Hippocampus 
+GTEX-13FHP-0011-R5b-SM-5LZY2,0,Caudate (basal ganglia) 
+GTEX-13FHP-0011-R6b-SM-5LZY6,0,Nucleus accumbens (basal ganglia) 
+GTEX-13FHP-0011-R7b-SM-5LZYI,0,Putamen (basal ganglia) 
+GTEX-13FHP-2926-SM-5IJG9,0.04881,Cerebellum 
+GTEX-13FHP-3026-SM-5IJBS,0,Cortex 
+GTEX-13FLV-0011-R10b-SM-5LZZ2,0,Frontal Cortex (BA9) 
+GTEX-13FLV-0011-R11a-SM-5LZZ7,0.1561,Cerebellar Hemisphere 
+GTEX-13FLV-0011-R3b-SM-5LZYP,0,Anterior cingulate cortex (BA24) 
+GTEX-13FLV-0011-R4a-SM-5LZYU,0.02194,Amygdala 
+GTEX-13FLV-0011-R5a-SM-5LZWT,0.01912,Caudate (basal ganglia) 
+GTEX-13FLV-0011-R6a-SM-5KLZ4,0.01845,Nucleus accumbens (basal ganglia) 
+GTEX-13FLV-0011-R7b-SM-5K7WW,0.04016,Putamen (basal ganglia) 
+GTEX-13FLV-0011-R8a-SM-5LZZE,0,Hypothalamus 
+GTEX-13FLV-0011-R9b-SM-5L3DA,0.02021,Spinal cord (cervical c-1) 
+GTEX-13FLW-0011-R10b-SM-5LZZF,0,Frontal Cortex (BA9) 
+GTEX-13FLW-0011-R1b-SM-5LZX2,0,Hippocampus 
+GTEX-13FLW-0011-R5a-SM-5LZX6,0,Caudate (basal ganglia) 
+GTEX-13FLW-0011-R6b-SM-5L3EN,0,Nucleus accumbens (basal ganglia) 
+GTEX-13FLW-0011-R7b-SM-5L3EZ,0.01901,Putamen (basal ganglia) 
+GTEX-13FLW-0011-R8b-SM-5J1MZ,0.01338,Hypothalamus 
+GTEX-13FLW-1426-SM-5K7YE,0,Cortex 
+GTEX-13FTY-0011-R11a-SM-5IJEA,0,Cerebellar Hemisphere 
+GTEX-13FTY-0011-R1a-SM-5LZXE,0,Hippocampus 
+GTEX-13FTY-0011-R9b-SM-5KM2U,0.01855,Spinal cord (cervical c-1) 
+GTEX-13FTZ-0011-R10b-SM-5KLZS,0,Frontal Cortex (BA9) 
+GTEX-13FXS-0011-R10a-SM-5J2MA,0.01467,Frontal Cortex (BA9) 
+GTEX-13FXS-0011-R11a-SM-5L3DM,0,Cerebellar Hemisphere 
+GTEX-13FXS-0011-R1a-SM-5K7U6,0,Hippocampus 
+GTEX-13FXS-0011-R2b-SM-5K7XX,0.01415,Substantia nigra 
+GTEX-13FXS-0011-R5b-SM-5LZYE,0.02138,Caudate (basal ganglia) 
+GTEX-13FXS-0011-R6b-SM-5L3F7,0.01992,Nucleus accumbens (basal ganglia) 
+GTEX-13FXS-0011-R7a-SM-5L3FC,0,Putamen (basal ganglia) 
+GTEX-13FXS-0011-R8a-SM-5J1MN,0,Hypothalamus 
+GTEX-13FXS-0011-R9a-SM-5K7UI,0,Spinal cord (cervical c-1) 
+GTEX-13FXS-3026-SM-5LZYO,0.1053,Cerebellum 
+GTEX-13FXS-3126-SM-5J2NN,0,Cortex 
+GTEX-13G51-0011-R10b-SM-5LZYF,0,Frontal Cortex (BA9) 
+GTEX-13G51-0011-R11b-SM-5J2NE,0,Cerebellar Hemisphere 
+GTEX-13G51-0011-R1a-SM-5LZYR,0,Hippocampus 
+GTEX-13G51-0011-R2b-SM-5LZXS,0,Substantia nigra 
+GTEX-13G51-0011-R5a-SM-5L3EB,0,Caudate (basal ganglia) 
+GTEX-13G51-0011-R6b-SM-5LZX4,0,Nucleus accumbens (basal ganglia) 
+GTEX-13G51-0011-R7b-SM-5LZXG,0,Putamen (basal ganglia) 
+GTEX-13G51-0011-R8b-SM-5LZZ4,0.01603,Hypothalamus 
+GTEX-13G51-3026-SM-5IJB8,0.04629,Cortex 
+GTEX-13G51-3126-SM-5IJG7,0.0475,Cerebellum 
+GTEX-13IVO-0011-R10a-SM-5LZY3,0,Frontal Cortex (BA9) 
+GTEX-13IVO-0011-R3b-SM-5IJBJ,0,Anterior cingulate cortex (BA24) 
+GTEX-13IVO-0011-R6b-SM-5K7X9,0.01085,Nucleus accumbens (basal ganglia) 
+GTEX-13IVO-0011-R8a-SM-5L3DY,0,Hypothalamus 
+GTEX-13IVO-2926-SM-5L3CZ,0.02114,Cortex 
+GTEX-13JUV-0011-R10b-SM-5LZXR,0,Frontal Cortex (BA9) 
+GTEX-13JUV-0011-R11a-SM-5LZYH,0.06219,Cerebellar Hemisphere 
+GTEX-13JUV-0011-R1a-SM-5LZY4,0,Hippocampus 
+GTEX-13JUV-0011-R5a-SM-5LZY5,0,Caudate (basal ganglia) 
+GTEX-13JUV-0011-R6b-SM-5LZYG,0,Nucleus accumbens (basal ganglia) 
+GTEX-13JUV-0011-R7b-SM-5LZZG,0.0338,Putamen (basal ganglia) 
+GTEX-13JUV-0011-R9a-SM-5LZX3,0,Spinal cord (cervical c-1) 
+GTEX-13JUV-2926-SM-5LZX7,0,Cortex 
+GTEX-13JUV-3026-SM-5K7WX,0,Cerebellum 
+GTEX-13JVG-0011-R10b-SM-5KM2P,0,Frontal Cortex (BA9) 
+GTEX-13JVG-0011-R11a-SM-5KM53,0,Cerebellar Hemisphere 
+GTEX-13JVG-0011-R1a-SM-5KM32,0,Hippocampus 
+GTEX-13JVG-0011-R3b-SM-5LZXF,0,Anterior cingulate cortex (BA24) 
+GTEX-13JVG-0011-R4a-SM-5MR4C,0.01569,Amygdala 
+GTEX-13JVG-0011-R5a-SM-5MR4O,0,Caudate (basal ganglia) 
+GTEX-13JVG-0011-R6a-SM-5MR3E,0,Nucleus accumbens (basal ganglia) 
+GTEX-13JVG-0011-R7b-SM-5MR3Q,0,Putamen (basal ganglia) 
+GTEX-13JVG-0011-R8a-SM-5KM3E,0,Hypothalamus 
+GTEX-13JVG-3126-SM-5L3FH,0,Cortex 
+GTEX-13JVG-3226-SM-5IJGJ,0,Cerebellum 
+GTEX-13N1W-0011-R10b-SM-5MR4H,0,Frontal Cortex (BA9) 
+GTEX-13N1W-0011-R1b-SM-5MR4T,0.02319,Hippocampus 
+GTEX-13N1W-0011-R3a-SM-5MR5E,0.09287,Anterior cingulate cortex (BA24) 
+GTEX-13N1W-0011-R4a-SM-5MR52,0,Amygdala 
+GTEX-13N1W-0011-R5b-SM-5MR5Q,0.01874,Caudate (basal ganglia) 
+GTEX-13N1W-0011-R6a-SM-5MR43,0,Nucleus accumbens (basal ganglia) 
+GTEX-13N1W-0011-R7b-SM-5MR4F,0.06975,Putamen (basal ganglia) 
+GTEX-13N1W-0011-R8a-SM-5MR56,0.03563,Hypothalamus 
+GTEX-13N1W-0011-R9b-SM-5MR4R,0,Spinal cord (cervical c-1) 
+GTEX-13N2G-0011-R10a-SM-5MR34,0,Frontal Cortex (BA9) 
+GTEX-13N2G-0011-R11a-SM-5MR3F,0,Cerebellar Hemisphere 
+GTEX-13N2G-0011-R1b-SM-5MR3G,0.01732,Hippocampus 
+GTEX-13N2G-0011-R2a-SM-5MR4Q,0.01884,Substantia nigra 
+GTEX-13N2G-0011-R3b-SM-5MR5G,0,Anterior cingulate cortex (BA24) 
+GTEX-13N2G-0011-R4b-SM-5MR54,0.01924,Amygdala 
+GTEX-13N2G-0011-R6b-SM-5MR3P,0.01771,Nucleus accumbens (basal ganglia) 
+GTEX-13N2G-0011-R7a-SM-5MR42,0,Putamen (basal ganglia) 
+GTEX-13N2G-0011-R9b-SM-5MR4E,0,Spinal cord (cervical c-1) 
+GTEX-13N2G-3126-SM-5IJGL,0,Cerebellum 
+GTEX-13NYB-0011-R10a-SM-5KM43,0,Frontal Cortex (BA9) 
+GTEX-13NYB-0011-R11a-SM-5KM3Q,0,Cerebellar Hemisphere 
+GTEX-13NYB-0011-R1b-SM-5KM4F,0,Hippocampus 
+GTEX-13NYB-0011-R2a-SM-5MR3C,0,Substantia nigra 
+GTEX-13NYB-0011-R3b-SM-A9SM4,0,Anterior cingulate cortex (BA24) 
+GTEX-13NYB-0011-R4b-SM-9QEGJ,0.01774,Amygdala 
+GTEX-13NYB-0011-R5a-SM-5MR45,0,Caudate (basal ganglia) 
+GTEX-13NYB-0011-R6b-SM-5MR51,0,Nucleus accumbens (basal ganglia) 
+GTEX-13NYB-0011-R7a-SM-5MR5D,0.03215,Putamen (basal ganglia) 
+GTEX-13NYB-0011-R8a-SM-5KM4R,0,Hypothalamus 
+GTEX-13NYB-0011-R9b-SM-5MR5P,0.03566,Spinal cord (cervical c-1) 
+GTEX-13NYB-3026-SM-5IJD7,0,Cortex 
+GTEX-13NYB-3226-SM-5J2ND,0.03486,Cerebellum 
+GTEX-13NYC-2826-SM-5K7WR,0,Cortex 
+GTEX-13NYS-0011-R10a-SM-5MR4S,0.02318,Frontal Cortex (BA9) 
+GTEX-13NYS-0011-R11b-SM-5MR4P,0.03147,Cerebellar Hemisphere 
+GTEX-13NYS-0011-R1b-SM-5MR55,0,Hippocampus 
+GTEX-13NYS-0011-R2b-SM-5MR4G,0,Substantia nigra 
+GTEX-13NYS-0011-R3b-SM-5MR41,0,Anterior cingulate cortex (BA24) 
+GTEX-13NYS-0011-R4b-SM-5MR3O,0.02469,Amygdala 
+GTEX-13NYS-0011-R5a-SM-5MR4D,0,Caudate (basal ganglia) 
+GTEX-13NYS-0011-R6b-SM-5MR3R,0,Nucleus accumbens (basal ganglia) 
+GTEX-13NYS-0011-R8a-SM-5MR5H,0.01692,Hypothalamus 
+GTEX-13NYS-0011-R9b-SM-5MR44,0,Spinal cord (cervical c-1) 
+GTEX-13NYS-3126-SM-5KLYV,0,Cortex 
+GTEX-13NZ8-0011-R1b-SM-5KM3V,0.06016,Hippocampus 
+GTEX-13NZ8-0011-R8b-SM-5KM48,0,Hypothalamus 
+GTEX-13NZA-0011-R10b-SM-5KM54,0.02722,Frontal Cortex (BA9) 
+GTEX-13NZA-0011-R11b-SM-5KM4W,0,Cerebellar Hemisphere 
+GTEX-13NZA-0011-R1b-SM-5LUAF,0,Hippocampus 
+GTEX-13NZA-0011-R5b-SM-5KM4K,0.01379,Caudate (basal ganglia) 
+GTEX-13NZA-0011-R8b-SM-5KM2Q,0,Hypothalamus 
+GTEX-13NZA-0011-R9b-SM-5MR5I,0,Spinal cord (cervical c-1) 
+GTEX-13O1R-0011-R9b-SM-5KM33,0.01403,Spinal cord (cervical c-1) 
+GTEX-13O3O-0011-R10a-SM-5LUA9,0,Frontal Cortex (BA9) 
+GTEX-13O3O-0011-R11b-SM-5KM4G,0.02985,Cerebellar Hemisphere 
+GTEX-13O3O-0011-R1b-SM-5KM2K,0,Hippocampus 
+GTEX-13O3O-0011-R2b-SM-5P9H1,0.03816,Substantia nigra 
+GTEX-13O3O-0011-R3b-SM-5KM3R,0,Anterior cingulate cortex (BA24) 
+GTEX-13O3O-0011-R4b-SM-5KM3F,0,Amygdala 
+GTEX-13O3O-0011-R5b-SM-5KM44,0.0173,Caudate (basal ganglia) 
+GTEX-13O3O-0011-R6b-SM-5P9GY,0.01415,Nucleus accumbens (basal ganglia) 
+GTEX-13O3O-0011-R7b-SM-5P9GZ,0.01246,Putamen (basal ganglia) 
+GTEX-13O3O-0011-R8b-SM-5LUAL,0,Hypothalamus 
+GTEX-13O3O-3026-SM-5KM42,0,Cerebellum 
+GTEX-13O3O-3126-SM-5KM3H,0,Cortex 
+GTEX-13O3Q-0011-R10b-SM-5KM39,0,Frontal Cortex (BA9) 
+GTEX-13O3Q-0011-R11b-SM-5KM2W,0,Cerebellar Hemisphere 
+GTEX-13O3Q-0011-R1b-SM-5KM3L,0.008569,Hippocampus 
+GTEX-13O3Q-0011-R2b-SM-5KM3K,0,Substantia nigra 
+GTEX-13O3Q-0011-R3a-SM-5P9H3,0,Anterior cingulate cortex (BA24) 
+GTEX-13O3Q-0011-R4a-SM-5P9H2,0.01508,Amygdala 
+GTEX-13O3Q-0011-R5b-SM-5P9H4,0,Caudate (basal ganglia) 
+GTEX-13O3Q-0011-R6a-SM-5KM2V,0.02174,Nucleus accumbens (basal ganglia) 
+GTEX-13O3Q-0011-R7a-SM-5KM38,0,Putamen (basal ganglia) 
+GTEX-13O3Q-0011-R8b-SM-5KM2J,0.01829,Hypothalamus 
+GTEX-13O3Q-2926-SM-5KM45,0.02079,Cortex 
+GTEX-13O3Q-3026-SM-5IJGD,0,Cerebellum 
+GTEX-13OVH-0011-R11b-SM-5KM4X,0,Cerebellar Hemisphere 
+GTEX-13OVH-0011-R3a-SM-5KM49,0,Anterior cingulate cortex (BA24) 
+GTEX-13OVH-0011-R4a-SM-5KM3W,0.01525,Amygdala 
+GTEX-13OVH-0011-R5b-SM-5KM4L,0.01881,Caudate (basal ganglia) 
+GTEX-13OVH-0011-R6b-SM-5LUAX,0.02139,Nucleus accumbens (basal ganglia) 
+GTEX-13OVH-0011-R8b-SM-5MR35,0,Hypothalamus 
+GTEX-13OVH-2926-SM-5IJFH,0,Cerebellum 
+GTEX-13OVH-3026-SM-5MR4N,0,Cortex 
+GTEX-13OVJ-0011-R10b-SM-5L3HT,0.02618,Frontal Cortex (BA9) 
+GTEX-13OVJ-0011-R11a-SM-5P9H8,0.126,Cerebellar Hemisphere 
+GTEX-13OVJ-0011-R1b-SM-5L3I6,0.04958,Hippocampus 
+GTEX-13OVJ-0011-R2b-SM-5L3GP,0.02165,Substantia nigra 
+GTEX-13OVJ-0011-R4b-SM-5P9H5,0,Amygdala 
+GTEX-13OVJ-0011-R5a-SM-5P9H7,0,Caudate (basal ganglia) 
+GTEX-13OVJ-0011-R6b-SM-5L3GH,0.0453,Nucleus accumbens (basal ganglia) 
+GTEX-13OVJ-0011-R7a-SM-5L3G1,0.04208,Putamen (basal ganglia) 
+GTEX-13OVJ-0011-R8b-SM-5L3FS,0,Hypothalamus 
+GTEX-13OVJ-0011-R9b-SM-5L3GD,0,Spinal cord (cervical c-1) 
+GTEX-13OVJ-2726-SM-5IJG6,0,Cerebellum 
+GTEX-13OVJ-2826-SM-5L3GW,0,Cortex 
+GTEX-13OVL-0011-R10a-SM-5L3GS,0,Frontal Cortex (BA9) 
+GTEX-13OVL-0011-R11b-SM-5L3G7,0,Cerebellar Hemisphere 
+GTEX-13OVL-0011-R1a-SM-5L3H5,0.02207,Hippocampus 
+GTEX-13OVL-0011-R3b-SM-5L3I8,0.04034,Anterior cingulate cortex (BA24) 
+GTEX-13OVL-0011-R4b-SM-5L3HV,0,Amygdala 
+GTEX-13OVL-0011-R5b-SM-5L3FU,0,Caudate (basal ganglia) 
+GTEX-13OVL-0011-R6a-SM-5L3G4,0,Nucleus accumbens (basal ganglia) 
+GTEX-13OVL-0011-R7a-SM-5P9GW,0,Putamen (basal ganglia) 
+GTEX-13OVL-0011-R8a-SM-5L3HH,0.01703,Hypothalamus 
+GTEX-13OVL-0011-R9a-SM-5P9GX,0.01879,Spinal cord (cervical c-1) 
+GTEX-13OVL-3026-SM-5IJF1,0.02542,Cerebellum 
+GTEX-13OW5-0011-R11b-SM-5L3GG,0,Cerebellar Hemisphere 
+GTEX-13OW5-0011-R1b-SM-5L3GE,0,Hippocampus 
+GTEX-13OW5-0011-R3a-SM-5L3I5,0,Anterior cingulate cortex (BA24) 
+GTEX-13OW5-0011-R4b-SM-5L3HS,0.01844,Amygdala 
+GTEX-13OW5-0011-R5b-SM-5L3FR,0,Caudate (basal ganglia) 
+GTEX-13OW5-0011-R6b-SM-5O9BW,0.01009,Nucleus accumbens (basal ganglia) 
+GTEX-13OW5-0011-R7a-SM-5O9C9,0.01044,Putamen (basal ganglia) 
+GTEX-13OW5-0011-R8a-SM-5L3GQ,0,Hypothalamus 
+GTEX-13OW5-0011-R9b-SM-5O9CL,0,Spinal cord (cervical c-1) 
+GTEX-13OW5-3126-SM-5MR3Y,0.02297,Cerebellum 
+GTEX-13OW6-0011-R10a-SM-5L3HE,0,Frontal Cortex (BA9) 
+GTEX-13OW6-0011-R11a-SM-5L3H2,0.08416,Cerebellar Hemisphere 
+GTEX-13OW6-0011-R1a-SM-5L3HQ,0.02366,Hippocampus 
+GTEX-13OW6-0011-R2a-SM-5L3HG,0.02458,Substantia nigra 
+GTEX-13OW6-0011-R4a-SM-5O9DX,0.02148,Amygdala 
+GTEX-13OW6-0011-R5a-SM-5O9BK,0,Caudate (basal ganglia) 
+GTEX-13OW6-0011-R6b-SM-5L3GR,0,Nucleus accumbens (basal ganglia) 
+GTEX-13OW6-0011-R7b-SM-5L3H4,0,Putamen (basal ganglia) 
+GTEX-13OW6-0011-R8a-SM-5L3GF,0,Hypothalamus 
+GTEX-13OW6-2926-SM-5KM29,0.0335,Cerebellum 
+GTEX-13OW6-3026-SM-5J2MI,0,Cortex 
+GTEX-13OW7-0011-R10a-SM-5L3H3,0.02007,Frontal Cortex (BA9) 
+GTEX-13OW7-0011-R11a-SM-5O9DY,0,Cerebellar Hemisphere 
+GTEX-13OW7-0011-R1b-SM-5L3HF,0,Hippocampus 
+GTEX-13OW7-0011-R3a-SM-5O9DA,0,Anterior cingulate cortex (BA24) 
+GTEX-13OW7-0011-R4b-SM-5O9CX,0,Amygdala 
+GTEX-13OW7-0011-R5b-SM-5O9DM,0,Caudate (basal ganglia) 
+GTEX-13OW7-0011-R8b-SM-5L3HR,0,Hypothalamus 
+GTEX-13OW7-2926-SM-5MR3Z,0,Cerebellum 
+GTEX-13OW7-3026-SM-5L3GY,0,Cortex 
+GTEX-13OW8-0011-R10a-SM-5L3H6,0.02221,Frontal Cortex (BA9) 
+GTEX-13OW8-0011-R11a-SM-5L3GT,0,Cerebellar Hemisphere 
+GTEX-13OW8-0011-R1a-SM-5L3HI,0,Hippocampus 
+GTEX-13OW8-0011-R2a-SM-5L3G2,0.03252,Substantia nigra 
+GTEX-13OW8-0011-R3a-SM-5L3I4,0.01852,Anterior cingulate cortex (BA24) 
+GTEX-13OW8-0011-R4a-SM-9WG6V,0,Amygdala 
+GTEX-13OW8-0011-R5b-SM-5L3FQ,0.01854,Caudate (basal ganglia) 
+GTEX-13OW8-0011-R6b-SM-5L3I3,0.0161,Nucleus accumbens (basal ganglia) 
+GTEX-13OW8-0011-R7a-SM-5L3FP,0,Putamen (basal ganglia) 
+GTEX-13OW8-0011-R8a-SM-5L3G5,0.01467,Hypothalamus 
+GTEX-13OW8-2826-SM-5L3GC,0,Cortex 
+GTEX-13OW8-2926-SM-5L3FV,0.02552,Cerebellum 
+GTEX-13PDP-0011-R1a-SM-5PNX5,0.01066,Hippocampus 
+GTEX-13PDP-0011-R2b-SM-5O9DH,0,Substantia nigra 
+GTEX-13PDP-0011-R6b-SM-5O9D5,0.01042,Nucleus accumbens (basal ganglia) 
+GTEX-13PDP-0011-R8b-SM-5O9CS,0,Hypothalamus 
+GTEX-13PL6-0011-R5b-SM-5O9BI,0.01806,Caudate (basal ganglia) 
+GTEX-13PL6-0011-R6a-SM-5O9C5,0,Nucleus accumbens (basal ganglia) 
+GTEX-13PL6-0011-R9b-SM-5O9CH,0.02258,Spinal cord (cervical c-1) 
+GTEX-13PL6-3126-SM-5LUAR,0,Cortex 
+GTEX-13PLJ-0011-R11b-SM-5O9BS,0,Cerebellar Hemisphere 
+GTEX-13PLJ-0011-R3a-SM-5O9DT,0,Anterior cingulate cortex (BA24) 
+GTEX-13PLJ-0011-R5a-SM-5O9BG,0.009389,Caudate (basal ganglia) 
+GTEX-13PLJ-0011-R9b-SM-5O9DV,0.02057,Spinal cord (cervical c-1) 
+GTEX-13PVQ-0011-R11a-SM-5O9DU,0,Cerebellar Hemisphere 
+GTEX-13PVQ-0011-R3b-SM-5O9D6,0.01083,Anterior cingulate cortex (BA24) 
+GTEX-13PVQ-0011-R4a-SM-5O9CT,0.01134,Amygdala 
+GTEX-13PVQ-0011-R5b-SM-5O9DI,0,Caudate (basal ganglia) 
+GTEX-13PVQ-0011-R7a-SM-5L3G3,0,Putamen (basal ganglia) 
+GTEX-13PVQ-0011-R9b-SM-5LU3B,0,Spinal cord (cervical c-1) 
+GTEX-13PVQ-2926-SM-5L3HJ,0,Cerebellum 
+GTEX-13PVQ-3026-SM-5SI93,0,Cortex 
+GTEX-13QIC-0011-R10a-SM-5O9C7,0.01494,Frontal Cortex (BA9) 
+GTEX-13QIC-0011-R11b-SM-5O9BU,0,Cerebellar Hemisphere 
+GTEX-13QIC-0011-R1a-SM-5O9CJ,0,Hippocampus 
+GTEX-13QIC-0011-R3a-SM-5P9HT,0.01453,Anterior cingulate cortex (BA24) 
+GTEX-13QIC-0011-R4a-SM-5PNX8,0,Amygdala 
+GTEX-13QIC-0011-R8b-SM-5O9CV,0,Hypothalamus 
+GTEX-13QIC-2926-SM-5J2NF,0.03695,Cortex 
+GTEX-13QIC-3026-SM-5LU58,0,Cerebellum 
+GTEX-13QJC-0011-R10a-SM-5SI63,0.01896,Frontal Cortex (BA9) 
+GTEX-13QJC-0011-R1b-SM-5S2UU,0.01629,Hippocampus 
+GTEX-13QJC-0011-R2b-SM-5PNUN,0,Substantia nigra 
+GTEX-13QJC-0011-R6a-SM-5S2VI,0.01523,Nucleus accumbens (basal ganglia) 
+GTEX-13QJC-0011-R7b-SM-5PNUM,0,Putamen (basal ganglia) 
+GTEX-13QJC-0011-R8b-SM-5S2U6,0,Hypothalamus 
+GTEX-13QJC-0011-R9b-SM-5PNX3,0.04072,Spinal cord (cervical c-1) 
+GTEX-13RTJ-0011-R10b-SM-5O9CW,0.01669,Frontal Cortex (BA9) 
+GTEX-13RTJ-0011-R11a-SM-5O9CK,0.02115,Cerebellar Hemisphere 
+GTEX-13RTJ-0011-R1a-SM-5O9D9,0.01825,Hippocampus 
+GTEX-13RTJ-0011-R2a-SM-5PNW9,0,Substantia nigra 
+GTEX-13RTJ-0011-R3a-SM-5PNX7,0,Anterior cingulate cortex (BA24) 
+GTEX-13RTJ-0011-R4b-SM-5PNX1,0,Amygdala 
+GTEX-13RTJ-0011-R5a-SM-5P9HR,0.03936,Caudate (basal ganglia) 
+GTEX-13RTJ-0011-R6a-SM-5SI74,0,Nucleus accumbens (basal ganglia) 
+GTEX-13RTJ-0011-R7b-SM-5P9JS,0,Putamen (basal ganglia) 
+GTEX-13RTJ-0011-R8b-SM-5O9DL,0,Hypothalamus 
+GTEX-13RTJ-0011-R9a-SM-5Q5AY,0,Spinal cord (cervical c-1) 
+GTEX-13RTJ-3126-SM-5S2Q4,0.1129,Cerebellum 
+GTEX-13RTL-0011-R1a-SM-5PNZ8,0.02101,Hippocampus 
+GTEX-13RTL-0011-R3a-SM-5P9JP,0.02112,Anterior cingulate cortex (BA24) 
+GTEX-13S7M-0011-R10b-SM-5PNZB,0.01611,Frontal Cortex (BA9) 
+GTEX-13S7M-0011-R11b-SM-5P9HU,0,Cerebellar Hemisphere 
+GTEX-13S7M-0011-R1b-SM-5PNZE,0.01256,Hippocampus 
+GTEX-13S7M-0011-R3a-SM-5PNX2,0.01117,Anterior cingulate cortex (BA24) 
+GTEX-13S7M-0011-R5b-SM-5P9HS,0,Caudate (basal ganglia) 
+GTEX-13S7M-0011-R6b-SM-5O9D8,0.01044,Nucleus accumbens (basal ganglia) 
+GTEX-13S7M-0011-R7a-SM-5O9DK,0.0109,Putamen (basal ganglia) 
+GTEX-13S7M-0011-R9a-SM-5O9DW,0.02739,Spinal cord (cervical c-1) 
+GTEX-13S7M-3026-SM-5S2QQ,0.04383,Cerebellum 
+GTEX-13S7M-3126-SM-5RQJQ,0,Cortex 
+GTEX-13SLW-0011-R10a-SM-5S2UI,0,Frontal Cortex (BA9) 
+GTEX-13SLW-0011-R11a-SM-5SI8Q,0,Cerebellar Hemisphere 
+GTEX-13SLW-0011-R1a-SM-5S2W7,0.01739,Hippocampus 
+GTEX-13SLW-0011-R2b-SM-5O9C6,0,Substantia nigra 
+GTEX-13SLW-0011-R3b-SM-5SI6Y,0,Anterior cingulate cortex (BA24) 
+GTEX-13SLW-0011-R4b-SM-5S2W2,0.01039,Amygdala 
+GTEX-13SLW-0011-R5b-SM-5SI6Z,0,Caudate (basal ganglia) 
+GTEX-13SLW-0011-R6a-SM-5O9BH,0.01717,Nucleus accumbens (basal ganglia) 
+GTEX-13SLW-0011-R8b-SM-5SI64,0,Hypothalamus 
+GTEX-13SLW-0011-R9a-SM-5O9BT,0.01334,Spinal cord (cervical c-1) 
+GTEX-13SLX-0011-R10a-SM-5P9HV,0.04322,Frontal Cortex (BA9) 
+GTEX-13SLX-0011-R11b-SM-5O9C8,0.057,Cerebellar Hemisphere 
+GTEX-13SLX-0011-R2b-SM-5S2VP,0,Substantia nigra 
+GTEX-13SLX-0011-R4a-SM-5O9BJ,0,Amygdala 
+GTEX-13SLX-0011-R5a-SM-5O9BV,0,Caudate (basal ganglia) 
+GTEX-13SLX-0011-R6a-SM-5PNX4,0,Nucleus accumbens (basal ganglia) 
+GTEX-13SLX-0011-R8b-SM-5PNWZ,0,Hypothalamus 
+GTEX-13SLX-0011-R9b-SM-5SI6X,0,Spinal cord (cervical c-1) 
+GTEX-13SLX-3126-SM-5S2Q5,0,Cortex 
+GTEX-13SLX-3226-SM-5YYA6,0.05043,Cerebellum 
+GTEX-13VXU-0011-R11b-SM-5O9DJ,0.02284,Cerebellar Hemisphere 
+GTEX-13VXU-0011-R3b-SM-5O9CU,0,Anterior cingulate cortex (BA24) 
+GTEX-13VXU-0011-R4b-SM-5O9CI,0,Amygdala 
+GTEX-13VXU-0011-R5a-SM-5O9D7,0,Caudate (basal ganglia) 
+GTEX-13VXU-0011-R6a-SM-5SI71,0,Nucleus accumbens (basal ganglia) 
+GTEX-13VXU-0011-R7b-SM-5SI72,0.01578,Putamen (basal ganglia) 
+GTEX-13VXU-0011-R9b-SM-5SI73,0,Spinal cord (cervical c-1) 
+GTEX-13VXU-2926-SM-5LU5C,0.02096,Cortex 
+GTEX-13VXU-3026-SM-5LU3K,0,Cerebellum 
+GTEX-13X6I-0011-R10a-SM-5PNWI,0,Frontal Cortex (BA9) 
+GTEX-13X6I-0011-R11a-SM-5P9HN,0.06993,Cerebellar Hemisphere 
+GTEX-13X6I-0011-R1b-SM-5PNZC,0,Hippocampus 
+GTEX-13X6I-0011-R2b-SM-5PNWQ,0.04546,Substantia nigra 
+GTEX-13X6I-0011-R3b-SM-5P9HM,0,Anterior cingulate cortex (BA24) 
+GTEX-13X6I-0011-R4b-SM-5PNU9,0,Amygdala 
+GTEX-13X6I-0011-R5a-SM-5PNWW,0,Caudate (basal ganglia) 
+GTEX-13X6I-0011-R7b-SM-5PNWP,0.02119,Putamen (basal ganglia) 
+GTEX-13X6I-0011-R8a-SM-5PNZF,0,Hypothalamus 
+GTEX-13X6I-0011-R9b-SM-5PNZJ,0,Spinal cord (cervical c-1) 
+GTEX-13X6I-2926-SM-5Q5C3,0.03692,Cerebellum 
+GTEX-13X6J-0011-R10b-SM-5PNWA,0,Frontal Cortex (BA9) 
+GTEX-13X6J-0011-R11a-SM-5P9HE,0.01545,Cerebellar Hemisphere 
+GTEX-13X6J-0011-R3b-SM-5P9K5,0,Anterior cingulate cortex (BA24) 
+GTEX-13X6J-0011-R4b-SM-5P9K4,0,Amygdala 
+GTEX-13X6J-0011-R5b-SM-5PNWT,0,Caudate (basal ganglia) 
+GTEX-13X6J-0011-R6a-SM-5PNUB,0,Nucleus accumbens (basal ganglia) 
+GTEX-13X6J-0011-R7b-SM-5PNUC,0,Putamen (basal ganglia) 
+GTEX-13X6J-0011-R8b-SM-5PNUA,0.01694,Hypothalamus 
+GTEX-13X6J-2926-SM-7EPGP,0,Cerebellum 
+GTEX-13X6J-3026-SM-5Q5CU,0,Cortex 
+GTEX-13X6K-0011-R10a-SM-5P9JR,0.0391,Frontal Cortex (BA9) 
+GTEX-13X6K-0011-R11a-SM-5P9F5,0,Cerebellar Hemisphere 
+GTEX-13X6K-0011-R2b-SM-5P9K3,0,Substantia nigra 
+GTEX-13X6K-0011-R3b-SM-5PNUD,0,Anterior cingulate cortex (BA24) 
+GTEX-13X6K-0011-R4b-SM-5P9HO,0,Amygdala 
+GTEX-13X6K-0011-R5b-SM-5PNUE,0,Caudate (basal ganglia) 
+GTEX-13X6K-0011-R6a-SM-5P9K6,0,Nucleus accumbens (basal ganglia) 
+GTEX-13X6K-0011-R7b-SM-5P9K7,0,Putamen (basal ganglia) 
+GTEX-13X6K-0011-R8b-SM-5PNZ4,0,Hypothalamus 
+GTEX-13X6K-2826-SM-5O9DS,0.01995,Cerebellum 
+GTEX-13X6K-2926-SM-5Q5D5,0.01709,Cortex 
+GTEX-1445S-0011-R10a-SM-5PNWB,0,Frontal Cortex (BA9) 
+GTEX-1445S-0011-R2b-SM-5PNUH,0,Substantia nigra 
+GTEX-1445S-0011-R3a-SM-5P9HY,0,Anterior cingulate cortex (BA24) 
+GTEX-1445S-0011-R4a-SM-5PNWN,0.01782,Amygdala 
+GTEX-1445S-0011-R5a-SM-5PNUS,0.01428,Caudate (basal ganglia) 
+GTEX-1445S-0011-R6b-SM-5PNUF,0.02958,Nucleus accumbens (basal ganglia) 
+GTEX-1445S-0011-R7b-SM-5PNUG,0,Putamen (basal ganglia) 
+GTEX-1445S-0011-R8a-SM-5PNWX,0,Hypothalamus 
+GTEX-1445S-3026-SM-5O9BR,0.01319,Cortex 
+GTEX-144FL-3026-SM-5O99C,0,Cortex 
+GTEX-144GL-0011-R11b-SM-5P9F6,0,Cerebellar Hemisphere 
+GTEX-144GL-0011-R1a-SM-5PNZ5,0.01361,Hippocampus 
+GTEX-144GL-0011-R3a-SM-5P9HP,0,Anterior cingulate cortex (BA24) 
+GTEX-144GL-0011-R4a-SM-5PNUI,0,Amygdala 
+GTEX-144GL-0011-R5b-SM-5PNUJ,0,Caudate (basal ganglia) 
+GTEX-144GL-0011-R6a-SM-5P9HW,0,Nucleus accumbens (basal ganglia) 
+GTEX-144GL-0011-R7b-SM-5P9HX,0.01596,Putamen (basal ganglia) 
+GTEX-144GL-0011-R8a-SM-5Q5B1,0,Hypothalamus 
+GTEX-144GL-2926-SM-5O99F,0,Cerebellum 
+GTEX-144GL-3026-SM-5Q5CW,0.01594,Cortex 
+GTEX-144GO-0011-R1a-SM-5PNWO,0,Hippocampus 
+GTEX-144GO-0011-R5a-SM-5PNUR,0,Caudate (basal ganglia) 
+GTEX-144GO-0011-R6b-SM-5S2V7,0,Nucleus accumbens (basal ganglia) 
+GTEX-144GO-0011-R7b-SM-5S2TT,0,Putamen (basal ganglia) 
+GTEX-145LS-0011-R10a-SM-5PNUQ,0.04669,Frontal Cortex (BA9) 
+GTEX-145LS-0011-R1b-SM-5PNUP,0,Hippocampus 
+GTEX-145LS-0011-R2a-SM-5PNZI,0,Substantia nigra 
+GTEX-145LS-0011-R3a-SM-5S2VJ,0.02186,Anterior cingulate cortex (BA24) 
+GTEX-145LS-0011-R4b-SM-5S2UT,0,Amygdala 
+GTEX-145LS-0011-R5a-SM-5SI65,0,Caudate (basal ganglia) 
+GTEX-145LS-0011-R6b-SM-5PNWL,0,Nucleus accumbens (basal ganglia) 
+GTEX-145LS-0011-R7a-SM-5PNWM,0,Putamen (basal ganglia) 
+GTEX-145LS-0011-R8b-SM-5PNXA,0,Hypothalamus 
+GTEX-145LS-3026-SM-5O99S,0,Cerebellum 
+GTEX-145LS-3126-SM-5Q5BY,0,Cortex 
+GTEX-145LU-0011-R10a-SM-5PNWJ,0,Frontal Cortex (BA9) 
+GTEX-145LU-0011-R11b-SM-5P9JX,0,Cerebellar Hemisphere 
+GTEX-145LU-0011-R1a-SM-5Q5CE,0,Hippocampus 
+GTEX-145LU-0011-R3a-SM-5P9K2,0.02521,Anterior cingulate cortex (BA24) 
+GTEX-145LU-0011-R6a-SM-5S2V6,0,Nucleus accumbens (basal ganglia) 
+GTEX-145LU-0011-R8b-SM-5PNZG,0.01176,Hypothalamus 
+GTEX-145LU-0011-R9b-SM-5SI66,0,Spinal cord (cervical c-1) 
+GTEX-145LU-2626-SM-5LU9Z,0,Cerebellum 
+GTEX-145MF-2726-SM-5O995,0,Cortex 
+GTEX-145MF-2826-SM-7EPGU,0,Cerebellum 
+GTEX-145MG-0011-R10a-SM-5PNWG,0.007032,Frontal Cortex (BA9) 
+GTEX-145MG-0011-R3b-SM-5SI67,0.01473,Anterior cingulate cortex (BA24) 
+GTEX-145MG-0011-R5b-SM-5S2VU,0.01389,Caudate (basal ganglia) 
+GTEX-145MG-0011-R7b-SM-5P9JY,0,Putamen (basal ganglia) 
+GTEX-145MG-3026-SM-5RQJA,0,Cortex 
+GTEX-145MG-3126-SM-5Q5D3,0.0228,Cerebellum 
+GTEX-145MH-0011-R10b-SM-5PNUK,0,Frontal Cortex (BA9) 
+GTEX-145MH-0011-R11a-SM-5P9HQ,0,Cerebellar Hemisphere 
+GTEX-145MH-0011-R1b-SM-5PNWY,0,Hippocampus 
+GTEX-145MH-0011-R3b-SM-5P9JQ,0,Anterior cingulate cortex (BA24) 
+GTEX-145MH-0011-R5a-SM-5P9JT,0,Caudate (basal ganglia) 
+GTEX-145MH-0011-R6a-SM-5PNZ7,0,Nucleus accumbens (basal ganglia) 
+GTEX-145MH-0011-R7a-SM-5PNWH,0,Putamen (basal ganglia) 
+GTEX-145MH-0011-R8a-SM-5PNUL,0,Hypothalamus 
+GTEX-145MH-2926-SM-5Q5D2,0,Cerebellum 
+GTEX-145MH-3026-SM-5Q5DZ,0,Cortex 
+GTEX-145MI-0011-R10a-SM-5PNZD,0,Frontal Cortex (BA9) 
+GTEX-145MI-0011-R11a-SM-5P9JZ,0.01934,Cerebellar Hemisphere 
+GTEX-145MI-0011-R4b-SM-5PNZH,0.01208,Amygdala 
+GTEX-145MI-0011-R6a-SM-5PNZA,0,Nucleus accumbens (basal ganglia) 
+GTEX-145MI-0011-R8b-SM-5PNZ9,0.01355,Hypothalamus 
+GTEX-14753-0011-R10b-SM-5S2WE,0,Frontal Cortex (BA9) 
+GTEX-14753-0011-R5a-SM-5S2VW,0,Caudate (basal ganglia) 
+GTEX-14753-0011-R6b-SM-5S2UD,0.0191,Nucleus accumbens (basal ganglia) 
+GTEX-14753-0011-R8b-SM-5S2U1,0,Hypothalamus 
+GTEX-1477Z-0011-R10b-SM-5S2RF,0.02298,Frontal Cortex (BA9) 
+GTEX-1477Z-0011-R3b-SM-5PNX9,0.01098,Anterior cingulate cortex (BA24) 
+GTEX-1477Z-0011-R5b-SM-5PNUO,0,Caudate (basal ganglia) 
+GTEX-1477Z-0011-R8b-SM-5S2RG,0,Hypothalamus 
+GTEX-147F4-0011-R10b-SM-5S2WC,0,Frontal Cortex (BA9) 
+GTEX-147F4-0011-R6b-SM-5S2UP,0,Nucleus accumbens (basal ganglia) 
+GTEX-147F4-0011-R8b-SM-5S2UN,0.01406,Hypothalamus 
+GTEX-147F4-3026-SM-5Q5BJ,0,Cerebellum 
+GTEX-147GR-0011-R10b-SM-5S2UM,0.01586,Frontal Cortex (BA9) 
+GTEX-147GR-0011-R2b-SM-5S2RQ,0.04571,Substantia nigra 
+GTEX-147GR-0011-R4a-SM-5S2V2,0,Amygdala 
+GTEX-147GR-0011-R6b-SM-5S2RO,0,Nucleus accumbens (basal ganglia) 
+GTEX-147GR-0011-R7a-SM-5S2RP,0,Putamen (basal ganglia) 
+GTEX-147GR-0011-R9a-SM-5S2UY,0,Spinal cord (cervical c-1) 
+GTEX-147GR-3026-SM-5S2ML,0,Cortex 
+GTEX-147GR-3126-SM-5S2PM,0,Cerebellum 
+GTEX-148VJ-0011-R3b-SM-69LQJ,0,Anterior cingulate cortex (BA24) 
+GTEX-148VJ-0011-R9b-SM-5SI77,0,Spinal cord (cervical c-1) 
+GTEX-14A5I-2826-SM-5SIBF,0,Cerebellum 
+GTEX-14A5I-2926-SM-5Q5CQ,0,Cortex 
+GTEX-14ABY-0011-R11a-SM-5SI7C,0,Cerebellar Hemisphere 
+GTEX-14ABY-0011-R1a-SM-6EU2W,0.03459,Hippocampus 
+GTEX-14ABY-0011-R4b-SM-5S2VN,0,Amygdala 
+GTEX-14ABY-0011-R5b-SM-5SI7B,0,Caudate (basal ganglia) 
+GTEX-14ABY-0011-R6a-SM-5PNWR,0,Nucleus accumbens (basal ganglia) 
+GTEX-14ABY-0011-R7b-SM-5PNWS,0,Putamen (basal ganglia) 
+GTEX-14ABY-0011-R9a-SM-5PNZK,0,Spinal cord (cervical c-1) 
+GTEX-14ABY-3026-SM-664NE,0.0716,Cerebellum 
+GTEX-14ASI-0011-R10b-SM-5S2VZ,0.04988,Frontal Cortex (BA9) 
+GTEX-14ASI-0011-R11b-SM-6AJBJ,0,Cerebellar Hemisphere 
+GTEX-14ASI-0011-R1b-SM-5S2TY,0,Hippocampus 
+GTEX-14ASI-0011-R2b-SM-5YY9H,0,Substantia nigra 
+GTEX-14ASI-0011-R4a-SM-69LQ4,0,Amygdala 
+GTEX-14ASI-0011-R5b-SM-6EU2M,0,Caudate (basal ganglia) 
+GTEX-14ASI-0011-R6a-SM-5S2UZ,0,Nucleus accumbens (basal ganglia) 
+GTEX-14ASI-0011-R7b-SM-5YY9G,0.01511,Putamen (basal ganglia) 
+GTEX-14ASI-0011-R8b-SM-5S2UB,0.08933,Hypothalamus 
+GTEX-14ASI-2926-SM-5Q5DG,0.02919,Cerebellum 
+GTEX-14ASI-3026-SM-5S2PN,0,Cortex 
+GTEX-14BIL-0011-R10a-SM-5SI75,0,Frontal Cortex (BA9) 
+GTEX-14BIL-0011-R8b-SM-69LQK,0,Hypothalamus 
+GTEX-14BIL-0011-R9a-SM-5SI7A,0,Spinal cord (cervical c-1) 
+GTEX-14BIL-3026-SM-7EWD4,0,Cortex 
+GTEX-14BIM-0011-R11b-SM-5S2RN,0,Cerebellar Hemisphere 
+GTEX-14BIM-0011-R1a-SM-69LQI,0,Hippocampus 
+GTEX-14BIM-0011-R2b-SM-69LQ6,0,Substantia nigra 
+GTEX-14BIM-0011-R3b-SM-5S2RL,0.06618,Anterior cingulate cortex (BA24) 
+GTEX-14BIM-0011-R4b-SM-5S2RK,0,Amygdala 
+GTEX-14BIM-0011-R5b-SM-5S2RM,0.08721,Caudate (basal ganglia) 
+GTEX-14BIM-0011-R6b-SM-5S2VB,0,Nucleus accumbens (basal ganglia) 
+GTEX-14BIM-0011-R9a-SM-6LLJL,0.06823,Spinal cord (cervical c-1) 
+GTEX-14BIM-3026-SM-7EWCY,0,Cortex 
+GTEX-14BIM-3126-SM-5Q5C7,0.05268,Cerebellum 
+GTEX-14BIN-0011-R10a-SM-5S2UA,0,Frontal Cortex (BA9) 
+GTEX-14BIN-0011-R11a-SM-5SI79,0.02601,Cerebellar Hemisphere 
+GTEX-14BIN-0011-R2a-SM-5S2RJ,0,Substantia nigra 
+GTEX-14BIN-0011-R3b-SM-6AJBL,0,Anterior cingulate cortex (BA24) 
+GTEX-14BIN-0011-R5b-SM-5SI78,0.01631,Caudate (basal ganglia) 
+GTEX-14BIN-0011-R6a-SM-5S2RH,0,Nucleus accumbens (basal ganglia) 
+GTEX-14BIN-0011-R7b-SM-5S2RI,0,Putamen (basal ganglia) 
+GTEX-14BIN-0011-R9a-SM-5SI76,0,Spinal cord (cervical c-1) 
+GTEX-14BIN-3226-SM-62LDR,0,Cortex 
+GTEX-14BIN-3326-SM-5Q5E6,0,Cerebellum 
+GTEX-14BMV-0011-R3a-SM-5ZZU7,0,Anterior cingulate cortex (BA24) 
+GTEX-14BMV-0011-R5b-SM-62LFT,0,Caudate (basal ganglia) 
+GTEX-14BMV-0011-R6b-SM-5YY9I,0.03602,Nucleus accumbens (basal ganglia) 
+GTEX-14BMV-0011-R7b-SM-5YY9J,0.01216,Putamen (basal ganglia) 
+GTEX-14BMV-0011-R9b-SM-5ZZUA,0,Spinal cord (cervical c-1) 
+GTEX-14BMV-2926-SM-5TDEE,0.03196,Cerebellum 
+GTEX-14BMV-3026-SM-5S2PQ,0,Cortex 
+GTEX-14C39-0011-R11b-SM-5YYAF,0,Cerebellar Hemisphere 
+GTEX-14C39-0011-R3b-SM-5YYA3,0.01386,Anterior cingulate cortex (BA24) 
+GTEX-14C39-0011-R5b-SM-5ZZV1,0.01596,Caudate (basal ganglia) 
+GTEX-14C39-3026-SM-5S2QE,0,Cerebellum 
+GTEX-14C39-3126-SM-5ZZW6,0.03805,Cortex 
+GTEX-14C5O-0011-R10a-SM-6872F,0,Frontal Cortex (BA9) 
+GTEX-14C5O-0011-R11b-SM-6872H,0.05795,Cerebellar Hemisphere 
+GTEX-14C5O-0011-R1b-SM-6AJBW,0,Hippocampus 
+GTEX-14C5O-0011-R2a-SM-5ZZV2,0,Substantia nigra 
+GTEX-14C5O-0011-R6a-SM-5YYB6,0,Nucleus accumbens (basal ganglia) 
+GTEX-14C5O-0011-R7b-SM-5YYAH,0.01924,Putamen (basal ganglia) 
+GTEX-14C5O-0011-R8a-SM-5YYAG,0,Hypothalamus 
+GTEX-14C5O-2926-SM-5RQI1,0,Cerebellum 
+GTEX-14C5O-3026-SM-5YYB2,0,Cortex 
+GTEX-14DAQ-0011-R11a-SM-664NO,0.02849,Cerebellar Hemisphere 
+GTEX-14DAQ-0011-R3b-SM-5YYAJ,0.02992,Anterior cingulate cortex (BA24) 
+GTEX-14DAQ-0011-R4a-SM-5YYAI,0,Amygdala 
+GTEX-14DAQ-0011-R5b-SM-5YYAK,0,Caudate (basal ganglia) 
+GTEX-14DAQ-3026-SM-5S2QZ,0,Cerebellum 
+GTEX-14DAQ-3126-SM-62LDS,0,Cortex 
+GTEX-14E6C-0011-R9a-SM-6EU33,0,Spinal cord (cervical c-1) 
+GTEX-14E6D-0011-R10a-SM-5YY9C,0,Frontal Cortex (BA9) 
+GTEX-14E6D-0011-R11b-SM-664NP,0.1507,Cerebellar Hemisphere 
+GTEX-14E6D-0011-R1b-SM-5YYAW,0,Hippocampus 
+GTEX-14E6D-0011-R5b-SM-69LQR,0,Caudate (basal ganglia) 
+GTEX-14E6D-2926-SM-664OP,0.01593,Cerebellum 
+GTEX-14E7W-0011-R10a-SM-5YYAX,0.03432,Frontal Cortex (BA9) 
+GTEX-14E7W-0011-R11a-SM-5ZZVA,0,Cerebellar Hemisphere 
+GTEX-14E7W-0011-R1b-SM-5YYAT,0.01449,Hippocampus 
+GTEX-14E7W-0011-R3b-SM-5YYB5,0,Anterior cingulate cortex (BA24) 
+GTEX-14E7W-0011-R4b-SM-62LEA,0,Amygdala 
+GTEX-14E7W-0011-R6b-SM-5ZZV3,0,Nucleus accumbens (basal ganglia) 
+GTEX-14E7W-0011-R7b-SM-5ZZV4,0,Putamen (basal ganglia) 
+GTEX-14E7W-0011-R9a-SM-62LE6,0,Spinal cord (cervical c-1) 
+GTEX-14E7W-2926-SM-5S2R8,0.04741,Cerebellum 
+GTEX-14JFF-0011-R4a-SM-5ZZV5,0,Amygdala 
+GTEX-14JFF-2826-SM-6871Q,0,Cerebellum 
+GTEX-14JG1-0011-R2a-SM-5ZZVE,0.01947,Substantia nigra 
+GTEX-14JG1-0011-R3a-SM-62LEC,0.006737,Anterior cingulate cortex (BA24) 
+GTEX-14JG1-0011-R4b-SM-62LEB,0,Amygdala 
+GTEX-14JG1-0011-R5a-SM-62LED,0,Caudate (basal ganglia) 
+GTEX-14JG1-0011-R6b-SM-5YYAU,0.01561,Nucleus accumbens (basal ganglia) 
+GTEX-14JG1-0011-R7b-SM-5YYAV,0,Putamen (basal ganglia) 
+GTEX-14JG1-2926-SM-686ZK,0,Cerebellum 
+GTEX-14JG1-3026-SM-5YYAA,0,Cortex 
+GTEX-14JIY-0011-R10a-SM-6AJAO,0,Frontal Cortex (BA9) 
+GTEX-14JIY-0011-R1a-SM-68713,0.01335,Hippocampus 
+GTEX-14JIY-0011-R3a-SM-5YYAQ,0.01368,Anterior cingulate cortex (BA24) 
+GTEX-14JIY-0011-R4b-SM-5ZZV7,0,Amygdala 
+GTEX-14JIY-0011-R5b-SM-62LE7,0,Caudate (basal ganglia) 
+GTEX-14JIY-0011-R6b-SM-68714,0,Nucleus accumbens (basal ganglia) 
+GTEX-14JIY-0011-R8a-SM-6AJAP,0,Hypothalamus 
+GTEX-14JIY-0011-R9a-SM-6EU34,0,Spinal cord (cervical c-1) 
+GTEX-14JIY-2326-SM-6AJAJ,0,Cerebellum 
+GTEX-14JIY-2926-SM-69LPT,0,Cortex 
+GTEX-14LLW-0011-R1a-SM-5ZZVD,0,Hippocampus 
+GTEX-14LLW-0011-R3b-SM-62LFW,0,Anterior cingulate cortex (BA24) 
+GTEX-14LLW-0011-R5b-SM-5ZZU6,0,Caudate (basal ganglia) 
+GTEX-14LLW-0011-R8a-SM-62LFG,0,Hypothalamus 
+GTEX-14LZ3-0011-R10b-SM-6AJA9,0,Frontal Cortex (BA9) 
+GTEX-14LZ3-0011-R1a-SM-69LP5,0.01316,Hippocampus 
+GTEX-14LZ3-0011-R3a-SM-664NQ,0.01153,Anterior cingulate cortex (BA24) 
+GTEX-14LZ3-0011-R5b-SM-5ZZV8,0.01379,Caudate (basal ganglia) 
+GTEX-14LZ3-0011-R6a-SM-D3L8C,0.009758,Nucleus accumbens (basal ganglia) 
+GTEX-14LZ3-0011-R7a-SM-69LQN,0,Putamen (basal ganglia) 
+GTEX-14LZ3-0011-R8b-SM-COH3M,0,Hypothalamus 
+GTEX-14LZ3-3026-SM-5ZZVU,0,Cortex 
+GTEX-14PHW-0011-R6b-SM-5YYAR,0,Nucleus accumbens (basal ganglia) 
+GTEX-14PJM-0011-R10a-SM-686ZP,0,Frontal Cortex (BA9) 
+GTEX-14PJM-0011-R1a-SM-CNPO3,0,Hippocampus 
+GTEX-14PJM-0011-R3b-SM-5ZZV9,0,Anterior cingulate cortex (BA24) 
+GTEX-14PJM-0011-R4a-SM-5YYAS,0,Amygdala 
+GTEX-14PJM-0011-R6a-SM-6872G,0,Nucleus accumbens (basal ganglia) 
+GTEX-14PJM-0011-R7a-SM-6AJBX,0.0194,Putamen (basal ganglia) 
+GTEX-14PJM-0011-R8b-SM-69LPD,0,Hypothalamus 
+GTEX-14PJM-0011-R9b-SM-6EU35,0.02976,Spinal cord (cervical c-1) 
+GTEX-14PJM-3026-SM-6LLHM,0.02251,Cerebellum 
+GTEX-14PJM-3126-SM-6EU2R,0.02054,Cortex 
+GTEX-14PJO-0011-R10a-SM-686ZS,0.03005,Frontal Cortex (BA9) 
+GTEX-14PJO-0011-R1b-SM-6AJAK,0,Hippocampus 
+GTEX-14PJO-0011-R2a-SM-5ZZVF,0,Substantia nigra 
+GTEX-14PJO-0011-R3a-SM-6AJBY,0,Anterior cingulate cortex (BA24) 
+GTEX-14PJO-0011-R5a-SM-6AJBZ,0.01992,Caudate (basal ganglia) 
+GTEX-14PJO-0011-R7a-SM-664NR,0,Putamen (basal ganglia) 
+GTEX-14PJO-0011-R8a-SM-6AJAL,0.01888,Hypothalamus 
+GTEX-14PJO-0011-R9b-SM-62LE9,0,Spinal cord (cervical c-1) 
+GTEX-14PJO-2926-SM-686ZI,0,Cerebellum 
+GTEX-14PN4-0011-R10b-SM-69LP2,0,Frontal Cortex (BA9) 
+GTEX-14PN4-0011-R11a-SM-686ZW,0,Cerebellar Hemisphere 
+GTEX-14PN4-0011-R1b-SM-69LP8,0,Hippocampus 
+GTEX-14PN4-0011-R2a-SM-6EU2Y,0.02308,Substantia nigra 
+GTEX-14PN4-0011-R3b-SM-686ZU,0,Anterior cingulate cortex (BA24) 
+GTEX-14PN4-0011-R4a-SM-686ZT,0.01895,Amygdala 
+GTEX-14PN4-0011-R5a-SM-686ZV,0,Caudate (basal ganglia) 
+GTEX-14PN4-0011-R6b-SM-69LQU,0,Nucleus accumbens (basal ganglia) 
+GTEX-14PN4-0011-R7b-SM-69LQQ,0.01632,Putamen (basal ganglia) 
+GTEX-14PN4-0011-R8a-SM-6EU1H,0,Hypothalamus 
+GTEX-14PN4-0011-R9a-SM-6LLH9,0.01616,Spinal cord (cervical c-1) 
+GTEX-14PN4-3026-SM-664O4,0,Cerebellum 
+GTEX-14PQA-0011-R10a-SM-6AJAA,0,Frontal Cortex (BA9) 
+GTEX-14PQA-0011-R1b-SM-6EU1G,0,Hippocampus 
+GTEX-14PQA-0011-R3b-SM-69LQO,0,Anterior cingulate cortex (BA24) 
+GTEX-14PQA-0011-R4b-SM-6AJBU,0,Amygdala 
+GTEX-14PQA-0011-R5b-SM-6AJC2,0,Caudate (basal ganglia) 
+GTEX-14PQA-0011-R6b-SM-6AJAM,0,Nucleus accumbens (basal ganglia) 
+GTEX-14PQA-0011-R8b-SM-6AJAB,0,Hypothalamus 
+GTEX-15CHQ-0011-R10b-SM-6AJBV,0,Frontal Cortex (BA9) 
+GTEX-15CHQ-0011-R11b-SM-686ZZ,0,Cerebellar Hemisphere 
+GTEX-15CHQ-0011-R1a-SM-COH27,0,Hippocampus 
+GTEX-15CHQ-0011-R2b-SM-6AJAD,0.04913,Substantia nigra 
+GTEX-15CHQ-0011-R3b-SM-686ZY,0,Anterior cingulate cortex (BA24) 
+GTEX-15CHQ-0011-R4a-SM-686ZX,0,Amygdala 
+GTEX-15CHQ-0011-R5b-SM-6AJAN,0,Caudate (basal ganglia) 
+GTEX-15CHQ-0011-R6b-SM-69LOX,0,Nucleus accumbens (basal ganglia) 
+GTEX-15CHQ-0011-R7b-SM-D4P1Q,0.01496,Putamen (basal ganglia) 
+GTEX-15CHQ-0011-R8b-SM-CNPO4,0.01364,Hypothalamus 
+GTEX-15CHQ-0011-R9a-SM-6LLHX,0,Spinal cord (cervical c-1) 
+GTEX-15DCD-0011-R10b-SM-6LPII,0,Frontal Cortex (BA9) 
+GTEX-15DCD-0011-R11a-SM-D4P1R,0,Cerebellar Hemisphere 
+GTEX-15DCD-0011-R1b-SM-6LPIJ,0,Hippocampus 
+GTEX-15DCD-0011-R2b-SM-6LPIE,0,Substantia nigra 
+GTEX-15DCD-0011-R3b-SM-D4P1P,0.0286,Anterior cingulate cortex (BA24) 
+GTEX-15DCD-0011-R4a-SM-69LPB,0,Amygdala 
+GTEX-15DCD-0011-R5a-SM-CXZKZ,0,Caudate (basal ganglia) 
+GTEX-15DCD-0011-R6b-SM-6M46L,0,Nucleus accumbens (basal ganglia) 
+GTEX-15DCD-0011-R7b-SM-6LPID,0,Putamen (basal ganglia) 
+GTEX-15DCD-0011-R8b-SM-7KUEF,0.01928,Hypothalamus 
+GTEX-15DCD-0011-R9b-SM-7KUED,0.02245,Spinal cord (cervical c-1) 
+GTEX-15DCD-2926-SM-7KULT,0.05523,Cortex 
+GTEX-15DDE-0011-R10a-SM-7KUKW,0.01416,Frontal Cortex (BA9) 
+GTEX-15DDE-0011-R4b-SM-7KULI,0.01411,Amygdala 
+GTEX-15DDE-0011-R9b-SM-6M46U,0.0249,Spinal cord (cervical c-1) 
+GTEX-15DYW-0011-R11a-SM-6LPIT,0,Cerebellar Hemisphere 
+GTEX-15DYW-0011-R2b-SM-7KUKY,0.01387,Substantia nigra 
+GTEX-15DYW-0011-R3b-SM-6LPIM,0,Anterior cingulate cortex (BA24) 
+GTEX-15DYW-0011-R4a-SM-6M46V,0,Amygdala 
+GTEX-15DYW-0011-R5a-SM-6M46W,0,Caudate (basal ganglia) 
+GTEX-15DYW-0011-R6b-SM-6PALA,0,Nucleus accumbens (basal ganglia) 
+GTEX-15DYW-0011-R7a-SM-7KULG,0,Putamen (basal ganglia) 
+GTEX-15DYW-0011-R9b-SM-6PALB,0.03563,Spinal cord (cervical c-1) 
+GTEX-15DYW-3026-SM-7KFRM,0,Cerebellum 
+GTEX-15EO6-0011-R11b-SM-6M47M,0,Cerebellar Hemisphere 
+GTEX-15EO6-0011-R2a-SM-6M46R,0,Substantia nigra 
+GTEX-15EO6-0011-R3b-SM-7KUDY,0.01695,Anterior cingulate cortex (BA24) 
+GTEX-15EO6-0011-R4a-SM-7KUKZ,0.01429,Amygdala 
+GTEX-15EO6-0011-R5b-SM-7KUDZ,0,Caudate (basal ganglia) 
+GTEX-15EO6-0011-R6a-SM-7KULK,0,Nucleus accumbens (basal ganglia) 
+GTEX-15EO6-0011-R7a-SM-6M46Q,0,Putamen (basal ganglia) 
+GTEX-15EO6-0011-R9a-SM-6PALG,0,Spinal cord (cervical c-1) 
+GTEX-15EO6-2926-SM-6M48D,0,Cerebellum 
+GTEX-15EO6-3026-SM-7KUMA,0,Cortex 
+GTEX-15ER7-0011-R11a-SM-6LPIL,0,Cerebellar Hemisphere 
+GTEX-15ER7-0011-R1b-SM-7KUE1,0.01915,Hippocampus 
+GTEX-15ER7-0011-R2a-SM-6M46O,0,Substantia nigra 
+GTEX-15ER7-0011-R3a-SM-6LPIK,0,Anterior cingulate cortex (BA24) 
+GTEX-15ER7-0011-R4a-SM-6M46S,0,Amygdala 
+GTEX-15ER7-0011-R5b-SM-6M46T,0,Caudate (basal ganglia) 
+GTEX-15ER7-0011-R6a-SM-6M46M,0,Nucleus accumbens (basal ganglia) 
+GTEX-15ER7-0011-R7a-SM-6M46N,0.01876,Putamen (basal ganglia) 
+GTEX-15ER7-0011-R8a-SM-7KUL2,0,Hypothalamus 
+GTEX-15ER7-0011-R9b-SM-6PALF,0,Spinal cord (cervical c-1) 
+GTEX-15ER7-3026-SM-6M47W,0,Cerebellum 
+GTEX-15ER7-3126-SM-7KUGH,0.0169,Cortex 
+GTEX-15G19-0011-R10b-SM-7KUG4,0,Frontal Cortex (BA9) 
+GTEX-15G19-0011-R11b-SM-6LPIH,0,Cerebellar Hemisphere 
+GTEX-15G19-0011-R3a-SM-6LPIG,0,Anterior cingulate cortex (BA24) 
+GTEX-15G19-0011-R5b-SM-6M46P,0,Caudate (basal ganglia) 
+GTEX-15G19-0011-R6b-SM-7KUM3,0.01274,Nucleus accumbens (basal ganglia) 
+GTEX-15G19-0011-R7b-SM-6M479,0,Putamen (basal ganglia) 
+GTEX-15G19-0011-R8b-SM-7KUL1,0,Hypothalamus 
+GTEX-15G19-0011-R9b-SM-7KUEE,0,Spinal cord (cervical c-1) 
+GTEX-15G19-2826-SM-6M48K,0,Cerebellum 
+GTEX-15G19-2926-SM-7KUFL,0,Cortex 
+GTEX-15RJE-0011-R2b-SM-79OMP,0,Substantia nigra 
+GTEX-15RJE-0011-R6a-SM-7DHL8,0,Nucleus accumbens (basal ganglia) 
+GTEX-15RJE-0011-R7a-SM-7DHL9,0,Putamen (basal ganglia) 
+GTEX-15RJE-3026-SM-7KUM1,0,Cortex 
+GTEX-15SHU-0011-R3a-SM-7IGPS,0,Anterior cingulate cortex (BA24) 
+GTEX-15SHU-0011-R4b-SM-7IGLC,0,Amygdala 
+GTEX-15SHU-0011-R5a-SM-7938Q,0,Caudate (basal ganglia) 
+GTEX-15SHU-3026-SM-6LPIB,0,Cerebellum 
+GTEX-15SHU-3126-SM-6M46H,0,Cortex 
+GTEX-15UF6-0011-R10b-SM-9OSVF,0,Frontal Cortex (BA9) 
+GTEX-15UF6-0011-R1a-SM-9QEGH,0,Hippocampus 
+GTEX-15UF6-3026-SM-7KUKL,0.01388,Cortex 
+GTEX-16GPK-0011-R10b-SM-7MKFG,0.01364,Frontal Cortex (BA9) 
+GTEX-16GPK-0011-R11b-SM-7MKFF,0.0923,Cerebellar Hemisphere 
+GTEX-16GPK-0011-R1b-SM-7EWDH,0,Hippocampus 
+GTEX-16GPK-0011-R8a-SM-79OMQ,0.02312,Hypothalamus 
+GTEX-16GPK-3026-SM-79ON9,0.0151,Cortex 
+GTEX-16NPV-0011-R10a-SM-79OKA,0,Frontal Cortex (BA9) 
+GTEX-16NPV-0011-R11a-SM-7IGMK,0.01145,Cerebellar Hemisphere 
+GTEX-16NPV-0011-R1b-SM-7MGVZ,0.01417,Hippocampus 
+GTEX-16NPV-0011-R5a-SM-7EPGK,0.006372,Caudate (basal ganglia) 
+GTEX-16NPV-0011-R8a-SM-7EPH8,0,Hypothalamus 
+GTEX-16NPV-0011-R9b-SM-79ONF,0,Spinal cord (cervical c-1) 
+GTEX-16XZZ-0011-R10b-SM-7LT91,0.01703,Frontal Cortex (BA9) 
+GTEX-16XZZ-0011-R11a-SM-7EPI3,0.05641,Cerebellar Hemisphere 
+GTEX-16XZZ-0011-R1a-SM-7LTAH,0.0149,Hippocampus 
+GTEX-16XZZ-0011-R3a-SM-7IGLH,0.01947,Anterior cingulate cortex (BA24) 
+GTEX-16XZZ-0011-R6a-SM-7IGNE,0,Nucleus accumbens (basal ganglia) 
+GTEX-16XZZ-0011-R8b-SM-7LT8S,0.01162,Hypothalamus 
+GTEX-16XZZ-0011-R9b-SM-7DHKX,0,Spinal cord (cervical c-1) 
+GTEX-16XZZ-2926-SM-6LPK4,0,Cerebellum 
+GTEX-16XZZ-3026-SM-79OMJ,0.04097,Cortex 
+GTEX-16YQH-0011-R10b-SM-7LT8U,0.01384,Frontal Cortex (BA9) 
+GTEX-16YQH-0011-R11b-SM-7LT98,0,Cerebellar Hemisphere 
+GTEX-16YQH-0011-R1a-SM-7LT8R,0.01547,Hippocampus 
+GTEX-16YQH-0011-R3a-SM-7EPGM,0,Anterior cingulate cortex (BA24) 
+GTEX-16YQH-0011-R4a-SM-7EPGI,0,Amygdala 
+GTEX-16YQH-0011-R5b-SM-7938U,0,Caudate (basal ganglia) 
+GTEX-16YQH-0011-R6b-SM-7938T,0,Nucleus accumbens (basal ganglia) 
+GTEX-16YQH-0011-R7a-SM-79ON1,0.02675,Putamen (basal ganglia) 
+GTEX-16YQH-0011-R8a-SM-7DUFB,0,Hypothalamus 
+GTEX-16YQH-2926-SM-6LPJE,0.03873,Cerebellum 
+GTEX-16YQH-3026-SM-79OMM,0,Cortex 
+GTEX-16Z82-0011-R10a-SM-79OJX,0,Frontal Cortex (BA9) 
+GTEX-16Z82-0011-R11a-SM-79OKJ,0,Cerebellar Hemisphere 
+GTEX-16Z82-0011-R1b-SM-7EPHZ,0.02809,Hippocampus 
+GTEX-16Z82-0011-R2b-SM-79OK9,0.02269,Substantia nigra 
+GTEX-16Z82-0011-R5a-SM-7EPGB,0,Caudate (basal ganglia) 
+GTEX-16Z82-0011-R6a-SM-7IGLV,0,Nucleus accumbens (basal ganglia) 
+GTEX-16Z82-0011-R7a-SM-7MKGJ,0.01321,Putamen (basal ganglia) 
+GTEX-16Z82-0011-R8a-SM-7DUEX,0,Hypothalamus 
+GTEX-16Z82-0011-R9a-SM-7DUFA,0,Spinal cord (cervical c-1) 
+GTEX-16Z82-2926-SM-6LPJJ,0,Cerebellum 
+GTEX-16Z82-3026-SM-79ON3,0.02223,Cortex 
+GTEX-17EVP-0011-R10a-SM-7IGLP,0.01902,Frontal Cortex (BA9) 
+GTEX-17EVP-0011-R11a-SM-7EWDL,0,Cerebellar Hemisphere 
+GTEX-17EVP-0011-R1a-SM-7DHLA,0,Hippocampus 
+GTEX-17EVP-0011-R2a-SM-7LG4W,0.02607,Substantia nigra 
+GTEX-17EVP-0011-R3a-SM-7EPI9,0,Anterior cingulate cortex (BA24) 
+GTEX-17EVP-0011-R4a-SM-79OML,0,Amygdala 
+GTEX-17EVP-0011-R5b-SM-7DHKW,0,Caudate (basal ganglia) 
+GTEX-17EVP-0011-R6b-SM-7LT99,0.01654,Nucleus accumbens (basal ganglia) 
+GTEX-17EVP-0011-R7a-SM-7LTAN,0.01385,Putamen (basal ganglia) 
+GTEX-17EVP-0011-R8b-SM-7DUF9,0,Hypothalamus 
+GTEX-17EVP-2926-SM-793BU,0.03409,Cerebellum 
+GTEX-17EVP-3026-SM-7IGQL,0.01918,Cortex 
+GTEX-17EVQ-0011-R11a-SM-7LT9C,0.01682,Cerebellar Hemisphere 
+GTEX-17EVQ-0011-R1a-SM-7189S,0.07967,Hippocampus 
+GTEX-17EVQ-0011-R3b-SM-7LT9B,0.04533,Anterior cingulate cortex (BA24) 
+GTEX-17EVQ-0011-R4b-SM-7LT94,0.01904,Amygdala 
+GTEX-17EVQ-0011-R5a-SM-7LT92,0.02372,Caudate (basal ganglia) 
+GTEX-17EVQ-0011-R6a-SM-7189U,0.0478,Nucleus accumbens (basal ganglia) 
+GTEX-17EVQ-0011-R7a-SM-7EWDA,0,Putamen (basal ganglia) 
+GTEX-17EVQ-0011-R8a-SM-7189T,0.03367,Hypothalamus 
+GTEX-17EVQ-0011-R9b-SM-79OJY,0.03607,Spinal cord (cervical c-1) 
+GTEX-17EVQ-2726-SM-7EWDT,0,Cerebellum 
+GTEX-17EVQ-2826-SM-7IGQK,0.01772,Cortex 
+GTEX-17F97-0011-R10b-SM-793BB,0,Frontal Cortex (BA9) 
+GTEX-17F97-0011-R11b-SM-7KFRQ,0,Cerebellar Hemisphere 
+GTEX-17F97-0011-R1b-SM-7IGM9,0,Hippocampus 
+GTEX-17F97-0011-R3b-SM-7LT9E,0,Anterior cingulate cortex (BA24) 
+GTEX-17F97-0011-R4b-SM-7KFS2,0,Amygdala 
+GTEX-17F97-0011-R5a-SM-7LG4Z,0,Caudate (basal ganglia) 
+GTEX-17F97-0011-R6a-SM-7EPGS,0,Nucleus accumbens (basal ganglia) 
+GTEX-17F97-0011-R7b-SM-7MGVY,0,Putamen (basal ganglia) 
+GTEX-17F97-0011-R8a-SM-7DUET,0,Hypothalamus 
+GTEX-17F97-2926-SM-7DUEQ,0.05285,Cerebellum 
+GTEX-17F97-3026-SM-79OKC,0,Cortex 
+GTEX-17HG3-0011-R10b-SM-7LT97,0,Frontal Cortex (BA9) 
+GTEX-17HG3-0011-R11b-SM-7KFT4,0.03159,Cerebellar Hemisphere 
+GTEX-17HG3-0011-R1a-SM-7LG6H,0.02984,Hippocampus 
+GTEX-17HG3-0011-R2a-SM-7MGVX,0.01489,Substantia nigra 
+GTEX-17HG3-0011-R4a-SM-7IGLL,0,Amygdala 
+GTEX-17HG3-0011-R5a-SM-7DUEW,0,Caudate (basal ganglia) 
+GTEX-17HG3-0011-R6b-SM-79OK8,0,Nucleus accumbens (basal ganglia) 
+GTEX-17HG3-0011-R7b-SM-7EPGR,0.01132,Putamen (basal ganglia) 
+GTEX-17HG3-0011-R8a-SM-79OK7,0.02222,Hypothalamus 
+GTEX-17HG3-2826-SM-7EPGO,0,Cerebellum 
+GTEX-17HG3-2926-SM-79ON8,0,Cortex 
+GTEX-17HHY-0011-R1a-SM-7189V,0.05469,Hippocampus 
+GTEX-17HHY-0011-R3a-SM-7EWDK,0.02563,Anterior cingulate cortex (BA24) 
+GTEX-17HHY-0011-R5b-SM-79OMZ,0,Caudate (basal ganglia) 
+GTEX-17HHY-0011-R6b-SM-7189Z,0.03894,Nucleus accumbens (basal ganglia) 
+GTEX-17HHY-0011-R7a-SM-718A1,0.07174,Putamen (basal ganglia) 
+GTEX-17HHY-2926-SM-79OJW,0.08398,Cerebellum 
+GTEX-17HHY-3026-SM-79OKP,0,Cortex 
+GTEX-17HII-0011-R10a-SM-79OMY,0,Frontal Cortex (BA9) 
+GTEX-17HII-0011-R11b-SM-7KFSX,0,Cerebellar Hemisphere 
+GTEX-17HII-0011-R1b-SM-7MGVW,0,Hippocampus 
+GTEX-17HII-0011-R3a-SM-7LT9D,0.01343,Anterior cingulate cortex (BA24) 
+GTEX-17HII-0011-R5a-SM-7LG51,0,Caudate (basal ganglia) 
+GTEX-17HII-0011-R7a-SM-79OMS,0.01749,Putamen (basal ganglia) 
+GTEX-17HII-0011-R8a-SM-79OK6,0,Hypothalamus 
+GTEX-17HII-2926-SM-79OMK,0,Cerebellum 
+GTEX-17HII-3026-SM-7EWFM,0.02698,Cortex 
+GTEX-17JCI-0011-R10b-SM-718A2,0.01811,Frontal Cortex (BA9) 
+GTEX-17JCI-0011-R11a-SM-7189Y,0.0167,Cerebellar Hemisphere 
+GTEX-17JCI-0011-R1b-SM-718A3,0.08869,Hippocampus 
+GTEX-17JCI-0011-R6a-SM-72D6D,0,Nucleus accumbens (basal ganglia) 
+GTEX-17JCI-3026-SM-7EWDR,0,Cerebellum 
+GTEX-17JCI-3126-SM-7LTA2,0,Cortex 
+GTEX-17MF6-0011-R1a-SM-72D6O,0,Hippocampus 
+GTEX-17MF6-0011-R5a-SM-731BA,0,Caudate (basal ganglia) 
+GTEX-17MF6-0011-R6b-SM-7LG6G,0,Nucleus accumbens (basal ganglia) 
+GTEX-17MF6-0011-R7b-SM-7LG6J,0,Putamen (basal ganglia) 
+GTEX-17MF6-2926-SM-7LTAW,0.009613,Cortex 
+GTEX-183WM-0011-R11a-SM-718A5,0.07068,Cerebellar Hemisphere 
+GTEX-183WM-0011-R1a-SM-718A8,0.04158,Hippocampus 
+GTEX-183WM-0011-R4a-SM-7LG6S,0,Amygdala 
+GTEX-183WM-0011-R5a-SM-718A4,0.08818,Caudate (basal ganglia) 
+GTEX-183WM-0011-R6b-SM-72D66,0.01596,Nucleus accumbens (basal ganglia) 
+GTEX-183WM-0011-R7b-SM-731AX,0,Putamen (basal ganglia) 
+GTEX-183WM-0011-R8a-SM-7189W,0.07746,Hypothalamus 
+GTEX-183WM-2726-SM-7KFRF,0.01196,Cerebellum 
+GTEX-183WM-2826-SM-731C2,0,Cortex 
+GTEX-18464-0011-R10a-SM-72D6X,0,Frontal Cortex (BA9) 
+GTEX-18464-0011-R11a-SM-72D76,0,Cerebellar Hemisphere 
+GTEX-18464-0011-R2a-SM-731AL,0,Substantia nigra 
+GTEX-18464-0011-R4a-SM-7LG6T,0.01474,Amygdala 
+GTEX-18464-0011-R5b-SM-718A6,0.02999,Caudate (basal ganglia) 
+GTEX-18464-0011-R6a-SM-731CA,0,Nucleus accumbens (basal ganglia) 
+GTEX-18464-0011-R7b-SM-731CM,0.01645,Putamen (basal ganglia) 
+GTEX-18464-0011-R8a-SM-72D4Z,0,Hypothalamus 
+GTEX-18464-0011-R9a-SM-731BK,0,Spinal cord (cervical c-1) 
+GTEX-18465-0011-R11a-SM-72D78,0,Cerebellar Hemisphere 
+GTEX-18465-0011-R5a-SM-72D5J,0,Caudate (basal ganglia) 
+GTEX-18465-0011-R6a-SM-7LG6M,0.01564,Nucleus accumbens (basal ganglia) 
+GTEX-18465-0011-R7b-SM-7LG6V,0.01404,Putamen (basal ganglia) 
+GTEX-18465-0011-R8b-SM-7LG6O,0.02938,Hypothalamus 
+GTEX-18465-2926-SM-7KFSE,0.01627,Cerebellum 
+GTEX-18465-3026-SM-7LG6Y,0.03099,Cortex 
+GTEX-18A6Q-0011-R10b-SM-72D7A,0,Frontal Cortex (BA9) 
+GTEX-18A6Q-0011-R11a-SM-72D6H,0,Cerebellar Hemisphere 
+GTEX-18A6Q-0011-R1b-SM-731DI,0,Hippocampus 
+GTEX-18A6Q-0011-R3a-SM-718A7,0.06434,Anterior cingulate cortex (BA24) 
+GTEX-18A6Q-0011-R6a-SM-7LG6R,0.01412,Nucleus accumbens (basal ganglia) 
+GTEX-18A6Q-2826-SM-7LTAO,0,Cerebellum 
+GTEX-18A6Q-2926-SM-718AR,0.1307,Cortex 
+GTEX-1A32A-0011-R1a-SM-7P8SQ,0.1599,Hippocampus 
+GTEX-1A32A-0011-R9b-SM-7MGXD,0,Spinal cord (cervical c-1) 
+GTEX-1A3MX-0011-R10b-SM-7P8PG,0.01578,Frontal Cortex (BA9) 
+GTEX-1A3MX-0011-R11b-SM-7DUGP,0,Cerebellar Hemisphere 
+GTEX-1A3MX-0011-R1b-SM-7P8PH,0.02243,Hippocampus 
+GTEX-1A3MX-0011-R2b-SM-7EWFL,0.01348,Substantia nigra 
+GTEX-1A3MX-0011-R3b-SM-79OOW,0,Anterior cingulate cortex (BA24) 
+GTEX-1A3MX-0011-R4b-SM-7EWFK,0,Amygdala 
+GTEX-1A3MX-0011-R5a-SM-79OM5,0,Caudate (basal ganglia) 
+GTEX-1A3MX-0011-R6a-SM-7P8S9,0.01593,Nucleus accumbens (basal ganglia) 
+GTEX-1A3MX-0011-R7a-SM-7DUEM,0,Putamen (basal ganglia) 
+GTEX-1A3MX-0011-R8a-SM-7P8PI,0,Hypothalamus 
+GTEX-1A3MX-2926-SM-718B7,0,Cerebellum 
+GTEX-1A3MX-3026-SM-731BF,0,Cortex 
+GTEX-1A8G6-0011-R10b-SM-7P8PB,0.01274,Frontal Cortex (BA9) 
+GTEX-1A8G6-0011-R1a-SM-7P8PC,0,Hippocampus 
+GTEX-1A8G6-0011-R5b-SM-7IGQG,0,Caudate (basal ganglia) 
+GTEX-1A8G6-0011-R6b-SM-7P8PE,0,Nucleus accumbens (basal ganglia) 
+GTEX-1A8G6-0011-R7b-SM-7MXTV,0.02726,Putamen (basal ganglia) 
+GTEX-1A8G6-0011-R8a-SM-7P8PD,0,Hypothalamus 
+GTEX-1A8G6-2926-SM-731CK,0,Cortex 
+GTEX-1A8G6-3126-SM-731D8,0,Cerebellum 
+GTEX-1A8G7-0011-R2a-SM-7IGQI,0,Substantia nigra 
+GTEX-1A8G7-0011-R8a-SM-7P8S6,0.09594,Hypothalamus 
+GTEX-1A8G7-0011-R9b-SM-7IGQH,0.02307,Spinal cord (cervical c-1) 
+GTEX-1A8G7-3026-SM-73KTT,0.03957,Cerebellum 
+GTEX-1A8G7-3126-SM-7IGP7,0.0146,Cortex 
+GTEX-1AX9I-0011-R11b-SM-7DHN4,0,Cerebellar Hemisphere 
+GTEX-1AX9I-0011-R1b-SM-7RHG2,0,Hippocampus 
+GTEX-1AX9I-0011-R4b-SM-7EPIB,0,Amygdala 
+GTEX-1AX9I-0011-R5b-SM-793DI,0,Caudate (basal ganglia) 
+GTEX-1AX9I-0011-R6a-SM-7P8PK,0.02922,Nucleus accumbens (basal ganglia) 
+GTEX-1AX9I-0011-R7b-SM-7P8Q3,0,Putamen (basal ganglia) 
+GTEX-1AX9I-0011-R8a-SM-7P8PJ,0,Hypothalamus 
+GTEX-1AX9I-3026-SM-73KUH,0,Cortex 
+GTEX-1B8L1-0011-R10b-SM-7P8Q4,0.01348,Frontal Cortex (BA9) 
+GTEX-1B8L1-0011-R11b-SM-793DJ,0.02514,Cerebellar Hemisphere 
+GTEX-1B8L1-0011-R1a-SM-7P8SS,0.1344,Hippocampus 
+GTEX-1B8L1-0011-R2a-SM-9OSVL,0,Substantia nigra 
+GTEX-1B8L1-0011-R3a-SM-7EPIO,0,Anterior cingulate cortex (BA24) 
+GTEX-1B8L1-0011-R4a-SM-7EWFJ,0,Amygdala 
+GTEX-1B8L1-0011-R5a-SM-7DHN5,0.02365,Caudate (basal ganglia) 
+GTEX-1B8L1-0011-R6b-SM-7P8SU,0.07117,Nucleus accumbens (basal ganglia) 
+GTEX-1B8L1-0011-R7b-SM-9OSVK,0,Putamen (basal ganglia) 
+GTEX-1B8L1-0011-R8b-SM-7P8ST,0.1041,Hypothalamus 
+GTEX-1B8L1-0011-R9b-SM-9WG5U,0,Spinal cord (cervical c-1) 
+GTEX-1B8L1-3026-SM-7EPHK,0,Cortex 
+GTEX-1B8L1-3226-SM-7P8OX,0,Cerebellum 
+GTEX-1B8SF-0011-R10b-SM-7P8SW,0.03273,Frontal Cortex (BA9) 
+GTEX-1B8SF-0011-R11a-SM-79OOP,0.03893,Cerebellar Hemisphere 
+GTEX-1B8SF-0011-R1b-SM-7P8Q8,0.01181,Hippocampus 
+GTEX-1B8SF-0011-R5a-SM-79OOO,0,Caudate (basal ganglia) 
+GTEX-1B8SF-0011-R6b-SM-7MXUD,0,Nucleus accumbens (basal ganglia) 
+GTEX-1B8SF-0011-R7b-SM-9OSVM,0.0214,Putamen (basal ganglia) 
+GTEX-1B8SF-0011-R8b-SM-7P8SX,0.1072,Hypothalamus 
+GTEX-1B8SF-3026-SM-731DX,0,Cerebellum 
+GTEX-1B8SF-3126-SM-73KU1,0,Cortex 
+GTEX-1B8SG-0011-R11a-SM-7P8PF,0.01357,Cerebellar Hemisphere 
+GTEX-1B8SG-0011-R2b-SM-79OOT,0,Substantia nigra 
+GTEX-1B8SG-0011-R8b-SM-7IGNW,0.02106,Hypothalamus 
+GTEX-1B8SG-1726-SM-73KXK,0.02554,Cortex 
+GTEX-1B8SG-1926-SM-73KUB,0,Cerebellum 
+GTEX-1B933-0011-R10b-SM-9OSVN,0.01637,Frontal Cortex (BA9) 
+GTEX-1B933-0011-R11a-SM-7P8PM,0.0165,Cerebellar Hemisphere 
+GTEX-1B933-0011-R1b-SM-9QEGW,0,Hippocampus 
+GTEX-1B933-0011-R2b-SM-7IGNM,0,Substantia nigra 
+GTEX-1B933-0011-R3b-SM-7P8PL,0,Anterior cingulate cortex (BA24) 
+GTEX-1B933-0011-R5b-SM-7P8SA,0.0886,Caudate (basal ganglia) 
+GTEX-1B933-0011-R6b-SM-79OOQ,0,Nucleus accumbens (basal ganglia) 
+GTEX-1B933-0011-R7a-SM-7DUGX,0,Putamen (basal ganglia) 
+GTEX-1B933-0011-R8a-SM-9QEGX,0,Hypothalamus 
+GTEX-1B933-0011-R9a-SM-79OOR,0,Spinal cord (cervical c-1) 
+GTEX-1B933-3026-SM-731DB,0.04416,Cerebellum 
+GTEX-1B933-3126-SM-7P8RL,0.07805,Cortex 
+GTEX-1B996-0011-R10b-SM-CJI3T,0,Frontal Cortex (BA9) 
+GTEX-1B996-0011-R1b-SM-7P8PO,0,Hippocampus 
+GTEX-1B996-0011-R2a-SM-7IGON,0,Substantia nigra 
+GTEX-1B996-0011-R3b-SM-9QEGY,0.01451,Anterior cingulate cortex (BA24) 
+GTEX-1B996-0011-R4b-SM-9OSVO,0.0306,Amygdala 
+GTEX-1B996-0011-R5a-SM-7P8PN,0,Caudate (basal ganglia) 
+GTEX-1B996-0011-R6b-SM-793AQ,0,Nucleus accumbens (basal ganglia) 
+GTEX-1B996-0011-R7b-SM-7IGNT,0,Putamen (basal ganglia) 
+GTEX-1B996-0011-R8b-SM-79OOS,0,Hypothalamus 
+GTEX-1B996-2926-SM-7MXUH,0.03349,Cerebellum 
+GTEX-1BAJH-0011-R10a-SM-7MXT9,0.03126,Frontal Cortex (BA9) 
+GTEX-1BAJH-0011-R11b-SM-7IGLM,0.01597,Cerebellar Hemisphere 
+GTEX-1BAJH-0011-R1a-SM-7P8SV,0.1078,Hippocampus 
+GTEX-1BAJH-0011-R3a-SM-7IGNU,0,Anterior cingulate cortex (BA24) 
+GTEX-1BAJH-0011-R6b-SM-7MXT2,0.02859,Nucleus accumbens (basal ganglia) 
+GTEX-1BAJH-0011-R8a-SM-7MXUB,0.01514,Hypothalamus 
+GTEX-1BAJH-0011-R9b-SM-7EPIQ,0,Spinal cord (cervical c-1) 
+GTEX-1BAJH-3126-SM-7MGXY,0,Cerebellum 
+GTEX-1C64N-0011-R11b-SM-7P8Q6,0,Cerebellar Hemisphere 
+GTEX-1C64N-0011-R1b-SM-7P8Q7,0,Hippocampus 
+GTEX-1C64N-0011-R6a-SM-7IGO9,0,Nucleus accumbens (basal ganglia) 
+GTEX-1C64N-0011-R7a-SM-7IGOI,0,Putamen (basal ganglia) 
+GTEX-1C64N-0011-R8b-SM-7MGXE,0,Hypothalamus 
+GTEX-1C64N-3026-SM-7MGVU,0,Cortex 
+GTEX-1C64N-3126-SM-79OO3,0,Cerebellum 
+GTEX-1C6VQ-0011-R10b-SM-7P8Q1,0.01065,Frontal Cortex (BA9) 
+GTEX-1C6VQ-0011-R1a-SM-7P8Q2,0,Hippocampus 
+GTEX-1C6VQ-0011-R9a-SM-7SB85,0,Spinal cord (cervical c-1) 
+GTEX-1C6VQ-3026-SM-7IGPU,0.01698,Cortex 
+GTEX-1C6VR-0011-R10b-SM-7P8QA,0.01392,Frontal Cortex (BA9) 
+GTEX-1C6VR-0011-R1a-SM-7MXUE,0.01628,Hippocampus 
+GTEX-1C6VR-0011-R2a-SM-7RHGZ,0,Substantia nigra 
+GTEX-1C6VR-0011-R4b-SM-9QEGZ,0.0344,Amygdala 
+GTEX-1C6VR-0011-R5a-SM-9QEH1,0,Caudate (basal ganglia) 
+GTEX-1C6VR-0011-R6a-SM-7MXU8,0.01835,Nucleus accumbens (basal ganglia) 
+GTEX-1C6VR-0011-R8b-SM-7MXUF,0,Hypothalamus 
+GTEX-1C6VR-3026-SM-7IGLW,0.03201,Cerebellum 
+GTEX-1C6VS-0011-R5a-SM-7MXU9,0.01435,Caudate (basal ganglia) 
+GTEX-1C6VS-0011-R9b-SM-9WG5W,0,Spinal cord (cervical c-1) 
+GTEX-1C6VS-3026-SM-79OLA,0,Cortex 
+GTEX-1C6WA-0011-R3a-SM-9OSVP,0.01389,Anterior cingulate cortex (BA24) 
+GTEX-1C6WA-0011-R4a-SM-9QEH2,0,Amygdala 
+GTEX-1C6WA-0011-R5a-SM-9WG5X,0.00912,Caudate (basal ganglia) 
+GTEX-1C6WA-0011-R6a-SM-7PBYP,0,Nucleus accumbens (basal ganglia) 
+GTEX-1C6WA-0011-R7b-SM-7P8S8,0.06104,Putamen (basal ganglia) 
+GTEX-1C6WA-0011-R8b-SM-7P8S7,0.1675,Hypothalamus 
+GTEX-1C6WA-3026-SM-7P8RQ,0.1079,Cortex 
+GTEX-1C6WA-3326-SM-7MKGN,0,Cerebellum 
+GTEX-1CAMQ-0011-R8a-SM-ARU85,0,Hypothalamus 
+GTEX-1CAMQ-0011-R9a-SM-9WG5Z,0.03072,Spinal cord (cervical c-1) 
+GTEX-1CAV2-0011-R11a-SM-ARU8D,0,Cerebellar Hemisphere 
+GTEX-1CAV2-0011-R1a-SM-ARZML,0.01793,Hippocampus 
+GTEX-1CAV2-0011-R5b-SM-9QEH4,0.01104,Caudate (basal ganglia) 
+GTEX-1CAV2-0011-R9b-SM-9WG5M,0.01824,Spinal cord (cervical c-1) 
+GTEX-1CAV2-2726-SM-7IGNN,0,Cortex 
+GTEX-1CB4G-0011-R10a-SM-9QEHS,0,Frontal Cortex (BA9) 
+GTEX-1CB4G-0011-R11a-SM-9OSWG,0,Cerebellar Hemisphere 
+GTEX-1CB4G-0011-R1b-SM-9QEHT,0,Hippocampus 
+GTEX-1CB4G-0011-R2a-SM-9QEGQ,0.01511,Substantia nigra 
+GTEX-1CB4G-0011-R3a-SM-CE6QQ,0,Anterior cingulate cortex (BA24) 
+GTEX-1CB4G-0011-R4b-SM-CJI28,0,Amygdala 
+GTEX-1CB4G-0011-R5a-SM-CKZNM,0.01543,Caudate (basal ganglia) 
+GTEX-1CB4G-0011-R6b-SM-9QEGO,0,Nucleus accumbens (basal ganglia) 
+GTEX-1CB4G-0011-R7b-SM-9QEGP,0,Putamen (basal ganglia) 
+GTEX-1CB4G-0011-R8b-SM-9WG7H,0,Hypothalamus 
+GTEX-1CB4G-2926-SM-7MKFQ,0,Cerebellum 
+GTEX-1CB4H-0011-R10b-SM-9QEH3,0.01918,Frontal Cortex (BA9) 
+GTEX-1CB4H-0011-R3b-SM-9OSVI,0.01365,Anterior cingulate cortex (BA24) 
+GTEX-1CB4H-0011-R5b-SM-9QEGN,0.01114,Caudate (basal ganglia) 
+GTEX-1CB4H-0011-R6b-SM-CKZNK,0,Nucleus accumbens (basal ganglia) 
+GTEX-1CB4H-0011-R7b-SM-CJI27,0.01255,Putamen (basal ganglia) 
+GTEX-1CB4H-0011-R8b-SM-CJI26,0,Hypothalamus 
+GTEX-1CB4H-0011-R9a-SM-CKZNL,0.01285,Spinal cord (cervical c-1) 
+GTEX-1CB4H-3026-SM-79OLX,0,Cerebellum 
+GTEX-1CB4H-3126-SM-7IGN4,0,Cortex 
+GTEX-1CB4J-0011-R10a-SM-9WG63,0,Frontal Cortex (BA9) 
+GTEX-1CB4J-0011-R1a-SM-9WG64,0,Hippocampus 
+GTEX-1CB4J-0011-R4b-SM-9WG5P,0.01575,Amygdala 
+GTEX-1CB4J-0011-R6b-SM-9WG7B,0.01629,Nucleus accumbens (basal ganglia) 
+GTEX-1CB4J-0011-R8a-SM-9QEHU,0,Hypothalamus 
+GTEX-1E1VI-0011-R10b-SM-ARU8F,0,Frontal Cortex (BA9) 
+GTEX-1E1VI-0011-R11a-SM-9OSWI,0.0288,Cerebellar Hemisphere 
+GTEX-1E1VI-0011-R1a-SM-ARZMM,0,Hippocampus 
+GTEX-1E1VI-0011-R2a-SM-9QEGS,0,Substantia nigra 
+GTEX-1E1VI-0011-R3a-SM-9OSWH,0.0229,Anterior cingulate cortex (BA24) 
+GTEX-1E1VI-0011-R4b-SM-9QEHV,0,Amygdala 
+GTEX-1E1VI-0011-R5b-SM-9WG5V,0,Caudate (basal ganglia) 
+GTEX-1E1VI-0011-R6a-SM-9OSVJ,0,Nucleus accumbens (basal ganglia) 
+GTEX-1E1VI-0011-R7b-SM-9QEGR,0.01005,Putamen (basal ganglia) 
+GTEX-1E1VI-0011-R8b-SM-ARU8E,0.01486,Hypothalamus 
+GTEX-1E1VI-2926-SM-7IGLT,0,Cerebellum 
+GTEX-1E1VI-3026-SM-7RHHU,0.02946,Cortex 
+GTEX-1E2YA-0011-R1b-SM-CJI29,0,Hippocampus 
+GTEX-1E2YA-0011-R5a-SM-9QEGT,0.01189,Caudate (basal ganglia) 
+GTEX-1E2YA-0011-R6b-SM-CE6R2,0,Nucleus accumbens (basal ganglia) 
+GTEX-1E2YA-0011-R7a-SM-CJI1Z,0.0095,Putamen (basal ganglia) 
+GTEX-1E2YA-0011-R8a-SM-CKZNG,0,Hypothalamus 
+GTEX-1E2YA-2926-SM-7MGWX,0,Cerebellum 
+GTEX-1E2YA-3026-SM-7IGO7,0,Cortex 
+GTEX-1EH9U-0011-R10a-SM-CJI2A,0.07247,Frontal Cortex (BA9) 
+GTEX-1EH9U-0011-R1b-SM-CJI2B,0,Hippocampus 
+GTEX-1EH9U-0011-R3b-SM-CL534,0.01065,Anterior cingulate cortex (BA24) 
+GTEX-1EH9U-0011-R5a-SM-CJI2K,0.009173,Caudate (basal ganglia) 
+GTEX-1EH9U-0011-R6a-SM-CJI2C,0,Nucleus accumbens (basal ganglia) 
+GTEX-1EH9U-0011-R7a-SM-9QEGU,0,Putamen (basal ganglia) 
+GTEX-1EH9U-0011-R9b-SM-9WG5T,0,Spinal cord (cervical c-1) 
+GTEX-1EH9U-3126-SM-7MXU5,0.01421,Cerebellum 
+GTEX-1EKGG-0011-R11a-SM-9QEHZ,0.01956,Cerebellar Hemisphere 
+GTEX-1EKGG-0011-R1b-SM-9QEI1,0,Hippocampus 
+GTEX-1EKGG-0011-R2a-SM-CE6R8,0.01733,Substantia nigra 
+GTEX-1EKGG-0011-R5a-SM-9OSVQ,0,Caudate (basal ganglia) 
+GTEX-1EKGG-0011-R6a-SM-CL538,0,Nucleus accumbens (basal ganglia) 
+GTEX-1EKGG-0011-R7a-SM-CKZNN,0,Putamen (basal ganglia) 
+GTEX-1EKGG-0011-R9a-SM-CMKFV,0,Spinal cord (cervical c-1) 
+GTEX-1EKGG-2926-SM-7EPIH,0.04713,Cortex 
+GTEX-1EKGG-3126-SM-9WPO5,0,Cerebellum 
+GTEX-1EMGI-0011-R10a-SM-9OSWY,0.02235,Frontal Cortex (BA9) 
+GTEX-1EMGI-0011-R11b-SM-9OSWX,0,Cerebellar Hemisphere 
+GTEX-1EMGI-0011-R1b-SM-9OSWZ,0.03179,Hippocampus 
+GTEX-1EMGI-0011-R2b-SM-9OSVS,0,Substantia nigra 
+GTEX-1EMGI-0011-R3b-SM-CE6R9,0,Anterior cingulate cortex (BA24) 
+GTEX-1EMGI-0011-R4b-SM-CJI2D,0,Amygdala 
+GTEX-1EMGI-0011-R5a-SM-CJI2E,0,Caudate (basal ganglia) 
+GTEX-1EMGI-0011-R6a-SM-9OSVR,0,Nucleus accumbens (basal ganglia) 
+GTEX-1EMGI-0011-R7b-SM-9QEH5,0.01454,Putamen (basal ganglia) 
+GTEX-1EMGI-0011-R8b-SM-9QEID,0.02578,Hypothalamus 
+GTEX-1EMGI-3026-SM-7P8P6,0,Cortex 
+GTEX-1EMGI-3126-SM-7MXUR,0.09043,Cerebellum 
+GTEX-1EN7A-0011-R3a-SM-9OSVT,0.009362,Anterior cingulate cortex (BA24) 
+GTEX-1EN7A-0011-R5a-SM-9QEH6,0,Caudate (basal ganglia) 
+GTEX-1EN7A-0011-R6b-SM-9QEHW,0.01274,Nucleus accumbens (basal ganglia) 
+GTEX-1EN7A-0011-R7b-SM-9QEHX,0,Putamen (basal ganglia) 
+GTEX-1EN7A-3026-SM-7PBYT,0,Cortex 
+GTEX-1EU9M-0011-R2b-SM-9QEH7,0,Substantia nigra 
+GTEX-1EU9M-0011-R3a-SM-9QEHY,0.01355,Anterior cingulate cortex (BA24) 
+GTEX-1EU9M-0011-R7b-SM-9OSVU,0.008386,Putamen (basal ganglia) 
+GTEX-1EU9M-0011-R9a-SM-9WG61,0.01957,Spinal cord (cervical c-1) 
+GTEX-1EU9M-2926-SM-793DF,0,Cerebellum 
+GTEX-1EWIQ-0011-R1a-SM-9OSX7,0.02537,Hippocampus 
+GTEX-1EWIQ-0011-R6a-SM-ARU8G,0,Nucleus accumbens (basal ganglia) 
+GTEX-1EWIQ-0011-R9a-SM-ARL8L,0,Spinal cord (cervical c-1) 
+GTEX-1EWIQ-3026-SM-7IGOJ,0,Cerebellum 
+GTEX-1EWIQ-3126-SM-7MXTI,0.047,Cortex 
+GTEX-1EX96-0011-R10b-SM-CE6QR,0,Frontal Cortex (BA9) 
+GTEX-1EX96-0011-R1a-SM-CE6R5,0.0162,Hippocampus 
+GTEX-1EX96-0011-R3b-SM-ARZMH,0.02545,Anterior cingulate cortex (BA24) 
+GTEX-1EX96-0011-R4a-SM-ARU82,0,Amygdala 
+GTEX-1EX96-0011-R5a-SM-ARU83,0,Caudate (basal ganglia) 
+GTEX-1EX96-0011-R6a-SM-9OSVV,0,Nucleus accumbens (basal ganglia) 
+GTEX-1EX96-0011-R7a-SM-9OSVW,0.01143,Putamen (basal ganglia) 
+GTEX-1EX96-3026-SM-7RHH5,0,Cortex 
+GTEX-1EX96-3126-SM-9JGGC,0,Cerebellum 
+GTEX-1F48J-0011-R10a-SM-9QEIB,0,Frontal Cortex (BA9) 
+GTEX-1F48J-0011-R11b-SM-9OSWV,0.0665,Cerebellar Hemisphere 
+GTEX-1F48J-0011-R1a-SM-9QEIC,0,Hippocampus 
+GTEX-1F48J-0011-R2a-SM-CL535,0,Substantia nigra 
+GTEX-1F48J-0011-R3b-SM-9OSVY,0,Anterior cingulate cortex (BA24) 
+GTEX-1F48J-0011-R4b-SM-9OSVX,0,Amygdala 
+GTEX-1F48J-0011-R5b-SM-9OSVZ,0,Caudate (basal ganglia) 
+GTEX-1F48J-0011-R6a-SM-CJI2F,0,Nucleus accumbens (basal ganglia) 
+GTEX-1F48J-0011-R7a-SM-CJI2G,0,Putamen (basal ganglia) 
+GTEX-1F48J-0011-R8a-SM-9OSWW,0.01469,Hypothalamus 
+GTEX-1F48J-2726-SM-7P8PW,0.08527,Cerebellum 
+GTEX-1F48J-2826-SM-7P8R4,0.0147,Cortex 
+GTEX-1F52S-0011-R11a-SM-CJI23,0.02029,Cerebellar Hemisphere 
+GTEX-1F52S-0011-R3a-SM-CKZNI,0.01721,Anterior cingulate cortex (BA24) 
+GTEX-1F52S-0011-R5a-SM-CJI22,0,Caudate (basal ganglia) 
+GTEX-1F52S-0011-R7b-SM-9QEH8,0.01786,Putamen (basal ganglia) 
+GTEX-1F52S-0011-R8a-SM-9OSXA,0.01298,Hypothalamus 
+GTEX-1F52S-0011-R9a-SM-9WG62,0,Spinal cord (cervical c-1) 
+GTEX-1F52S-3026-SM-7P8PV,0,Cerebellum 
+GTEX-1F52S-3126-SM-7PC3M,0.01332,Cortex 
+GTEX-1F6I4-0011-R10b-SM-9OSWT,0,Frontal Cortex (BA9) 
+GTEX-1F6I4-0011-R11b-SM-9OSWS,0,Cerebellar Hemisphere 
+GTEX-1F6I4-0011-R1a-SM-9OSWU,0,Hippocampus 
+GTEX-1F6I4-0011-R2a-SM-CL536,0.01864,Substantia nigra 
+GTEX-1F6I4-0011-R3a-SM-9QEH9,0,Anterior cingulate cortex (BA24) 
+GTEX-1F6I4-0011-R5b-SM-9QEHA,0,Caudate (basal ganglia) 
+GTEX-1F6I4-0011-R6a-SM-CE6R4,0.0119,Nucleus accumbens (basal ganglia) 
+GTEX-1F6I4-0011-R7a-SM-CJI24,0.01135,Putamen (basal ganglia) 
+GTEX-1F6I4-0011-R8a-SM-9QEIA,0.01443,Hypothalamus 
+GTEX-1F6I4-0011-R9a-SM-CMKFU,0,Spinal cord (cervical c-1) 
+GTEX-1F6I4-3026-SM-7P8SI,0,Cerebellum 
+GTEX-1F6I4-3126-SM-7P8SD,0.08303,Cortex 
+GTEX-1F6IF-0011-R10a-SM-9QEIN,0,Frontal Cortex (BA9) 
+GTEX-1F6IF-0011-R1b-SM-9WG78,0.02394,Hippocampus 
+GTEX-1F6IF-0011-R2b-SM-9QEHB,0,Substantia nigra 
+GTEX-1F6IF-0011-R4b-SM-CKZNJ,0.01517,Amygdala 
+GTEX-1F6IF-0011-R5b-SM-CM2RH,0,Caudate (basal ganglia) 
+GTEX-1F6IF-0011-R6a-SM-9QEIO,0,Nucleus accumbens (basal ganglia) 
+GTEX-1F6IF-0011-R8a-SM-9OSX5,0.0276,Hypothalamus 
+GTEX-1F6IF-3026-SM-7P8QN,0.01419,Cerebellum 
+GTEX-1F6RS-3126-SM-9MQK7,0,Cortex 
+GTEX-1F75A-0011-R11a-SM-AHZ35,0.01606,Cerebellar Hemisphere 
+GTEX-1F75A-0011-R1b-SM-CE6RA,0.01843,Hippocampus 
+GTEX-1F75A-0011-R3b-SM-ARL8K,0,Anterior cingulate cortex (BA24) 
+GTEX-1F75A-0011-R4a-SM-ARL8J,0,Amygdala 
+GTEX-1F75A-0011-R5a-SM-ARZMJ,0,Caudate (basal ganglia) 
+GTEX-1F75A-0011-R6b-SM-9QEHD,0,Nucleus accumbens (basal ganglia) 
+GTEX-1F75A-0011-R7b-SM-9QEHE,0,Putamen (basal ganglia) 
+GTEX-1F75A-0011-R8a-SM-CL539,0,Hypothalamus 
+GTEX-1F75A-2926-SM-7MXVN,0,Cerebellum 
+GTEX-1F75A-3026-SM-9KNU2,0,Cortex 
+GTEX-1F75B-0011-R2a-SM-ARL8I,0.01393,Substantia nigra 
+GTEX-1F75B-0011-R5a-SM-9QEHC,0,Caudate (basal ganglia) 
+GTEX-1F75B-0011-R6a-SM-ARZMI,0.01707,Nucleus accumbens (basal ganglia) 
+GTEX-1F75B-0011-R7a-SM-ARU84,0,Putamen (basal ganglia) 
+GTEX-1F75B-3026-SM-7PBZ7,0.02673,Cortex 
+GTEX-1F75W-0011-R10b-SM-ARU7Z,0.01473,Frontal Cortex (BA9) 
+GTEX-1F75W-0011-R11b-SM-AHZ34,0,Cerebellar Hemisphere 
+GTEX-1F75W-0011-R1a-SM-ARU81,0.01487,Hippocampus 
+GTEX-1F75W-0011-R5b-SM-9QEGV,0,Caudate (basal ganglia) 
+GTEX-1F75W-0011-R6a-SM-9QEI5,0,Nucleus accumbens (basal ganglia) 
+GTEX-1F75W-0011-R7a-SM-9QEI6,0.01424,Putamen (basal ganglia) 
+GTEX-1F75W-0011-R8a-SM-9QEI4,0,Hypothalamus 
+GTEX-1F75W-3126-SM-7P8SJ,0.1482,Cerebellum 
+GTEX-1F7RK-0011-R10b-SM-ARU7Y,0.01635,Frontal Cortex (BA9) 
+GTEX-1F7RK-0011-R11b-SM-9QEI2,0,Cerebellar Hemisphere 
+GTEX-1F7RK-0011-R3b-SM-9OSWJ,0,Anterior cingulate cortex (BA24) 
+GTEX-1F7RK-0011-R4b-SM-9QEI7,0,Amygdala 
+GTEX-1F7RK-0011-R5b-SM-9WG5S,0,Caudate (basal ganglia) 
+GTEX-1F7RK-0011-R6b-SM-ARZMG,0,Nucleus accumbens (basal ganglia) 
+GTEX-1F7RK-1826-SM-7RHI4,0.01706,Cortex 
+GTEX-1F88E-0011-R6a-SM-CKZNW,0,Nucleus accumbens (basal ganglia) 
+GTEX-1F88E-0011-R8a-SM-CJI2H,0,Hypothalamus 
+GTEX-1F88E-2826-SM-7RHHE,0.01363,Cortex 
+GTEX-1F88F-0011-R9b-SM-9WG7L,0,Spinal cord (cervical c-1) 
+GTEX-1GF9V-0011-R10b-SM-CKZNP,0.05964,Frontal Cortex (BA9) 
+GTEX-1GF9V-0011-R1a-SM-CKZNQ,0,Hippocampus 
+GTEX-1GF9V-0011-R5a-SM-9QEI8,0,Caudate (basal ganglia) 
+GTEX-1GF9V-0011-R6b-SM-CJI2Q,0,Nucleus accumbens (basal ganglia) 
+GTEX-1GF9V-0011-R7a-SM-CJI2R,0.03297,Putamen (basal ganglia) 
+GTEX-1GF9V-0011-R8b-SM-CE6RB,0.03649,Hypothalamus 
+GTEX-1GF9V-0011-R9a-SM-CL53K,0.02072,Spinal cord (cervical c-1) 
+GTEX-1GF9V-2926-SM-7PBXO,0.02534,Cortex 
+GTEX-1GF9V-3026-SM-7P8R8,0,Cerebellum 
+GTEX-1GF9W-0011-R10a-SM-9OSXH,0,Frontal Cortex (BA9) 
+GTEX-1GF9W-0011-R11b-SM-9OSXG,0.02061,Cerebellar Hemisphere 
+GTEX-1GF9W-0011-R1a-SM-9QEIQ,0,Hippocampus 
+GTEX-1GF9W-0011-R3b-SM-CJI2S,0.01299,Anterior cingulate cortex (BA24) 
+GTEX-1GF9W-0011-R4a-SM-CE6RH,0.01482,Amygdala 
+GTEX-1GF9W-0011-R5a-SM-CKZO4,0,Caudate (basal ganglia) 
+GTEX-1GF9W-0011-R6b-SM-9QEIE,0.0108,Nucleus accumbens (basal ganglia) 
+GTEX-1GF9W-0011-R7b-SM-9QEIF,0,Putamen (basal ganglia) 
+GTEX-1GF9W-0011-R8b-SM-9QEIR,0,Hypothalamus 
+GTEX-1GF9W-0011-R9b-SM-9WG7J,0,Spinal cord (cervical c-1) 
+GTEX-1GF9W-2626-SM-7P8TA,0.08494,Cortex 
+GTEX-1GF9W-2726-SM-9JGGW,0,Cerebellum 
+GTEX-1GMR8-0011-R10a-SM-CJI21,0,Frontal Cortex (BA9) 
+GTEX-1GMR8-0011-R11b-SM-9OSX2,0.022,Cerebellar Hemisphere 
+GTEX-1GMR8-0011-R1b-SM-CJI2O,0,Hippocampus 
+GTEX-1GMR8-0011-R2a-SM-CE6RD,0.0122,Substantia nigra 
+GTEX-1GMR8-0011-R3b-SM-9QEIG,0,Anterior cingulate cortex (BA24) 
+GTEX-1GMR8-0011-R4a-SM-9OSX1,0,Amygdala 
+GTEX-1GMR8-0011-R5b-SM-9QEIH,0,Caudate (basal ganglia) 
+GTEX-1GMR8-0011-R6b-SM-CE6RC,0.02037,Nucleus accumbens (basal ganglia) 
+GTEX-1GMR8-0011-R7b-SM-CJI2I,0,Putamen (basal ganglia) 
+GTEX-1GMR8-0011-R8a-SM-CKZNX,0,Hypothalamus 
+GTEX-1GMR8-3026-SM-9KNVF,0.01472,Cortex 
+GTEX-1GMRU-0011-R10b-SM-CJI2L,0.01551,Frontal Cortex (BA9) 
+GTEX-1GMRU-0011-R11b-SM-C1YQ4,0,Cerebellar Hemisphere 
+GTEX-1GMRU-0011-R5a-SM-CKZNS,0,Caudate (basal ganglia) 
+GTEX-1GMRU-0011-R6b-SM-A9G3B,0,Nucleus accumbens (basal ganglia) 
+GTEX-1GMRU-0011-R7b-SM-A96TJ,0,Putamen (basal ganglia) 
+GTEX-1GMRU-3026-SM-7P8TC,0.05074,Cortex 
+GTEX-1GN1U-0011-R10b-SM-CKZNH,0,Frontal Cortex (BA9) 
+GTEX-1GN1U-0011-R1a-SM-CJI25,0.03299,Hippocampus 
+GTEX-1GN1U-0011-R2a-SM-CL53A,0.01254,Substantia nigra 
+GTEX-1GN1U-0011-R5a-SM-9QEIS,0,Caudate (basal ganglia) 
+GTEX-1GN1U-0011-R6a-SM-CKZNO,0,Nucleus accumbens (basal ganglia) 
+GTEX-1GN1U-0011-R8a-SM-CL537,0.01331,Hypothalamus 
+GTEX-1GN1U-0011-R9b-SM-CMKFW,0,Spinal cord (cervical c-1) 
+GTEX-1GN1V-0011-R10a-SM-CKZNU,0,Frontal Cortex (BA9) 
+GTEX-1GN1V-0011-R8a-SM-CKZNV,0,Hypothalamus 
+GTEX-1GN1V-3126-SM-7PBZG,0.01083,Cortex 
+GTEX-1GN2E-0011-R10a-SM-CE6RI,0,Frontal Cortex (BA9) 
+GTEX-1GN2E-0011-R1b-SM-CE6RJ,0,Hippocampus 
+GTEX-1GN2E-0011-R2a-SM-9WG7D,0.02196,Substantia nigra 
+GTEX-1GN2E-0011-R5b-SM-CJI2M,0,Caudate (basal ganglia) 
+GTEX-1GN2E-0011-R6b-SM-9QEII,0,Nucleus accumbens (basal ganglia) 
+GTEX-1GN2E-0011-R7b-SM-9QEIJ,0,Putamen (basal ganglia) 
+GTEX-1GN2E-0011-R8a-SM-CE6RK,0.03205,Hypothalamus 
+GTEX-1GN2E-0011-R9b-SM-9WG7F,0,Spinal cord (cervical c-1) 
+GTEX-1GN2E-3026-SM-9WG6I,0,Cortex 
+GTEX-1GN73-0011-R10b-SM-CKZNR,0,Frontal Cortex (BA9) 
+GTEX-1GN73-0011-R11b-SM-9OSX4,0,Cerebellar Hemisphere 
+GTEX-1GN73-0011-R1a-SM-CKZNT,0,Hippocampus 
+GTEX-1GN73-0011-R2a-SM-CJI2V,0.02869,Substantia nigra 
+GTEX-1GN73-0011-R3b-SM-9QEIL,0,Anterior cingulate cortex (BA24) 
+GTEX-1GN73-0011-R4b-SM-9QEIK,0,Amygdala 
+GTEX-1GN73-0011-R5a-SM-9QEIM,0,Caudate (basal ganglia) 
+GTEX-1GN73-0011-R6b-SM-CJI2T,0.01525,Nucleus accumbens (basal ganglia) 
+GTEX-1GN73-0011-R7a-SM-CJI2U,0,Putamen (basal ganglia) 
+GTEX-1GN73-0011-R8b-SM-CKZNY,0,Hypothalamus 
+GTEX-1GN73-0011-R9a-SM-CKZO5,0,Spinal cord (cervical c-1) 
+GTEX-1GN73-3026-SM-7MXV8,0.03217,Cerebellum 
+GTEX-1GN73-3126-SM-9KNTY,0,Cortex 
+GTEX-1GPI6-0011-R5a-SM-CJI2W,0,Caudate (basal ganglia) 
+GTEX-1GTWX-0011-R10b-SM-CJI2X,0,Frontal Cortex (BA9) 
+GTEX-1GTWX-0011-R11b-SM-C1YQJ,0.02413,Cerebellar Hemisphere 
+GTEX-1GTWX-0011-R1a-SM-CE6RL,0.03107,Hippocampus 
+GTEX-1GTWX-0011-R2b-SM-ADEH5,0.01366,Substantia nigra 
+GTEX-1GTWX-0011-R3b-SM-CJI2Z,0.01329,Anterior cingulate cortex (BA24) 
+GTEX-1GTWX-0011-R4a-SM-C1YQI,0.0133,Amygdala 
+GTEX-1GTWX-0011-R5b-SM-CKZO6,0.01864,Caudate (basal ganglia) 
+GTEX-1GTWX-0011-R6a-SM-A96RN,0,Nucleus accumbens (basal ganglia) 
+GTEX-1GTWX-0011-R7a-SM-A96RO,0,Putamen (basal ganglia) 
+GTEX-1GTWX-0011-R8a-SM-CE6RM,0,Hypothalamus 
+GTEX-1GTWX-0011-R9a-SM-ADEH4,0,Spinal cord (cervical c-1) 
+GTEX-1GTWX-2926-SM-7MXV4,0.05619,Cerebellum 
+GTEX-1GZ2Q-0011-R10b-SM-CE6RN,0,Frontal Cortex (BA9) 
+GTEX-1GZ2Q-0011-R1a-SM-CJI2Y,0,Hippocampus 
+GTEX-1GZ2Q-0011-R2b-SM-9OSWO,0.008784,Substantia nigra 
+GTEX-1GZ2Q-0011-R3a-SM-A96RP,0.01891,Anterior cingulate cortex (BA24) 
+GTEX-1GZ2Q-0011-R5a-SM-A96RQ,0,Caudate (basal ganglia) 
+GTEX-1GZ2Q-0011-R6a-SM-9OSWM,0.01511,Nucleus accumbens (basal ganglia) 
+GTEX-1GZ2Q-0011-R7b-SM-9OSWN,0,Putamen (basal ganglia) 
+GTEX-1GZ2Q-0011-R8a-SM-CE6RO,0.01942,Hypothalamus 
+GTEX-1GZ2Q-0011-R9a-SM-9WG7A,0.01558,Spinal cord (cervical c-1) 
+GTEX-1GZ2Q-3026-SM-9JGG3,0,Cerebellum 
+GTEX-1GZ2Q-3226-SM-9WG6L,0,Cortex 
+GTEX-1GZ4I-0011-R10a-SM-9OSX3,0.04588,Frontal Cortex (BA9) 
+GTEX-1GZ4I-0011-R11b-SM-9OSWR,0.04058,Cerebellar Hemisphere 
+GTEX-1GZ4I-0011-R3b-SM-9OSWP,0.01172,Anterior cingulate cortex (BA24) 
+GTEX-1GZ4I-0011-R4a-SM-9QEI9,0.01402,Amygdala 
+GTEX-1GZ4I-0011-R5a-SM-9OSWQ,0,Caudate (basal ganglia) 
+GTEX-1GZ4I-0011-R6b-SM-9WG77,0.02722,Nucleus accumbens (basal ganglia) 
+GTEX-1GZ4I-0011-R7b-SM-ARU71,0,Putamen (basal ganglia) 
+GTEX-1GZ4I-0011-R8b-SM-9WG76,0,Hypothalamus 
+GTEX-1GZ4I-0011-R9b-SM-B2LY8,0,Spinal cord (cervical c-1) 
+GTEX-1GZ4I-2926-SM-9JGGO,0,Cerebellum 
+GTEX-1GZ4I-3026-SM-9KNTX,0,Cortex 
+GTEX-1GZHY-0011-R11a-SM-C1YRQ,0.04382,Cerebellar Hemisphere 
+GTEX-1GZHY-0011-R1a-SM-CE6RR,0.01594,Hippocampus 
+GTEX-1GZHY-0011-R6a-SM-9OSWL,0,Nucleus accumbens (basal ganglia) 
+GTEX-1GZHY-0011-R8b-SM-9OSWK,0.009549,Hypothalamus 
+GTEX-1GZHY-0011-R9a-SM-9WG5R,0.01691,Spinal cord (cervical c-1) 
+GTEX-1GZHY-3026-SM-7MXVA,0,Cerebellum 
+GTEX-1GZHY-3126-SM-9QEHH,0,Cortex 
+GTEX-1H1CY-0011-R10a-SM-CE6SD,0,Frontal Cortex (BA9) 
+GTEX-1H1CY-0011-R11a-SM-C1YQR,0,Cerebellar Hemisphere 
+GTEX-1H1CY-0011-R1a-SM-CKZOZ,0,Hippocampus 
+GTEX-1H1CY-0011-R4b-SM-CJI3G,0,Amygdala 
+GTEX-1H1CY-0011-R5a-SM-CM2SN,0,Caudate (basal ganglia) 
+GTEX-1H1CY-0011-R6b-SM-CE6RP,0,Nucleus accumbens (basal ganglia) 
+GTEX-1H1CY-0011-R7a-SM-CJI32,0.02047,Putamen (basal ganglia) 
+GTEX-1H1CY-0011-R8b-SM-CJI31,0,Hypothalamus 
+GTEX-1H1CY-3026-SM-9OSW7,0,Cerebellum 
+GTEX-1H1DF-0011-R9b-SM-CM2RN,0,Spinal cord (cervical c-1) 
+GTEX-1H1DG-0011-R10b-SM-CE6S7,0,Frontal Cortex (BA9) 
+GTEX-1H1DG-0011-R11a-SM-C1YQK,0.04339,Cerebellar Hemisphere 
+GTEX-1H1DG-0011-R1b-SM-CKZP1,0,Hippocampus 
+GTEX-1H1DG-0011-R2a-SM-ADEIQ,0,Substantia nigra 
+GTEX-1H1DG-0011-R4a-SM-CE6RQ,0,Amygdala 
+GTEX-1H1DG-0011-R5b-SM-CJI33,0,Caudate (basal ganglia) 
+GTEX-1H1DG-0011-R6a-SM-A9SK8,0.029,Nucleus accumbens (basal ganglia) 
+GTEX-1H1DG-0011-R7b-SM-A96RR,0,Putamen (basal ganglia) 
+GTEX-1H1DG-0011-R8a-SM-CL54Z,0,Hypothalamus 
+GTEX-1H1DG-0011-R9b-SM-ACKVB,0.01293,Spinal cord (cervical c-1) 
+GTEX-1H1DG-2826-SM-9JGHB,0,Cerebellum 
+GTEX-1H1DG-2926-SM-9WYU3,0,Cortex 
+GTEX-1H1ZS-0011-R10b-SM-A9SK9,0.01481,Frontal Cortex (BA9) 
+GTEX-1H1ZS-0011-R11a-SM-C1YQM,0.04911,Cerebellar Hemisphere 
+GTEX-1H1ZS-0011-R1b-SM-A9G1E,0,Hippocampus 
+GTEX-1H1ZS-0011-R2b-SM-CL54Q,0,Substantia nigra 
+GTEX-1H1ZS-0011-R3b-SM-CE6RS,0.01738,Anterior cingulate cortex (BA24) 
+GTEX-1H1ZS-0011-R4b-SM-CKZO7,0,Amygdala 
+GTEX-1H1ZS-0011-R5b-SM-CL53L,0,Caudate (basal ganglia) 
+GTEX-1H1ZS-0011-R6b-SM-A9G1F,0.01721,Nucleus accumbens (basal ganglia) 
+GTEX-1H1ZS-0011-R7a-SM-CL54P,0,Putamen (basal ganglia) 
+GTEX-1H1ZS-0011-R8b-SM-A9SKA,0,Hypothalamus 
+GTEX-1H1ZS-0011-R9a-SM-CM2SO,0.04684,Spinal cord (cervical c-1) 
+GTEX-1H1ZS-2926-SM-9WPP2,0,Cerebellum 
+GTEX-1H1ZS-3026-SM-9KNUJ,0,Cortex 
+GTEX-1H23P-0011-R10a-SM-A96RS,0,Frontal Cortex (BA9) 
+GTEX-1H23P-0011-R1a-SM-ACKVC,0,Hippocampus 
+GTEX-1H23P-0011-R2a-SM-CKZP3,0,Substantia nigra 
+GTEX-1H23P-0011-R3b-SM-CL54S,0.01139,Anterior cingulate cortex (BA24) 
+GTEX-1H23P-0011-R4b-SM-CL54R,0,Amygdala 
+GTEX-1H23P-0011-R5a-SM-CKZOI,0.0315,Caudate (basal ganglia) 
+GTEX-1H23P-0011-R6b-SM-A9G1H,0.01248,Nucleus accumbens (basal ganglia) 
+GTEX-1H23P-0011-R7b-SM-CKZP2,0,Putamen (basal ganglia) 
+GTEX-1H23P-0011-R8b-SM-A9G1G,0,Hypothalamus 
+GTEX-1H23P-0011-R9a-SM-CM2T1,0,Spinal cord (cervical c-1) 
+GTEX-1H23P-2926-SM-9WYU8,0,Cortex 
+GTEX-1H2FU-0011-R3b-SM-CKZP4,0.01248,Anterior cingulate cortex (BA24) 
+GTEX-1H2FU-0011-R4a-SM-CL551,0.009544,Amygdala 
+GTEX-1H2FU-0011-R5b-SM-CL552,0,Caudate (basal ganglia) 
+GTEX-1H2FU-0011-R9b-SM-CE6S4,0,Spinal cord (cervical c-1) 
+GTEX-1H2FU-3126-SM-9WYUJ,0,Cortex 
+GTEX-1H3NZ-0011-R11b-SM-CE6SF,0,Cerebellar Hemisphere 
+GTEX-1H3NZ-0011-R1a-SM-CKZP5,0,Hippocampus 
+GTEX-1H3NZ-0011-R4a-SM-CL54T,0.01963,Amygdala 
+GTEX-1H3NZ-0011-R5a-SM-CM2SP,0,Caudate (basal ganglia) 
+GTEX-1H3NZ-0011-R6b-SM-A9G1N,0.01577,Nucleus accumbens (basal ganglia) 
+GTEX-1H3NZ-0011-R7a-SM-A9SKD,0,Putamen (basal ganglia) 
+GTEX-1H3NZ-0011-R8a-SM-CKZP6,0,Hypothalamus 
+GTEX-1H3NZ-0011-R9a-SM-ADEH7,0,Spinal cord (cervical c-1) 
+GTEX-1H3NZ-2926-SM-9WPQ8,0.07799,Cerebellum 
+GTEX-1H3NZ-3026-SM-9JGHW,0,Cortex 
+GTEX-1H3O1-0011-R10a-SM-CJI3O,0.02717,Frontal Cortex (BA9) 
+GTEX-1H3O1-0011-R11a-SM-A96RV,0,Cerebellar Hemisphere 
+GTEX-1H3O1-0011-R1b-SM-CL554,0,Hippocampus 
+GTEX-1H3O1-0011-R2b-SM-CKZOT,0.01424,Substantia nigra 
+GTEX-1H3O1-0011-R3a-SM-ACKVD,0,Anterior cingulate cortex (BA24) 
+GTEX-1H3O1-0011-R4b-SM-A9SKE,0,Amygdala 
+GTEX-1H3O1-0011-R5b-SM-ADEH8,0,Caudate (basal ganglia) 
+GTEX-1H3O1-0011-R6b-SM-CL54U,0.03225,Nucleus accumbens (basal ganglia) 
+GTEX-1H3O1-0011-R7a-SM-CE6SJ,0,Putamen (basal ganglia) 
+GTEX-1H3O1-0011-R8a-SM-CL555,0,Hypothalamus 
+GTEX-1H3O1-0011-R9b-SM-CM2SQ,0,Spinal cord (cervical c-1) 
+GTEX-1H3O1-1726-SM-9WYSR,0.03372,Cortex 
+GTEX-1H3O1-1826-SM-A96TO,0,Cerebellum 
+GTEX-1H3VE-0011-R10b-SM-A9SKC,0,Frontal Cortex (BA9) 
+GTEX-1H3VE-0011-R11b-SM-C1YRP,0.02195,Cerebellar Hemisphere 
+GTEX-1H3VE-0011-R1a-SM-A9G1K,0.02737,Hippocampus 
+GTEX-1H3VE-0011-R2a-SM-CE6SA,0.01525,Substantia nigra 
+GTEX-1H3VE-0011-R3a-SM-CE6SK,0.06078,Anterior cingulate cortex (BA24) 
+GTEX-1H3VE-0011-R5a-SM-CKZOU,0,Caudate (basal ganglia) 
+GTEX-1H3VE-0011-R6b-SM-A9G1M,0,Nucleus accumbens (basal ganglia) 
+GTEX-1H3VE-0011-R7b-SM-CE6S9,0,Putamen (basal ganglia) 
+GTEX-1H3VE-0011-R8b-SM-A9G1L,0,Hypothalamus 
+GTEX-1H3VE-2726-SM-9WPP3,0.01686,Cortex 
+GTEX-1H3VE-2826-SM-9WPOL,0,Cerebellum 
+GTEX-1H4P4-0011-R10b-SM-CE6SG,0,Frontal Cortex (BA9) 
+GTEX-1H4P4-0011-R11b-SM-CE6S8,0,Cerebellar Hemisphere 
+GTEX-1H4P4-0011-R1b-SM-CL54V,0,Hippocampus 
+GTEX-1H4P4-0011-R6a-SM-ARZLR,0.01622,Nucleus accumbens (basal ganglia) 
+GTEX-1H4P4-0011-R7b-SM-ARU77,0,Putamen (basal ganglia) 
+GTEX-1H4P4-2726-SM-9JGGB,0.01808,Cerebellum 
+GTEX-1HB9E-0011-R10a-SM-CJI3H,0.0178,Frontal Cortex (BA9) 
+GTEX-1HB9E-0011-R11b-SM-ARU79,0,Cerebellar Hemisphere 
+GTEX-1HB9E-0011-R2b-SM-A96RW,0,Substantia nigra 
+GTEX-1HB9E-0011-R3a-SM-ARL7D,0,Anterior cingulate cortex (BA24) 
+GTEX-1HB9E-0011-R4b-SM-ARZLS,0,Amygdala 
+GTEX-1HB9E-0011-R5b-SM-ARU78,0,Caudate (basal ganglia) 
+GTEX-1HB9E-0011-R6b-SM-A9G1P,0.01933,Nucleus accumbens (basal ganglia) 
+GTEX-1HB9E-0011-R7b-SM-A9G1Q,0.01911,Putamen (basal ganglia) 
+GTEX-1HB9E-0011-R8b-SM-A9G1O,0,Hypothalamus 
+GTEX-1HB9E-2926-SM-D4P3S,0,Cortex 
+GTEX-1HB9E-3126-SM-AHZ4M,0,Cerebellum 
+GTEX-1HBPH-0011-R10a-SM-CE6SI,0.01884,Frontal Cortex (BA9) 
+GTEX-1HBPH-0011-R3a-SM-A96RY,0.0348,Anterior cingulate cortex (BA24) 
+GTEX-1HBPH-0011-R4a-SM-A96RX,0,Amygdala 
+GTEX-1HBPH-0011-R5b-SM-A9G1R,0.01378,Caudate (basal ganglia) 
+GTEX-1HBPH-0011-R6a-SM-CKZOV,0,Nucleus accumbens (basal ganglia) 
+GTEX-1HBPH-0011-R8b-SM-CL556,0,Hypothalamus 
+GTEX-1HBPH-0011-R9a-SM-CMKH3,0.02814,Spinal cord (cervical c-1) 
+GTEX-1HBPH-3026-SM-9WPNY,0,Cerebellum 
+GTEX-1HBPH-3126-SM-9WYUV,0.02985,Cortex 
+GTEX-1HBPI-0011-R10a-SM-A96RZ,0,Frontal Cortex (BA9) 
+GTEX-1HBPI-0011-R11b-SM-CE6SH,0.07595,Cerebellar Hemisphere 
+GTEX-1HBPI-0011-R1b-SM-A9SKF,0,Hippocampus 
+GTEX-1HBPI-0011-R4a-SM-CJI3K,0.03076,Amygdala 
+GTEX-1HBPI-0011-R5a-SM-CKZOW,0,Caudate (basal ganglia) 
+GTEX-1HBPI-0011-R6b-SM-A9G1T,0.01466,Nucleus accumbens (basal ganglia) 
+GTEX-1HBPI-0011-R8a-SM-A9G1S,0,Hypothalamus 
+GTEX-1HBPI-0011-R9b-SM-ARL76,0,Spinal cord (cervical c-1) 
+GTEX-1HBPI-2726-SM-9WPPF,0.05633,Cerebellum 
+GTEX-1HBPI-2826-SM-ARZNO,0.02794,Cortex 
+GTEX-1HBPM-0011-R10a-SM-CJI3Q,0,Frontal Cortex (BA9) 
+GTEX-1HBPM-0011-R6b-SM-ARU73,0,Nucleus accumbens (basal ganglia) 
+GTEX-1HBPM-0011-R9b-SM-ARL7C,0,Spinal cord (cervical c-1) 
+GTEX-1HBPM-2926-SM-CL54E,0,Cortex 
+GTEX-1HCU6-0011-R10a-SM-CKZP8,0.01381,Frontal Cortex (BA9) 
+GTEX-1HCU6-0011-R11b-SM-AHZ2F,0.01491,Cerebellar Hemisphere 
+GTEX-1HCU6-0011-R3a-SM-ARU75,0,Anterior cingulate cortex (BA24) 
+GTEX-1HCU6-0011-R4b-SM-ARU74,0,Amygdala 
+GTEX-1HCU6-0011-R5a-SM-ARU76,0,Caudate (basal ganglia) 
+GTEX-1HCU6-0011-R7b-SM-ARL77,0.1205,Putamen (basal ganglia) 
+GTEX-1HCU6-0011-R8a-SM-CJI3R,0,Hypothalamus 
+GTEX-1HCU6-3126-SM-CL54L,0,Cortex 
+GTEX-1HCVE-0011-R10a-SM-ARZLT,0,Frontal Cortex (BA9) 
+GTEX-1HCVE-0011-R5b-SM-CKZP7,0,Caudate (basal ganglia) 
+GTEX-1HCVE-0011-R7b-SM-A9G1I,0,Putamen (basal ganglia) 
+GTEX-1HCVE-0011-R8a-SM-ARU7A,0,Hypothalamus 
+GTEX-1HCVE-2926-SM-9WPPJ,0,Cerebellum 
+GTEX-1HCVE-3026-SM-CL54G,0,Cortex 
+GTEX-1HFI6-0011-R10b-SM-ARZLO,0,Frontal Cortex (BA9) 
+GTEX-1HFI6-0011-R11b-SM-A96RU,0,Cerebellar Hemisphere 
+GTEX-1HFI6-0011-R2a-SM-CMKH5,0,Substantia nigra 
+GTEX-1HFI6-0011-R3b-SM-A9SKB,0,Anterior cingulate cortex (BA24) 
+GTEX-1HFI6-0011-R4b-SM-A96RT,0,Amygdala 
+GTEX-1HFI6-0011-R5a-SM-A9G1J,0.01557,Caudate (basal ganglia) 
+GTEX-1HFI6-0011-R6b-SM-CM2SR,0.07196,Nucleus accumbens (basal ganglia) 
+GTEX-1HFI6-0011-R7b-SM-CM2SS,0.01315,Putamen (basal ganglia) 
+GTEX-1HFI6-0011-R8a-SM-ARZLP,0,Hypothalamus 
+GTEX-1HFI6-0011-R9b-SM-CMKH4,0,Spinal cord (cervical c-1) 
+GTEX-1HFI6-3026-SM-CNPPJ,0,Cortex 
+GTEX-1HGF4-0011-R10b-SM-CE6S5,0.01637,Frontal Cortex (BA9) 
+GTEX-1HGF4-0011-R11a-SM-C1YRR,0.0799,Cerebellar Hemisphere 
+GTEX-1HGF4-0011-R1a-SM-CJI3S,0.01388,Hippocampus 
+GTEX-1HGF4-0011-R3b-SM-CL54W,0,Anterior cingulate cortex (BA24) 
+GTEX-1HGF4-0011-R5b-SM-CM2ST,0,Caudate (basal ganglia) 
+GTEX-1HGF4-0011-R6a-SM-A96S1,0,Nucleus accumbens (basal ganglia) 
+GTEX-1HGF4-0011-R7a-SM-A96S2,0,Putamen (basal ganglia) 
+GTEX-1HGF4-0011-R8b-SM-CKZP9,0.01425,Hypothalamus 
+GTEX-1HGF4-0011-R9a-SM-ADEH9,0,Spinal cord (cervical c-1) 
+GTEX-1HGF4-3126-SM-CL54M,0,Cortex 
+GTEX-1HR98-0011-R1a-SM-ARZLQ,0,Hippocampus 
+GTEX-1HR98-0011-R2a-SM-ARL7A,0,Substantia nigra 
+GTEX-1HR98-0011-R3b-SM-A9G1U,0.01436,Anterior cingulate cortex (BA24) 
+GTEX-1HR98-0011-R5a-SM-A9G1V,0.02378,Caudate (basal ganglia) 
+GTEX-1HR98-0011-R9b-SM-ARL79,0,Spinal cord (cervical c-1) 
+GTEX-1HR98-3026-SM-CNPPK,0.0432,Cortex 
+GTEX-1HR9M-0011-R10a-SM-CM2SU,0.01179,Frontal Cortex (BA9) 
+GTEX-1HR9M-0011-R5a-SM-ARU72,0.01216,Caudate (basal ganglia) 
+GTEX-1HR9M-0011-R6a-SM-ARU6Z,0.01594,Nucleus accumbens (basal ganglia) 
+GTEX-1HSKV-0011-R10b-SM-CMKH6,0,Frontal Cortex (BA9) 
+GTEX-1HSKV-0011-R11b-SM-AHZ2E,0.1361,Cerebellar Hemisphere 
+GTEX-1HSKV-0011-R1b-SM-CMKH7,0,Hippocampus 
+GTEX-1HSKV-0011-R5b-SM-ARZLN,0,Caudate (basal ganglia) 
+GTEX-1HSKV-0011-R8a-SM-CL54X,0.01714,Hypothalamus 
+GTEX-1HSKV-2926-SM-B2LWJ,0,Cerebellum 
+GTEX-1HSKV-3026-SM-A96SL,0,Cortex 
+GTEX-1HSMO-0011-R10a-SM-CL54Y,0.01131,Frontal Cortex (BA9) 
+GTEX-1HSMO-0011-R1a-SM-CM2SV,0,Hippocampus 
+GTEX-1HSMO-0011-R2a-SM-CL553,0.02698,Substantia nigra 
+GTEX-1HSMO-0011-R9b-SM-CM2T2,0,Spinal cord (cervical c-1) 
+GTEX-1HSMO-2926-SM-C1YR5,0.02174,Cerebellum 
+GTEX-1HSMO-3026-SM-A9G3F,0,Cortex 
+GTEX-1HT8W-0011-R1b-SM-CJI3V,0,Hippocampus 
+GTEX-1HT8W-0011-R2a-SM-CMKH9,0,Substantia nigra 
+GTEX-1HT8W-0011-R5b-SM-CJI3P,0,Caudate (basal ganglia) 
+GTEX-1HT8W-0011-R6a-SM-CM2SY,0,Nucleus accumbens (basal ganglia) 
+GTEX-1HT8W-0011-R7b-SM-CMKH8,0,Putamen (basal ganglia) 
+GTEX-1HT8W-0011-R8b-SM-CM2SX,0,Hypothalamus 
+GTEX-1HT8W-3026-SM-CGQEO,0,Cortex 
+GTEX-1HUB1-0011-R11b-SM-CE6SC,0,Cerebellar Hemisphere 
+GTEX-1HUB1-0011-R3b-SM-CKZOX,0.01317,Anterior cingulate cortex (BA24) 
+GTEX-1HUB1-0011-R5a-SM-CKZOY,0,Caudate (basal ganglia) 
+GTEX-1HUB1-0011-R6b-SM-ARU6W,0,Nucleus accumbens (basal ganglia) 
+GTEX-1HUB1-2926-SM-ACKXA,0.01402,Cortex 
+GTEX-1I19N-0011-R11b-SM-ARU6Y,0,Cerebellar Hemisphere 
+GTEX-1I19N-0011-R5b-SM-ARU6X,0,Caudate (basal ganglia) 
+GTEX-1I19N-0011-R6b-SM-CY8GC,0,Nucleus accumbens (basal ganglia) 
+GTEX-1I19N-0011-R9a-SM-CMKHN,0.03833,Spinal cord (cervical c-1) 
+GTEX-1I19N-3026-SM-CL55E,0,Cortex 
+GTEX-1I1CD-0011-R10b-SM-CJI3W,0,Frontal Cortex (BA9) 
+GTEX-1I1CD-0011-R2a-SM-CM2T3,0.01423,Substantia nigra 
+GTEX-1I1CD-0011-R6b-SM-CJI3Y,0,Nucleus accumbens (basal ganglia) 
+GTEX-1I1CD-0011-R7a-SM-CMKHA,0.02832,Putamen (basal ganglia) 
+GTEX-1I1CD-0011-R8b-SM-CJI3X,0,Hypothalamus 
+GTEX-1I1CD-0011-R9a-SM-CMKHB,0,Spinal cord (cervical c-1) 
+GTEX-1I1CD-2926-SM-A96SJ,0.07082,Cerebellum 
+GTEX-1I1CD-3026-SM-B2LY2,0,Cortex 
+GTEX-1I1GQ-0011-R11b-SM-CKZPA,0.01702,Cerebellar Hemisphere 
+GTEX-1I1GQ-0011-R1a-SM-CY8GG,0.01299,Hippocampus 
+GTEX-1I1GQ-0011-R5a-SM-CMKHJ,0.02139,Caudate (basal ganglia) 
+GTEX-1I1GQ-0011-R6b-SM-CE6SE,0,Nucleus accumbens (basal ganglia) 
+GTEX-1I1GQ-0011-R7a-SM-CJI41,0.0109,Putamen (basal ganglia) 
+GTEX-1I1GQ-0011-R8a-SM-C1YRS,0,Hypothalamus 
+GTEX-1I1GQ-3026-SM-CL55K,0.01377,Cortex 
+GTEX-1I1GR-0011-R11a-SM-CM2T5,0,Cerebellar Hemisphere 
+GTEX-1I1GR-0011-R3a-SM-CM2T4,0,Anterior cingulate cortex (BA24) 
+GTEX-1I1GR-0011-R4a-SM-CMKHC,0.04527,Amygdala 
+GTEX-1I1GR-0011-R5a-SM-CMKHD,0,Caudate (basal ganglia) 
+GTEX-1I1GR-0011-R6a-SM-CMKHI,0,Nucleus accumbens (basal ganglia) 
+GTEX-1I1GR-2926-SM-CNNQG,0,Cortex 
+GTEX-1I1GS-0011-R11a-SM-C1YRU,0,Cerebellar Hemisphere 
+GTEX-1I1GS-0011-R1a-SM-CJI43,0.02077,Hippocampus 
+GTEX-1I1GS-0011-R2b-SM-CMKHG,0,Substantia nigra 
+GTEX-1I1GS-0011-R3b-SM-CYPS7,0,Anterior cingulate cortex (BA24) 
+GTEX-1I1GS-0011-R5a-SM-CKZPC,0.01644,Caudate (basal ganglia) 
+GTEX-1I1GS-0011-R6b-SM-CMKHE,0.01281,Nucleus accumbens (basal ganglia) 
+GTEX-1I1GS-0011-R7a-SM-CM2T6,0,Putamen (basal ganglia) 
+GTEX-1I1GS-0011-R8b-SM-CKZPE,0,Hypothalamus 
+GTEX-1I1GS-0011-R9b-SM-CMKHF,0.02296,Spinal cord (cervical c-1) 
+GTEX-1I1GV-0011-R10a-SM-CE6S6,0,Frontal Cortex (BA9) 
+GTEX-1I1GV-0011-R11a-SM-CJI3Z,0.03288,Cerebellar Hemisphere 
+GTEX-1I1GV-0011-R1a-SM-CL559,0,Hippocampus 
+GTEX-1I1GV-0011-R2a-SM-ARZLF,0,Substantia nigra 
+GTEX-1I1GV-0011-R3a-SM-CL557,0,Anterior cingulate cortex (BA24) 
+GTEX-1I1GV-0011-R5b-SM-CKZPD,0,Caudate (basal ganglia) 
+GTEX-1I1GV-0011-R6b-SM-ARU6Q,0.01909,Nucleus accumbens (basal ganglia) 
+GTEX-1I1GV-0011-R7a-SM-ARU6R,0,Putamen (basal ganglia) 
+GTEX-1I1GV-0011-R9b-SM-ARZLE,0,Spinal cord (cervical c-1) 
+GTEX-1I1GV-3026-SM-CNNR9,0.03185,Cerebellum 
+GTEX-1I1GV-3126-SM-A96SF,0,Cortex 
+GTEX-1I1HK-0011-R10b-SM-CJI3M,0.02712,Frontal Cortex (BA9) 
+GTEX-1I1HK-0011-R11a-SM-B2LVN,0.0216,Cerebellar Hemisphere 
+GTEX-1I1HK-0011-R1b-SM-CM2T7,0.01571,Hippocampus 
+GTEX-1I1HK-0011-R5b-SM-ARU6S,0,Caudate (basal ganglia) 
+GTEX-1I1HK-0011-R6b-SM-CM2T9,0.02445,Nucleus accumbens (basal ganglia) 
+GTEX-1I1HK-0011-R8b-SM-E8VN9,0,Hypothalamus 
+GTEX-1I1HK-0011-R9a-SM-CMKHK,0,Spinal cord (cervical c-1) 
+GTEX-1I1HK-2726-SM-AHZ2M,0.02259,Cerebellum 
+GTEX-1I1HK-2826-SM-CKZPL,0,Cortex 
+GTEX-1ICLZ-0011-R10a-SM-A9SM2,0,Frontal Cortex (BA9) 
+GTEX-1ICLZ-0011-R11a-SM-CJI3N,0,Cerebellar Hemisphere 
+GTEX-1ICLZ-0011-R1b-SM-A9SM3,0,Hippocampus 
+GTEX-1ICLZ-0011-R4a-SM-CMKHL,0,Amygdala 
+GTEX-1ICLZ-0011-R6b-SM-A9G3A,0,Nucleus accumbens (basal ganglia) 
+GTEX-1ICLZ-0011-R7a-SM-ARZLU,0,Putamen (basal ganglia) 
+GTEX-1ICLZ-0011-R8b-SM-ACKX4,0,Hypothalamus 
+GTEX-1ICLZ-0011-R9a-SM-ARL7E,0,Spinal cord (cervical c-1) 
+GTEX-1ICLZ-2826-SM-CL53U,0,Cortex 
+GTEX-1IDFM-2826-SM-ACKWJ,0,Cortex 
+GTEX-1IDJH-0011-R10a-SM-ARZLK,0.02692,Frontal Cortex (BA9) 
+GTEX-1IDJH-0011-R11b-SM-C1YRT,0,Cerebellar Hemisphere 
+GTEX-1IDJH-0011-R1b-SM-ARU6U,0,Hippocampus 
+GTEX-1IDJH-0011-R3a-SM-CJI42,0,Anterior cingulate cortex (BA24) 
+GTEX-1IDJH-0011-R5a-SM-CE6SR,0,Caudate (basal ganglia) 
+GTEX-1IDJH-0011-R6a-SM-A9SLZ,0.01966,Nucleus accumbens (basal ganglia) 
+GTEX-1IDJH-0011-R7a-SM-A9SM1,0.02171,Putamen (basal ganglia) 
+GTEX-1IDJH-0011-R8b-SM-ARZLL,0,Hypothalamus 
+GTEX-1IDJH-0011-R9a-SM-ADEIN,0.01895,Spinal cord (cervical c-1) 
+GTEX-1IDJH-3026-SM-CL53B,0,Cortex 
+GTEX-1IDJH-3126-SM-C1YQS,0,Cerebellum 
+GTEX-1IGQW-0011-R11a-SM-C1YRV,0,Cerebellar Hemisphere 
+GTEX-1IGQW-0011-R2b-SM-D4P26,0,Substantia nigra 
+GTEX-1IGQW-0011-R5b-SM-CJI44,0.01129,Caudate (basal ganglia) 
+GTEX-1IGQW-0011-R6a-SM-CM2TC,0.01856,Nucleus accumbens (basal ganglia) 
+GTEX-1IGQW-0011-R9b-SM-D4P25,0,Spinal cord (cervical c-1) 
+GTEX-1IKJJ-0011-R2b-SM-ARZLJ,0,Substantia nigra 
+GTEX-1IKJJ-0011-R3b-SM-C1YRW,0.01528,Anterior cingulate cortex (BA24) 
+GTEX-1IKJJ-0011-R5b-SM-CE6SL,0,Caudate (basal ganglia) 
+GTEX-1IKJJ-0011-R7a-SM-ARZLH,0.02058,Putamen (basal ganglia) 
+GTEX-1IKJJ-0011-R9a-SM-ARZLI,0,Spinal cord (cervical c-1) 
+GTEX-1IKJJ-2926-SM-A9G2N,0,Cortex 
+GTEX-1IKK5-0011-R10b-SM-CE6SP,0.04878,Frontal Cortex (BA9) 
+GTEX-1IKK5-0011-R11a-SM-C1YRX,0,Cerebellar Hemisphere 
+GTEX-1IKK5-0011-R1b-SM-CE6SQ,0.0118,Hippocampus 
+GTEX-1IKK5-0011-R3b-SM-C1YRY,0.01335,Anterior cingulate cortex (BA24) 
+GTEX-1IKK5-0011-R5b-SM-CL55B,0,Caudate (basal ganglia) 
+GTEX-1IKK5-0011-R6b-SM-A9SLY,0,Nucleus accumbens (basal ganglia) 
+GTEX-1IKK5-0011-R7b-SM-A9G39,0,Putamen (basal ganglia) 
+GTEX-1IKK5-0011-R8b-SM-CJI45,0,Hypothalamus 
+GTEX-1IKK5-2926-SM-ARU7Q,0,Cortex 
+GTEX-1IKOH-0011-R11a-SM-AHZ38,0,Cerebellar Hemisphere 
+GTEX-1IKOH-0011-R2a-SM-CMKHO,0,Substantia nigra 
+GTEX-1IKOH-0011-R5a-SM-ARU8C,0,Caudate (basal ganglia) 
+GTEX-1IKOH-0011-R6b-SM-A9G1W,0.01093,Nucleus accumbens (basal ganglia) 
+GTEX-1IKOH-0011-R7b-SM-CKZPH,0.009574,Putamen (basal ganglia) 
+GTEX-1IKOH-0011-R8a-SM-A9SKG,0.02944,Hypothalamus 
+GTEX-1IKOH-2826-SM-CNNRC,0.013,Cerebellum 
+GTEX-1IL2U-0011-R11a-SM-CE6SO,0,Cerebellar Hemisphere 
+GTEX-1IL2U-0011-R2a-SM-ARU6V,0,Substantia nigra 
+GTEX-1IL2U-0011-R5a-SM-CE6SN,0,Caudate (basal ganglia) 
+GTEX-1IL2U-0011-R6a-SM-ARZLG,0,Nucleus accumbens (basal ganglia) 
+GTEX-1IL2U-3026-SM-C1YSH,0.01688,Cortex 
+GTEX-1IL2V-0011-R10a-SM-CL55A,0.01015,Frontal Cortex (BA9) 
+GTEX-1IL2V-0011-R11a-SM-ARU6T,0,Cerebellar Hemisphere 
+GTEX-1IL2V-0011-R5a-SM-ARL78,0.02229,Caudate (basal ganglia) 
+GTEX-1IL2V-3026-SM-CYPSA,0.08973,Cerebellum 
+GTEX-1IOXB-0011-R10a-SM-D3L8I,0,Frontal Cortex (BA9) 
+GTEX-1IOXB-0011-R11a-SM-A9G1X,0.04204,Cerebellar Hemisphere 
+GTEX-1IOXB-0011-R1a-SM-D4P27,0,Hippocampus 
+GTEX-1IOXB-0011-R7b-SM-CE6SM,0.01472,Putamen (basal ganglia) 
+GTEX-1IOXB-3126-SM-CKZO1,0,Cortex 
+GTEX-1IY9M-0011-R11b-SM-A96TI,0,Cerebellar Hemisphere 
+GTEX-1IY9M-0011-R1a-SM-EXURZ,0,Hippocampus 
+GTEX-1IY9M-0011-R2a-SM-D4P29,0,Substantia nigra 
+GTEX-1IY9M-0011-R4a-SM-C1YQ2,0,Amygdala 
+GTEX-1IY9M-0011-R5a-SM-A9SLX,0,Caudate (basal ganglia) 
+GTEX-1IY9M-0011-R6a-SM-D4P28,0,Nucleus accumbens (basal ganglia) 
+GTEX-1IY9M-0011-R7a-SM-D4P49,0.009063,Putamen (basal ganglia) 
+GTEX-1IY9M-0011-R8a-SM-EYYWW,0,Hypothalamus 
+GTEX-1IY9M-0011-R9b-SM-D3L8J,0,Spinal cord (cervical c-1) 
+GTEX-1IY9M-3026-SM-A9G37,0,Cortex 
+GTEX-1IY9M-3126-SM-AHZ3A,0.02484,Cerebellum 
+GTEX-1J1OQ-0011-R10a-SM-A9G1Y,0,Frontal Cortex (BA9) 
+GTEX-1J1OQ-0011-R11a-SM-A96S3,0.02413,Cerebellar Hemisphere 
+GTEX-1J1OQ-0011-R1a-SM-A9G1Z,0,Hippocampus 
+GTEX-1J1OQ-0011-R2b-SM-ARU88,0,Substantia nigra 
+GTEX-1J1OQ-0011-R3b-SM-D4P2B,0.01257,Anterior cingulate cortex (BA24) 
+GTEX-1J1OQ-0011-R4a-SM-D4P2A,0.01134,Amygdala 
+GTEX-1J1OQ-0011-R5a-SM-D3L8K,0,Caudate (basal ganglia) 
+GTEX-1J1OQ-0011-R6a-SM-ARU86,0,Nucleus accumbens (basal ganglia) 
+GTEX-1J1OQ-0011-R7b-SM-ARU87,0,Putamen (basal ganglia) 
+GTEX-1J1OQ-0011-R8a-SM-ACKVE,0,Hypothalamus 
+GTEX-1J1OQ-0011-R9b-SM-ARZMK,0,Spinal cord (cervical c-1) 
+GTEX-1J1OQ-3126-SM-D4P2O,0.06077,Cerebellum 
+GTEX-1J1OQ-3226-SM-A9G2Q,0,Cortex 
+GTEX-1J8EW-0011-R11a-SM-AHZ37,0.0154,Cerebellar Hemisphere 
+GTEX-1J8EW-0011-R3a-SM-ARU8A,0,Anterior cingulate cortex (BA24) 
+GTEX-1J8EW-0011-R4b-SM-ARU89,0,Amygdala 
+GTEX-1J8EW-0011-R5b-SM-ARU8B,0,Caudate (basal ganglia) 
+GTEX-1J8EW-0011-R9b-SM-D4P2F,0,Spinal cord (cervical c-1) 
+GTEX-1J8JJ-0011-R5a-SM-D4P2G,0.007426,Caudate (basal ganglia) 
+GTEX-1J8JJ-0011-R9a-SM-ACKVF,0,Spinal cord (cervical c-1) 
+GTEX-1J8Q2-0011-R10b-SM-D4P2C,0,Frontal Cortex (BA9) 
+GTEX-1J8Q2-0011-R11a-SM-A9SKI,0.01347,Cerebellar Hemisphere 
+GTEX-1J8Q2-0011-R1a-SM-D4P2D,0.02132,Hippocampus 
+GTEX-1J8Q2-0011-R2b-SM-EAZ2X,0.03886,Substantia nigra 
+GTEX-1J8Q2-0011-R3b-SM-ACKVG,0.01274,Anterior cingulate cortex (BA24) 
+GTEX-1J8Q2-0011-R4a-SM-ADEHA,0.01423,Amygdala 
+GTEX-1J8Q2-0011-R5b-SM-A9SKH,0,Caudate (basal ganglia) 
+GTEX-1J8Q2-0011-R6a-SM-CKZPG,0,Nucleus accumbens (basal ganglia) 
+GTEX-1J8Q2-0011-R7a-SM-CKZPF,0,Putamen (basal ganglia) 
+GTEX-1J8Q2-0011-R8b-SM-D4P2E,0,Hypothalamus 
+GTEX-1J8Q2-3026-SM-CKZN8,0,Cortex 
+GTEX-1JJ6O-0011-R11b-SM-EXUS2,0.01922,Cerebellar Hemisphere 
+GTEX-1JJ6O-0011-R7b-SM-EXUTB,0,Putamen (basal ganglia) 
+GTEX-1JJ6O-0011-R9a-SM-EYYXP,0,Spinal cord (cervical c-1) 
+GTEX-1JJ6O-3026-SM-C1YQH,0,Cerebellum 
+GTEX-1JJ6O-3126-SM-CNNP8,0,Cortex 
+GTEX-1JJE9-2926-SM-CY8HV,0.02551,Cortex 
+GTEX-1JJE9-3026-SM-CNNPA,0.01817,Cerebellum 
+GTEX-1JJEA-0011-R11a-SM-EXUTE,0,Cerebellar Hemisphere 
+GTEX-1JJEA-0011-R3b-SM-EXUTD,0,Anterior cingulate cortex (BA24) 
+GTEX-1JJEA-0011-R4a-SM-EXUTC,0,Amygdala 
+GTEX-1JJEA-0011-R6a-SM-EXUS1,0,Nucleus accumbens (basal ganglia) 
+GTEX-1JJEA-2826-SM-ARU8R,0,Cortex 
+GTEX-1JJEA-2926-SM-C1YSK,0,Cerebellum 
+GTEX-1JMLX-0011-R6b-SM-EXUT9,0,Nucleus accumbens (basal ganglia) 
+GTEX-1JMLX-0011-R9a-SM-EYYXM,0,Spinal cord (cervical c-1) 
+GTEX-1JMLX-2926-SM-CL54C,0,Cortex 
+GTEX-1JMLX-3026-SM-EV79Q,0.02096,Cerebellum 
+GTEX-1JMOU-0011-R11b-SM-EXUTA,0,Cerebellar Hemisphere 
+GTEX-1JMOU-0011-R3a-SM-EYYXN,0.03775,Anterior cingulate cortex (BA24) 
+GTEX-1JMOU-2726-SM-CY8IO,0,Cortex 
+GTEX-1JMOU-2826-SM-EV79R,0,Cerebellum 
+GTEX-1JMPZ-0011-R3a-SM-EYYWX,0,Anterior cingulate cortex (BA24) 
+GTEX-1JMPZ-0011-R5b-SM-EYYWY,0,Caudate (basal ganglia) 
+GTEX-1JMPZ-2726-SM-ARZNF,0,Cortex 
+GTEX-1JMPZ-2826-SM-C1YRA,0.02879,Cerebellum 
+GTEX-1JMQJ-0011-R11a-SM-EXOJY,0,Cerebellar Hemisphere 
+GTEX-1JMQJ-0011-R4b-SM-EXUT8,0,Amygdala 
+GTEX-1JMQJ-0011-R5a-SM-EYYXO,0,Caudate (basal ganglia) 
+GTEX-1JMQJ-3126-SM-EV79G,0,Cerebellum 
+GTEX-1JMQK-0011-R2a-SM-EYYXQ,0,Substantia nigra 
+GTEX-1JMQK-0011-R7b-SM-EXUTF,0,Putamen (basal ganglia) 
+GTEX-1JMQK-2926-SM-D4P2T,0,Cerebellum 
+GTEX-1JMQK-3026-SM-ARL95,0,Cortex 
+GTEX-1JMQL-2826-SM-ARU91,0,Cortex 
+GTEX-1JN1M-0011-R9a-SM-EZ6MR,0,Spinal cord (cervical c-1) 
+GTEX-1JN1M-3126-SM-AHZ4E,0,Cerebellum 
+GTEX-1JN6P-0011-R4a-SM-EZ6MS,0.01011,Amygdala 
+GTEX-1KANB-0011-R9b-SM-EZ6MO,0,Spinal cord (cervical c-1) 
+GTEX-1KANB-3226-SM-D4P3G,0,Cerebellum 
+GTEX-1KD4Q-0011-R11b-SM-EXOIE,0.01917,Cerebellar Hemisphere 
+GTEX-1KD4Q-0011-R3b-SM-EXOID,0,Anterior cingulate cortex (BA24) 
+GTEX-1KD4Q-2926-SM-D3L9N,0,Cortex 
+GTEX-1KD4Q-3026-SM-EV7A7,0.01776,Cerebellum 
+GTEX-1KWVE-2226-SM-CXZKN,0.02427,Cerebellum 
+GTEX-1KWVE-2326-SM-D4P3N,0.0119,Cortex 
+GTEX-1LB8K-0011-R1b-SM-EZ6MV,0.01452,Hippocampus 
+GTEX-1LB8K-0011-R2a-SM-EZ6MQ,0,Substantia nigra 
+GTEX-1LB8K-0011-R6a-SM-EXURT,0,Nucleus accumbens (basal ganglia) 
+GTEX-1LB8K-0011-R9a-SM-EZ6MP,0.01553,Spinal cord (cervical c-1) 
+GTEX-1LC47-0011-R10b-SM-EYYWE,0,Frontal Cortex (BA9) 
+GTEX-1LC47-0011-R6b-SM-EZ6MI,0,Nucleus accumbens (basal ganglia) 
+GTEX-1LC47-2926-SM-CXZKC,0,Cortex 
+GTEX-1LG7Y-0011-R11a-SM-EXOIH,0.09122,Cerebellar Hemisphere 
+GTEX-1LG7Y-0011-R1a-SM-EYYWV,0.01438,Hippocampus 
+GTEX-1LG7Y-0011-R5a-SM-EZ6MU,0.0118,Caudate (basal ganglia) 
+GTEX-1LG7Y-3026-SM-D5OVI,0,Cortex 
+GTEX-1LG7Y-3126-SM-EV7AS,0.0218,Cerebellum 
+GTEX-1LH75-0011-R2b-SM-EYYWQ,0,Substantia nigra 
+GTEX-1LH75-0011-R6a-SM-EXURS,0,Nucleus accumbens (basal ganglia) 
+GTEX-1LH75-0011-R7a-SM-EXOIF,0,Putamen (basal ganglia) 
+GTEX-1LKK1-0011-R11a-SM-EXOIG,0,Cerebellar Hemisphere 
+GTEX-1LKK1-3126-SM-EWRNY,0.08149,Cortex 
+GTEX-1LSNL-0011-R2a-SM-EZ6MK,0.02595,Substantia nigra 
+GTEX-1LSNL-0011-R7a-SM-EYYWI,0,Putamen (basal ganglia) 
+GTEX-1LSNL-0011-R9b-SM-EYYWK,0.02793,Spinal cord (cervical c-1) 
+GTEX-1LSVX-0011-R11b-SM-EXOIA,0,Cerebellar Hemisphere 
+GTEX-1LSVX-0011-R4b-SM-EXURP,0,Amygdala 
+GTEX-1LSVX-2826-SM-EVR58,0.01519,Cerebellum 
+GTEX-1LVA9-0011-R2a-SM-EZ6MJ,0.01331,Substantia nigra 
+GTEX-1LVA9-0011-R6a-SM-EYYWH,0,Nucleus accumbens (basal ganglia) 
+GTEX-1LVA9-0011-R7a-SM-EYYWG,0,Putamen (basal ganglia) 
+GTEX-1LVA9-0011-R9a-SM-EYYWF,0.01975,Spinal cord (cervical c-1) 
+GTEX-1LVAO-0011-R11b-SM-EXOI8,0,Cerebellar Hemisphere 
+GTEX-1LVAO-0011-R2a-SM-EYYX1,0,Substantia nigra 
+GTEX-1LVAO-0011-R3a-SM-EXOI7,0.01203,Anterior cingulate cortex (BA24) 
+GTEX-1LVAO-0011-R4a-SM-EXURO,0,Amygdala 
+GTEX-1LVAO-0011-R6b-SM-EZ6MX,0,Nucleus accumbens (basal ganglia) 
+GTEX-1LVAO-0011-R7a-SM-EYYWZ,0.01425,Putamen (basal ganglia) 
+GTEX-1LVAO-0011-R9a-SM-EZ6MY,0,Spinal cord (cervical c-1) 
+GTEX-1M4P7-0011-R11b-SM-EXOIK,0,Cerebellar Hemisphere 
+GTEX-1M4P7-2726-SM-E9TJQ,0.01471,Cortex 
+GTEX-1MA7X-0011-R2b-SM-EZ6MT,0.01114,Substantia nigra 
+GTEX-1MA7X-0011-R6a-SM-EYYWR,0,Nucleus accumbens (basal ganglia) 
+GTEX-1MA7X-0011-R7b-SM-EYYWS,0,Putamen (basal ganglia) 
+GTEX-1MCQQ-0011-R3a-SM-EXURW,0,Anterior cingulate cortex (BA24) 
+GTEX-1MJK2-0011-R6a-SM-EXUS3,0.0174,Nucleus accumbens (basal ganglia) 
+GTEX-1MJK2-0011-R7a-SM-EXUS4,0,Putamen (basal ganglia) 
+GTEX-1MJK2-0011-R9b-SM-EZ6MZ,0.02541,Spinal cord (cervical c-1) 
+GTEX-1MJK2-3026-SM-EV7A5,0.1617,Cerebellum 
+GTEX-1N2DW-0011-R11b-SM-EXOIL,0,Cerebellar Hemisphere 
+GTEX-1N2DW-0011-R4b-SM-EZ6MD,0.03822,Amygdala 
+GTEX-1N2DW-0011-R5a-SM-EYYX3,0,Caudate (basal ganglia) 
+GTEX-1N2DW-0011-R6a-SM-EZ6MW,0,Nucleus accumbens (basal ganglia) 
+GTEX-1N2DW-2826-SM-E9TK5,0.01421,Cortex 
+GTEX-1N2EE-0011-R11b-SM-EXOIJ,0.06036,Cerebellar Hemisphere 
+GTEX-1N2EE-0011-R3b-SM-EXURY,0,Anterior cingulate cortex (BA24) 
+GTEX-1N2EE-0011-R4a-SM-EXOII,0,Amygdala 
+GTEX-1N5O9-2926-SM-EXUSN,0,Cortex 
+GTEX-1NV5F-3226-SM-EXUSL,0,Cortex 
+GTEX-1NV8Z-3026-SM-DTX8Z,0,Cerebellum 
+GTEX-1NV8Z-3126-SM-E76R3,0,Cortex 
+GTEX-1O9I2-3026-SM-E76PX,0.01683,Cortex 
+GTEX-1OJC4-0011-R6a-SM-EXOIM,0,Nucleus accumbens (basal ganglia) 
+GTEX-1OJC4-0011-R7a-SM-EYYX4,0,Putamen (basal ganglia) 
+GTEX-1OJC4-0011-R9a-SM-EZ6N1,0,Spinal cord (cervical c-1) 
+GTEX-1OJC4-2826-SM-E6CQX,0,Cortex 
+GTEX-1P4AB-3026-SM-EXOJS,0,Cerebellum 
+GTEX-1PIIG-2726-SM-E76PQ,0.02741,Cortex 
+GTEX-1PIIG-2826-SM-DTX7O,0,Cerebellum 
+GTEX-1POEN-2726-SM-E9U6B,0.02647,Cerebellum 
+GTEX-1PPGY-3126-SM-EXUSR,0,Cortex 
+GTEX-1PWST-3026-SM-EAZ3H,0.05283,Cerebellum 
+GTEX-1PWST-3126-SM-EXUSE,0,Cortex 
+GTEX-1QEPI-3026-SM-EXOIW,0,Cerebellum 
+GTEX-1QMI2-3126-SM-EXUT5,0,Cortex 
+GTEX-1QP6S-2926-SM-DTXF8,0.03569,Cortex 
+GTEX-1QP6S-3026-SM-EAZ4N,0.01856,Cerebellum 
+GTEX-1R46S-0011-R6a-SM-EZ6N6,0.01076,Nucleus accumbens (basal ganglia) 
+GTEX-1R46S-0011-R7b-SM-EXUTH,0,Putamen (basal ganglia) 
+GTEX-1R46S-0011-R9a-SM-EZ6N7,0,Spinal cord (cervical c-1) 
+GTEX-1R46S-3126-SM-DPRZ9,0,Cerebellum 
+GTEX-1R9K4-0011-R11a-SM-EZ6N9,0.03211,Cerebellar Hemisphere 
+GTEX-1R9K4-0011-R5b-SM-EZ6N8,0,Caudate (basal ganglia) 
+GTEX-1R9K4-3126-SM-DTX9Y,0,Cortex 
+GTEX-1R9PO-0011-R11b-SM-EZ6NB,0,Cerebellar Hemisphere 
+GTEX-1R9PO-0011-R5a-SM-EZ6NA,0,Caudate (basal ganglia) 
+GTEX-1R9PO-2826-SM-E6CPV,0.06656,Cerebellum 
+GTEX-1R9PO-2926-SM-EVYBR,0,Cortex 
+GTEX-1RDX4-3226-SM-DPS14,0,Cerebellum 
+GTEX-1RLM8-0011-R2a-SM-EZ6N4,0,Substantia nigra 
+GTEX-1RLM8-0011-R6a-SM-EYYXS,0.01712,Nucleus accumbens (basal ganglia) 
+GTEX-1RLM8-0011-R8a-SM-EYYXR,0,Hypothalamus 
+GTEX-1RNSC-0011-R5a-SM-EZ6N5,0,Caudate (basal ganglia) 
+GTEX-1RNSC-3126-SM-EVR4V,0.008629,Cerebellum 
+GTEX-1RQEC-0011-R9a-SM-EZ6N3,0,Spinal cord (cervical c-1) 
+GTEX-1RQEC-2926-SM-EVR5A,0,Cortex 
+GTEX-1RQEC-3026-SM-DPRXM,0,Cerebellum 
+GTEX-N7MS-0011-R10A-SM-2HMJK,0,Frontal Cortex (BA9) 
+GTEX-N7MS-0011-R11A-SM-2HMJS,0.02303,Cerebellar Hemisphere 
+GTEX-N7MS-0011-R1a-SM-2HMJG,0.05421,Hippocampus 
+GTEX-N7MS-0011-R2a-SM-2HML6,0,Substantia nigra 
+GTEX-N7MS-0011-R3a-SM-33HC6,0,Anterior cingulate cortex (BA24) 
+GTEX-N7MS-0011-R4a-SM-2HMKW,0,Amygdala 
+GTEX-N7MS-0011-R5a-SM-2HMK8,0,Caudate (basal ganglia) 
+GTEX-N7MS-0011-R6a-SM-2HMJ4,0,Nucleus accumbens (basal ganglia) 
+GTEX-N7MS-0011-R7a-SM-2HMKN,0,Putamen (basal ganglia) 
+GTEX-N7MS-0011-R8a-SM-2YUMK,0,Hypothalamus 
+GTEX-N7MS-2526-SM-2D7W3,0,Cerebellum 
+GTEX-N7MT-0011-R10A-SM-2I3E1,0.06127,Frontal Cortex (BA9) 
+GTEX-N7MT-0011-R11A-SM-2I3DZ,0,Cerebellar Hemisphere 
+GTEX-N7MT-0011-R1a-SM-CNPO1,0,Hippocampus 
+GTEX-N7MT-0011-R2a-SM-2I3GI,0,Substantia nigra 
+GTEX-N7MT-0011-R3a-SM-2I3GC,0.03242,Anterior cingulate cortex (BA24) 
+GTEX-N7MT-0011-R4a-SM-2I3G9,0,Amygdala 
+GTEX-N7MT-0011-R5a-SM-2I3G6,0.03538,Caudate (basal ganglia) 
+GTEX-N7MT-0011-R6a-SM-2I3G3,0.01919,Nucleus accumbens (basal ganglia) 
+GTEX-N7MT-0011-R7a-SM-2I3FZ,0,Putamen (basal ganglia) 
+GTEX-N7MT-0011-R8a-SM-2I5GU,0.03421,Hypothalamus 
+GTEX-N7MT-1126-SM-CYPQY,0,Cortex 
+GTEX-N7MT-1226-SM-DKPOK,0.0189,Cerebellum 
+GTEX-NL3H-0011-R10A-SM-2I3E9,0.02039,Frontal Cortex (BA9) 
+GTEX-NL3H-0011-R11A-SM-2I3E6,0,Cerebellar Hemisphere 
+GTEX-NL3H-0011-R1a-SM-48TDJ,0,Hippocampus 
+GTEX-NL3H-0011-R3a-SM-2I3GL,0,Anterior cingulate cortex (BA24) 
+GTEX-NL3H-0011-R4a-SM-2I3GK,0.02131,Amygdala 
+GTEX-NL3H-0011-R5a-SM-2I3GB,0.01686,Caudate (basal ganglia) 
+GTEX-NL3H-0011-R6a-SM-2I3G8,0,Nucleus accumbens (basal ganglia) 
+GTEX-NL3H-0011-R7a-SM-2I3G5,0.01315,Putamen (basal ganglia) 
+GTEX-NL3H-0011-R8a-SM-DIPDY,0,Hypothalamus 
+GTEX-NL4W-0011-R10A-SM-2I3DY,0.08646,Frontal Cortex (BA9) 
+GTEX-NL4W-0011-R11A-SM-2I3DW,0,Cerebellar Hemisphere 
+GTEX-NL4W-0011-R2a-SM-2I5GV,0,Substantia nigra 
+GTEX-NL4W-0011-R4a-SM-2I5GZ,0,Amygdala 
+GTEX-NL4W-0011-R5a-SM-2I3GD,0.0193,Caudate (basal ganglia) 
+GTEX-NL4W-0011-R6a-SM-2I3GA,0,Nucleus accumbens (basal ganglia) 
+GTEX-NL4W-0011-R8a-SM-2I3G4,0,Hypothalamus 
+GTEX-NL4W-0011-R9a-SM-2I3G1,0.01608,Spinal cord (cervical c-1) 
+GTEX-NPJ7-0011-R10A-SM-2I3E5,0.0246,Frontal Cortex (BA9) 
+GTEX-NPJ7-0011-R11A-SM-2I3E8,0.02272,Cerebellar Hemisphere 
+GTEX-NPJ7-0011-R1a-SM-3GACT,0.1501,Hippocampus 
+GTEX-NPJ7-0011-R2a-SM-2I3GF,0,Substantia nigra 
+GTEX-NPJ7-0011-R4a-SM-2I3GJ,0.0149,Amygdala 
+GTEX-NPJ7-0011-R5a-SM-33HBK,0.007455,Caudate (basal ganglia) 
+GTEX-NPJ7-0011-R6a-SM-2I3G7,0,Nucleus accumbens (basal ganglia) 
+GTEX-NPJ7-0011-R7a-SM-EV79B,0.01038,Putamen (basal ganglia) 
+GTEX-NPJ7-0011-R8a-SM-2I3G2,0.02869,Hypothalamus 
+GTEX-NPJ7-0011-R9a-SM-2TC5R,0.1073,Spinal cord (cervical c-1) 
+GTEX-NPJ7-2726-SM-2I3FT,0.0596,Cortex 
+GTEX-NPJ7-2826-SM-2I3FU,0.08121,Cerebellum 
+GTEX-NPJ8-0011-R10A-SM-2YUMO,0,Frontal Cortex (BA9) 
+GTEX-NPJ8-0011-R11A-SM-2YUMS,0.08708,Cerebellar Hemisphere 
+GTEX-NPJ8-0011-R1a-SM-33HCB,0.01544,Hippocampus 
+GTEX-NPJ8-0011-R2a-SM-2TC6M,0.02397,Substantia nigra 
+GTEX-NPJ8-0011-R3a-SM-2HMIW,0,Anterior cingulate cortex (BA24) 
+GTEX-NPJ8-0011-R4a-SM-2HML3,0.01644,Amygdala 
+GTEX-NPJ8-0011-R5a-SM-2HMJY,0.05692,Caudate (basal ganglia) 
+GTEX-NPJ8-0011-R6a-SM-2HMKB,0.01797,Nucleus accumbens (basal ganglia) 
+GTEX-NPJ8-0011-R7a-SM-2HMJV,0.0518,Putamen (basal ganglia) 
+GTEX-NPJ8-0011-R8a-SM-2HMLG,0,Hypothalamus 
+GTEX-NPJ8-0011-R9a-SM-2YUN5,0.0307,Spinal cord (cervical c-1) 
+GTEX-NPJ8-1526-SM-2D7VU,0.09314,Cortex 
+GTEX-NPJ8-2626-SM-2D7W2,0,Cerebellum 
+GTEX-OHPN-0011-R10A-SM-33HBU,0,Frontal Cortex (BA9) 
+GTEX-OHPN-0011-R11A-SM-2I5FM,0.05249,Cerebellar Hemisphere 
+GTEX-OHPN-0011-R1A-SM-2I5GB,0,Hippocampus 
+GTEX-OHPN-0011-R2A-SM-2I5FB,0.01457,Substantia nigra 
+GTEX-OHPN-0011-R4A-SM-2I5FD,0,Amygdala 
+GTEX-OHPN-0011-R6A-SM-2I5FH,0.02993,Nucleus accumbens (basal ganglia) 
+GTEX-OHPN-0011-R7A-SM-2I5FI,0,Putamen (basal ganglia) 
+GTEX-OHPN-0011-R8A-SM-33HBT,0,Hypothalamus 
+GTEX-OHPN-0011-R9A-SM-5TDEJ,0.02074,Spinal cord (cervical c-1) 
+GTEX-OHPN-2526-SM-2I5H3,0.02927,Cortex 
+GTEX-OHPN-2626-SM-2I5H1,0.1065,Cerebellum 
+GTEX-OXRN-0011-R10A-SM-2I5GC,0.01372,Frontal Cortex (BA9) 
+GTEX-OXRN-0011-R5A-SM-2I5EF,0,Caudate (basal ganglia) 
+GTEX-OXRN-0011-R8A-SM-E9TI1,0,Hypothalamus 
+GTEX-OXRN-2426-SM-2I5EQ,0,Cortex 
+GTEX-OXRO-0011-R10A-SM-2I5EH,0.01064,Frontal Cortex (BA9) 
+GTEX-OXRO-0011-R2A-SM-3NB1W,0.01173,Substantia nigra 
+GTEX-OXRO-0011-R5A-SM-2I5EG,0.03289,Caudate (basal ganglia) 
+GTEX-OXRO-0011-R9A-SM-3NB1X,0,Spinal cord (cervical c-1) 
+GTEX-P44G-0011-R10A-SM-2I3FF,0,Frontal Cortex (BA9) 
+GTEX-P44G-0011-R11A-SM-2I3FD,0.05132,Cerebellar Hemisphere 
+GTEX-P44G-0011-R1A-SM-2I3FE,0.01748,Hippocampus 
+GTEX-P44G-0011-R2A-SM-2XCD2,0,Substantia nigra 
+GTEX-P44G-0011-R3A-SM-2I3FC,0.02093,Anterior cingulate cortex (BA24) 
+GTEX-P44G-0011-R4A-SM-2I3FB,0,Amygdala 
+GTEX-P44G-0011-R5A-SM-2I3FA,0.03178,Caudate (basal ganglia) 
+GTEX-P44G-0011-R6A-SM-2XCD3,0.04574,Nucleus accumbens (basal ganglia) 
+GTEX-P44G-0011-R7A-SM-2I3F9,0,Putamen (basal ganglia) 
+GTEX-P44G-2426-SM-2I5ER,0.03518,Cortex 
+GTEX-P44G-2526-SM-2I5EK,0,Cerebellum 
+GTEX-P44H-0011-R10A-SM-2XCEK,0,Frontal Cortex (BA9) 
+GTEX-P44H-0011-R11A-SM-2XCER,0.01854,Cerebellar Hemisphere 
+GTEX-P44H-0011-R1A-SM-3NM8J,0,Hippocampus 
+GTEX-P44H-0011-R3A-SM-D3L8E,0,Anterior cingulate cortex (BA24) 
+GTEX-P44H-0011-R4A-SM-2XCEW,0,Amygdala 
+GTEX-P44H-0011-R5A-SM-2XCEX,0.01676,Caudate (basal ganglia) 
+GTEX-P44H-0011-R6A-SM-2XCF3,0,Nucleus accumbens (basal ganglia) 
+GTEX-P44H-0011-R8A-SM-2XCEL,0,Hypothalamus 
+GTEX-P44H-2426-SM-2XCEJ,0.06377,Cerebellum 
+GTEX-PVOW-0011-R10A-SM-EXOHB,0,Frontal Cortex (BA9) 
+GTEX-PVOW-0011-R1A-SM-32PL6,0,Hippocampus 
+GTEX-PVOW-0011-R3A-SM-32PKX,0.0131,Anterior cingulate cortex (BA24) 
+GTEX-PVOW-0011-R5A-SM-32PL7,0,Caudate (basal ganglia) 
+GTEX-PVOW-2526-SM-2XCF7,0.01347,Cortex 
+GTEX-PVOW-2626-SM-32PL8,0,Cerebellum 
+GTEX-PWO3-0011-R1A-SM-2I5EW,0.03872,Hippocampus 
+GTEX-PWO3-0011-R2A-SM-2S1OX,0,Substantia nigra 
+GTEX-PWO3-0011-R3A-SM-2I5EX,0.01477,Anterior cingulate cortex (BA24) 
+GTEX-PWO3-0011-R5A-SM-2I5EZ,0,Caudate (basal ganglia) 
+GTEX-PWO3-0011-R6A-SM-2I5F3,0,Nucleus accumbens (basal ganglia) 
+GTEX-PWO3-0011-R8A-SM-2I5GD,0.01426,Hypothalamus 
+GTEX-PWO3-0011-R9A-SM-EVR2V,0,Spinal cord (cervical c-1) 
+GTEX-PWO3-0926-SM-2I5EY,0.05856,Cortex 
+GTEX-PWO3-1026-SM-2I5F2,0,Cerebellum 
+GTEX-Q2AG-0011-R10A-SM-2HMLA,0,Frontal Cortex (BA9) 
+GTEX-Q2AG-0011-R11A-SM-2HMKZ,0,Cerebellar Hemisphere 
+GTEX-Q2AG-0011-R1A-SM-2HMJI,0.01933,Hippocampus 
+GTEX-Q2AG-0011-R2A-SM-2HMIT,0.018,Substantia nigra 
+GTEX-Q2AG-0011-R3A-SM-2HMJ9,0,Anterior cingulate cortex (BA24) 
+GTEX-Q2AG-0011-R4A-SM-2HMKA,0.01849,Amygdala 
+GTEX-Q2AG-0011-R5A-SM-2HMJH,0.01481,Caudate (basal ganglia) 
+GTEX-Q2AG-0011-R6A-SM-2HML7,0.01509,Nucleus accumbens (basal ganglia) 
+GTEX-Q2AG-0011-R7A-SM-2HMJP,0.03181,Putamen (basal ganglia) 
+GTEX-Q2AG-0011-R8A-SM-2HMK5,0.08584,Hypothalamus 
+GTEX-Q2AG-0011-R9A-SM-2HMJ6,0.02052,Spinal cord (cervical c-1) 
+GTEX-Q2AG-2826-SM-2HMJQ,0.03903,Cerebellum 
+GTEX-Q2AG-2926-SM-2HMJ3,0.05289,Cortex 
+GTEX-QDT8-0011-R10A-SM-32PKG,0,Frontal Cortex (BA9) 
+GTEX-QDT8-0011-R11A-SM-32PKD,0.01892,Cerebellar Hemisphere 
+GTEX-QDT8-0011-R1A-SM-32PKS,0,Hippocampus 
+GTEX-QDT8-0011-R2A-SM-32PKQ,0,Substantia nigra 
+GTEX-QDT8-0011-R3A-SM-32PKR,0,Anterior cingulate cortex (BA24) 
+GTEX-QDT8-0011-R4A-SM-32PKM,0,Amygdala 
+GTEX-QDT8-0011-R5A-SM-32PKN,0,Caudate (basal ganglia) 
+GTEX-QDT8-0011-R6A-SM-32PKI,0,Nucleus accumbens (basal ganglia) 
+GTEX-QDT8-0011-R7A-SM-32PKF,0,Putamen (basal ganglia) 
+GTEX-QDT8-0011-R8A-SM-32PKE,0.07299,Hypothalamus 
+GTEX-QDT8-0011-R9A-SM-CYPRD,0.02535,Spinal cord (cervical c-1) 
+GTEX-QDT8-2926-SM-32PKC,0,Cortex 
+GTEX-QDT8-3026-SM-32PKB,0.02491,Cerebellum 
+GTEX-QMR6-0011-R10A-SM-32PKO,0,Frontal Cortex (BA9) 
+GTEX-QMR6-0011-R11A-SM-32PKK,0,Cerebellar Hemisphere 
+GTEX-QMR6-0011-R1A-SM-32PKW,0.01521,Hippocampus 
+GTEX-QMR6-0011-R2A-SM-32PKV,0,Substantia nigra 
+GTEX-QMR6-0011-R4A-SM-32PKU,0,Amygdala 
+GTEX-QMR6-0011-R5A-SM-32PKT,0.03464,Caudate (basal ganglia) 
+GTEX-QMR6-0011-R6A-SM-32PKP,0,Nucleus accumbens (basal ganglia) 
+GTEX-QMR6-0011-R7A-SM-32PKL,0.008245,Putamen (basal ganglia) 
+GTEX-QMR6-0011-R8A-SM-32PKJ,0,Hypothalamus 
+GTEX-QMR6-1326-SM-32PLB,0,Cerebellum 
+GTEX-QMR6-1426-SM-32PLA,0.02878,Cortex 
+GTEX-QVJO-0011-R10A-SM-2S1QJ,0,Frontal Cortex (BA9) 
+GTEX-QVJO-0011-R1A-SM-2S1QI,0,Hippocampus 
+GTEX-QVJO-0011-R4A-SM-2S1QL,0,Amygdala 
+GTEX-QVJO-0011-R5A-SM-2S1QM,0.1513,Caudate (basal ganglia) 
+GTEX-QVJO-0011-R6A-SM-2S1QN,0,Nucleus accumbens (basal ganglia) 
+GTEX-QVJO-0011-R7A-SM-2S1QO,0,Putamen (basal ganglia) 
+GTEX-QVJO-0011-R8A-SM-447C7,0.02262,Hypothalamus 
+GTEX-QVJO-0011-R9A-SM-2S1QH,0,Spinal cord (cervical c-1) 
+GTEX-QVJO-1325-SM-2S1QX,0,Cerebellum 
+GTEX-QVJO-1426-SM-2S1QY,0,Cortex 
+GTEX-QVUS-0011-R10A-SM-3GIK3,0,Frontal Cortex (BA9) 
+GTEX-QVUS-0011-R1A-SM-3GAD2,0,Hippocampus 
+GTEX-QVUS-0011-R3A-SM-3GAFD,0,Anterior cingulate cortex (BA24) 
+GTEX-QVUS-0011-R4A-SM-3GAE7,0,Amygdala 
+GTEX-QVUS-0011-R6A-SM-3GACX,0.0908,Nucleus accumbens (basal ganglia) 
+GTEX-QVUS-0011-R8A-SM-3GAD7,0.02267,Hypothalamus 
+GTEX-QVUS-0011-R9A-SM-3GIJA,0,Spinal cord (cervical c-1) 
+GTEX-QVUS-2826-SM-3GADB,0,Cortex 
+GTEX-QVUS-2926-SM-3GIJB,0.1783,Cerebellum 
+GTEX-R55E-0011-R11A-SM-2TC6I,0.03178,Cerebellar Hemisphere 
+GTEX-R55E-0011-R1A-SM-2TC6N,0,Hippocampus 
+GTEX-R55E-0011-R2A-SM-EYYV9,0,Substantia nigra 
+GTEX-R55E-0011-R4A-SM-2TC5H,0.05338,Amygdala 
+GTEX-R55E-0011-R5A-SM-2TC5N,0,Caudate (basal ganglia) 
+GTEX-R55E-0011-R6A-SM-2TC5T,0,Nucleus accumbens (basal ganglia) 
+GTEX-R55E-0011-R7A-SM-2TC5Z,0,Putamen (basal ganglia) 
+GTEX-R55E-0011-R8A-SM-2TC66,0,Hypothalamus 
+GTEX-R55E-0011-R9A-SM-2TC6C,0,Spinal cord (cervical c-1) 
+GTEX-R55E-2526-SM-2TC6H,0.0258,Cerebellum 
+GTEX-RNOR-0011-R1A-SM-CNNP5,0,Hippocampus 
+GTEX-RNOR-0011-R3A-SM-5SI8E,0,Anterior cingulate cortex (BA24) 
+GTEX-RNOR-0011-R4A-SM-3GAD3,0.0199,Amygdala 
+GTEX-RNOR-0011-R5A-SM-2TF4J,0,Caudate (basal ganglia) 
+GTEX-RNOR-0011-R7A-SM-2TF4V,0,Putamen (basal ganglia) 
+GTEX-RNOR-0011-R8A-SM-EZ6MN,0,Hypothalamus 
+GTEX-RNOR-0011-R9A-SM-2TF52,0,Spinal cord (cervical c-1) 
+GTEX-RNOR-2226-SM-2TF5O,0,Cerebellum 
+GTEX-RNOR-2326-SM-2TF4I,0,Cortex 
+GTEX-RU72-0011-R11A-SM-CM2U1,0,Cerebellar Hemisphere 
+GTEX-RU72-0011-R2A-SM-2TF6O,0,Substantia nigra 
+GTEX-RU72-0011-R5A-SM-2TF6U,0.03117,Caudate (basal ganglia) 
+GTEX-RU72-0011-R6A-SM-2TF71,0,Nucleus accumbens (basal ganglia) 
+GTEX-RU72-0011-R7A-SM-2TF5U,0,Putamen (basal ganglia) 
+GTEX-RU72-0011-R8A-SM-2TF61,0,Hypothalamus 
+GTEX-RU72-0011-R9A-SM-2TF67,0,Spinal cord (cervical c-1) 
+GTEX-RU72-2926-SM-2TF66,0.1465,Cerebellum 
+GTEX-RU72-3026-SM-CYPRV,0.01453,Cortex 
+GTEX-RVPV-0011-R11A-SM-2TF6F,0,Cerebellar Hemisphere 
+GTEX-RVPV-0011-R3A-SM-2TF63,0.02905,Anterior cingulate cortex (BA24) 
+GTEX-RVPV-0011-R5A-SM-2TF69,0,Caudate (basal ganglia) 
+GTEX-S7PM-0011-R5A-SM-3NM8G,0.01158,Caudate (basal ganglia) 
+GTEX-S7PM-0011-R6A-SM-3NM8F,0.01058,Nucleus accumbens (basal ganglia) 
+GTEX-S7SE-0011-R10A-SM-2XCDF,0,Frontal Cortex (BA9) 
+GTEX-S7SE-0011-R11A-SM-2XCDD,0.14,Cerebellar Hemisphere 
+GTEX-S7SE-0011-R1A-SM-2XCDE,0.01825,Hippocampus 
+GTEX-S7SE-0011-R2A-SM-2XCDC,0,Substantia nigra 
+GTEX-S7SE-0011-R4A-SM-2XCDB,0,Amygdala 
+GTEX-S7SE-0011-R5A-SM-2XCDA,0,Caudate (basal ganglia) 
+GTEX-S7SE-0011-R6A-SM-2XCD9,0,Nucleus accumbens (basal ganglia) 
+GTEX-S7SE-0011-R7A-SM-2XCDI,0.02543,Putamen (basal ganglia) 
+GTEX-S7SE-0011-R8A-SM-2XCDG,0,Hypothalamus 
+GTEX-S7SE-2526-SM-2XCDL,0.05749,Cerebellum 
+GTEX-T2IS-0011-R11A-SM-32QPC,0,Cerebellar Hemisphere 
+GTEX-T2IS-0011-R2A-SM-32QPF,0,Substantia nigra 
+GTEX-T2IS-0011-R3A-SM-32QPB,0,Anterior cingulate cortex (BA24) 
+GTEX-T2IS-0011-R5A-SM-32QP4,0,Caudate (basal ganglia) 
+GTEX-T2IS-0011-R6A-SM-32QP2,0.01418,Nucleus accumbens (basal ganglia) 
+GTEX-T2IS-2926-SM-32QPO,0,Cerebellum 
+GTEX-T2IS-3026-SM-32QPM,0,Cortex 
+GTEX-T5JC-0011-R10A-SM-32PM2,0.02135,Frontal Cortex (BA9) 
+GTEX-T5JC-0011-R11A-SM-32PMB,0,Cerebellar Hemisphere 
+GTEX-T5JC-0011-R1A-SM-32PM6,0,Hippocampus 
+GTEX-T5JC-0011-R2A-SM-32PLZ,0,Substantia nigra 
+GTEX-T5JC-0011-R4A-SM-32PLT,0,Amygdala 
+GTEX-T5JC-0011-R5A-SM-32PLK,0,Caudate (basal ganglia) 
+GTEX-T5JC-0011-R6A-SM-D3L87,0.01331,Nucleus accumbens (basal ganglia) 
+GTEX-T5JC-0011-R7A-SM-32PME,0,Putamen (basal ganglia) 
+GTEX-T5JC-0011-R8A-SM-32PLM,0,Hypothalamus 
+GTEX-T5JC-0011-R9A-SM-32PLV,0,Spinal cord (cervical c-1) 
+GTEX-T5JC-2326-SM-32PMR,0.05933,Cerebellum 
+GTEX-T5JC-2426-SM-3NMDB,0,Cortex 
+GTEX-T6MN-0011-R10A-SM-32QP7,0,Frontal Cortex (BA9) 
+GTEX-T6MN-0011-R11A-SM-32QOX,0,Cerebellar Hemisphere 
+GTEX-T6MN-0011-R1A-SM-32QOY,0,Hippocampus 
+GTEX-T6MN-0011-R2A-SM-32QOW,0,Substantia nigra 
+GTEX-T6MN-0011-R4A-SM-32QPG,0,Amygdala 
+GTEX-T6MN-0011-R5A-SM-32QPD,0,Caudate (basal ganglia) 
+GTEX-T6MN-0011-R6A-SM-32QP8,0,Nucleus accumbens (basal ganglia) 
+GTEX-T6MN-0011-R7A-SM-32QP5,0,Putamen (basal ganglia) 
+GTEX-T6MN-0011-R8A-SM-32QP3,0,Hypothalamus 
+GTEX-T6MN-0011-R9A-SM-32QOZ,0.07792,Spinal cord (cervical c-1) 
+GTEX-T6MN-2526-SM-32PMN,0.05581,Cerebellum 
+GTEX-T6MN-2626-SM-32PMQ,0,Cortex 
+GTEX-TSE9-0011-R10A-SM-3DB7O,0,Frontal Cortex (BA9) 
+GTEX-TSE9-0011-R11A-SM-3DB7N,0.04253,Cerebellar Hemisphere 
+GTEX-TSE9-0011-R1A-SM-3DB7E,0,Hippocampus 
+GTEX-TSE9-0011-R4A-SM-3DB7H,0,Amygdala 
+GTEX-TSE9-0011-R5A-SM-3DB7J,0,Caudate (basal ganglia) 
+GTEX-TSE9-0011-R6A-SM-3DB7L,0,Nucleus accumbens (basal ganglia) 
+GTEX-TSE9-0011-R7A-SM-3DB7P,0.01445,Putamen (basal ganglia) 
+GTEX-TSE9-0011-R8A-SM-3DB7R,0.02395,Hypothalamus 
+GTEX-TSE9-0011-R9A-SM-3DB7Q,0.02269,Spinal cord (cervical c-1) 
+GTEX-TSE9-2926-SM-3DB77,0.01706,Cerebellum 
+GTEX-TSE9-3026-SM-3DB76,0.02188,Cortex 
+GTEX-UTHO-0011-R10A-SM-3GIJQ,0,Frontal Cortex (BA9) 
+GTEX-UTHO-0011-R11A-SM-3GIJE,0.03039,Cerebellar Hemisphere 
+GTEX-UTHO-0011-R1A-SM-3GIJO,0,Hippocampus 
+GTEX-UTHO-0011-R2A-SM-3GIKC,0.05325,Substantia nigra 
+GTEX-UTHO-0011-R3A-SM-3GIK8,0,Anterior cingulate cortex (BA24) 
+GTEX-UTHO-0011-R4A-SM-3GIJP,0,Amygdala 
+GTEX-UTHO-0011-R5A-SM-3GIJD,0,Caudate (basal ganglia) 
+GTEX-UTHO-0011-R6A-SM-3GIJW,0.01592,Nucleus accumbens (basal ganglia) 
+GTEX-UTHO-2926-SM-3P5Z9,0,Cerebellum 
+GTEX-UTHO-3026-SM-3GAFB,0.01065,Cortex 
+GTEX-WHSE-0011-R10A-SM-EYYVG,0.01643,Frontal Cortex (BA9) 
+GTEX-WHSE-0011-R11A-SM-3P5YY,0.03724,Cerebellar Hemisphere 
+GTEX-WHSE-0011-R1A-SM-3P5ZK,0.02815,Hippocampus 
+GTEX-WHSE-0011-R2A-SM-3P5ZL,0.017,Substantia nigra 
+GTEX-WHSE-0011-R3A-SM-3P5ZM,0.02808,Anterior cingulate cortex (BA24) 
+GTEX-WHSE-0011-R4A-SM-3P5ZN,0.01701,Amygdala 
+GTEX-WHSE-0011-R6A-SM-3P5ZP,0,Nucleus accumbens (basal ganglia) 
+GTEX-WHSE-0011-R7A-SM-3P5YZ,0,Putamen (basal ganglia) 
+GTEX-WHSE-0011-R8A-SM-3P5Z1,0,Hypothalamus 
+GTEX-WHSE-2926-SM-3NMBG,0.02334,Cerebellum 
+GTEX-WHSE-3026-SM-3P5ZH,0.01925,Cortex 
+GTEX-WL46-0011-R10A-SM-3MJFQ,0,Frontal Cortex (BA9) 
+GTEX-WL46-0011-R11A-SM-3MJFT,0,Cerebellar Hemisphere 
+GTEX-WL46-0011-R1A-SM-3LK6M,0,Hippocampus 
+GTEX-WL46-0011-R3A-SM-3TW8E,0,Anterior cingulate cortex (BA24) 
+GTEX-WL46-0011-R5A-SM-3LK6V,0.01942,Caudate (basal ganglia) 
+GTEX-WL46-0011-R6A-SM-3LK6X,0,Nucleus accumbens (basal ganglia) 
+GTEX-WL46-0011-R7A-SM-3LK7X,0.0148,Putamen (basal ganglia) 
+GTEX-WL46-0011-R9A-SM-3MJFP,0,Spinal cord (cervical c-1) 
+GTEX-WL46-2826-SM-3LK81,0,Cerebellum 
+GTEX-WL46-2926-SM-3LK82,0,Cortex 
+GTEX-WVLH-0011-R10A-SM-3MJFM,0,Frontal Cortex (BA9) 
+GTEX-WVLH-0011-R11A-SM-3MJFO,0,Cerebellar Hemisphere 
+GTEX-WVLH-0011-R1A-SM-4MVOK,0,Hippocampus 
+GTEX-WVLH-0011-R4A-SM-3MJFS,0.01679,Amygdala 
+GTEX-WVLH-0011-R5A-SM-3MJFW,0,Caudate (basal ganglia) 
+GTEX-WVLH-0011-R6A-SM-3MJFZ,0,Nucleus accumbens (basal ganglia) 
+GTEX-WVLH-0011-R7A-SM-3MJFB,0.02151,Putamen (basal ganglia) 
+GTEX-WVLH-0011-R8A-SM-3MJFC,0,Hypothalamus 
+GTEX-WVLH-2926-SM-3MJG5,0.02241,Cerebellum 
+GTEX-WVLH-3026-SM-3MJG9,0,Cortex 
+GTEX-WWYW-0011-R10A-SM-3NB35,0,Frontal Cortex (BA9) 
+GTEX-WWYW-0011-R11A-SM-3NB38,0.04092,Cerebellar Hemisphere 
+GTEX-WWYW-0011-R1A-SM-3TW8G,0,Hippocampus 
+GTEX-WWYW-0011-R5A-SM-3NB3E,0.01594,Caudate (basal ganglia) 
+GTEX-WWYW-0011-R6A-SM-3NB3G,0,Nucleus accumbens (basal ganglia) 
+GTEX-WWYW-0011-R7A-SM-3NB3H,0,Putamen (basal ganglia) 
+GTEX-WWYW-0011-R8A-SM-3NB3S,0,Hypothalamus 
+GTEX-WWYW-3026-SM-3NB36,0.02166,Cerebellum 
+GTEX-WWYW-3126-SM-3NB39,0.01621,Cortex 
+GTEX-WZTO-0011-R10B-SM-4E3KB,0,Frontal Cortex (BA9) 
+GTEX-WZTO-0011-R11A-SM-4E3K9,0.02548,Cerebellar Hemisphere 
+GTEX-WZTO-0011-R1B-SM-3NMAR,0,Hippocampus 
+GTEX-WZTO-0011-R3B-SM-3NMC6,0,Anterior cingulate cortex (BA24) 
+GTEX-WZTO-0011-R4A-SM-3NMC7,0.01599,Amygdala 
+GTEX-WZTO-0011-R5B-SM-3NMC5,0,Caudate (basal ganglia) 
+GTEX-WZTO-0011-R6B-SM-4E3J6,0,Nucleus accumbens (basal ganglia) 
+GTEX-WZTO-0011-R7B-SM-4E3IS,0,Putamen (basal ganglia) 
+GTEX-WZTO-0011-R8A-SM-4E3II,0.01731,Hypothalamus 
+GTEX-WZTO-2826-SM-3NM8P,0,Cerebellum 
+GTEX-WZTO-2926-SM-3NM9I,0,Cortex 
+GTEX-X261-0011-R10B-SM-4E3JT,0.0139,Frontal Cortex (BA9) 
+GTEX-X261-0011-R11A-SM-4E3JY,0.0453,Cerebellar Hemisphere 
+GTEX-X261-0011-R5A-SM-3NMB4,0,Caudate (basal ganglia) 
+GTEX-X261-0011-R6B-SM-4E3J8,0,Nucleus accumbens (basal ganglia) 
+GTEX-X261-0011-R7A-SM-4E3JJ,0.01157,Putamen (basal ganglia) 
+GTEX-X261-0011-R8A-SM-4E3I5,0.01759,Hypothalamus 
+GTEX-X261-3126-SM-4PQZC,0.03642,Cerebellum 
+GTEX-X4EP-0011-R10B-SM-4QASJ,0,Frontal Cortex (BA9) 
+GTEX-X4EP-0011-R11B-SM-4QASK,0,Cerebellar Hemisphere 
+GTEX-X4EP-0011-R1A-SM-3P624,0,Hippocampus 
+GTEX-X4EP-0011-R3A-SM-3P626,0,Anterior cingulate cortex (BA24) 
+GTEX-X4EP-0011-R4B-SM-3P627,0,Amygdala 
+GTEX-X4EP-0011-R6A-SM-3P629,0,Nucleus accumbens (basal ganglia) 
+GTEX-X4EP-0011-R8B-SM-4QASL,0,Hypothalamus 
+GTEX-X4EP-3026-SM-3P5YP,0.06804,Cerebellum 
+GTEX-X4XX-0011-R10B-SM-46MWO,0.03089,Frontal Cortex (BA9) 
+GTEX-X4XX-0011-R11A-SM-46MWQ,0.07423,Cerebellar Hemisphere 
+GTEX-X4XX-0011-R1B-SM-3P622,0.01266,Hippocampus 
+GTEX-X4XX-0011-R2A-SM-3P623,0.02251,Substantia nigra 
+GTEX-X4XX-0011-R3B-SM-46MWK,0,Anterior cingulate cortex (BA24) 
+GTEX-X4XX-0011-R4B-SM-46MWL,0.03951,Amygdala 
+GTEX-X4XX-0011-R5A-SM-46MWN,0.0777,Caudate (basal ganglia) 
+GTEX-X4XX-0011-R6B-SM-46MWP,0,Nucleus accumbens (basal ganglia) 
+GTEX-X4XX-0011-R8B-SM-46MWM,0,Hypothalamus 
+GTEX-X4XX-2926-SM-3NMB1,0.04321,Cerebellum 
+GTEX-X4XX-3026-SM-3NMB2,0,Cortex 
+GTEX-X4XY-0011-R10B-SM-46MWS,0,Frontal Cortex (BA9) 
+GTEX-X4XY-0011-R3B-SM-EXOHI,0,Anterior cingulate cortex (BA24) 
+GTEX-X4XY-0011-R6B-SM-46MVB,0,Nucleus accumbens (basal ganglia) 
+GTEX-X4XY-0011-R8A-SM-46MVC,0,Hypothalamus 
+GTEX-X4XY-3026-SM-EWRM9,0.02677,Cortex 
+GTEX-X585-0011-R10A-SM-46MUY,0,Frontal Cortex (BA9) 
+GTEX-X585-0011-R11B-SM-46MUZ,0,Cerebellar Hemisphere 
+GTEX-X585-0011-R1B-SM-46MVE,0,Hippocampus 
+GTEX-X585-0011-R2B-SM-46MVF,0,Substantia nigra 
+GTEX-X585-0011-R3B-SM-46MVG,0,Anterior cingulate cortex (BA24) 
+GTEX-X585-0011-R4B-SM-46MVH,0,Amygdala 
+GTEX-X585-0011-R5A-SM-46MVI,0,Caudate (basal ganglia) 
+GTEX-X585-0011-R6A-SM-46MVJ,0,Nucleus accumbens (basal ganglia) 
+GTEX-X585-0011-R8A-SM-46MUX,0,Hypothalamus 
+GTEX-X585-3026-SM-46MWF,0,Cortex 
+GTEX-XLM4-0011-R10A-SM-4AT5P,0,Frontal Cortex (BA9) 
+GTEX-XLM4-0011-R2B-SM-4AT5Z,0,Substantia nigra 
+GTEX-XLM4-0011-R3B-SM-4AT6E,0,Anterior cingulate cortex (BA24) 
+GTEX-XLM4-0011-R4B-SM-4AT5C,0.02988,Amygdala 
+GTEX-XLM4-0011-R6A-SM-4AT4B,0.02262,Nucleus accumbens (basal ganglia) 
+GTEX-XLM4-0011-R7A-SM-4AT5L,0,Putamen (basal ganglia) 
+GTEX-XLM4-0011-R8A-SM-4AT44,0,Hypothalamus 
+GTEX-XLM4-0011-R9A-SM-4AT45,0,Spinal cord (cervical c-1) 
+GTEX-XLM4-2926-SM-4AT59,0,Cerebellum 
+GTEX-XLM4-3026-SM-4AT6L,0,Cortex 
+GTEX-XMD1-0011-R10A-SM-4AT4A,0.02728,Frontal Cortex (BA9) 
+GTEX-XMD1-0011-R11A-SM-4AT5J,0,Cerebellar Hemisphere 
+GTEX-XMD1-0011-R1A-SM-4AT4C,0,Hippocampus 
+GTEX-XMD1-0011-R2B-SM-4AT5N,0,Substantia nigra 
+GTEX-XMD1-0011-R3B-SM-4AT5R,0,Anterior cingulate cortex (BA24) 
+GTEX-XMD1-0011-R5A-SM-4AT47,0,Caudate (basal ganglia) 
+GTEX-XMD1-0011-R6A-SM-4AT5K,0,Nucleus accumbens (basal ganglia) 
+GTEX-XMD1-0011-R8A-SM-4AT48,0,Hypothalamus 
+GTEX-XMD1-0011-R9A-SM-4AT49,0.03665,Spinal cord (cervical c-1) 
+GTEX-XMD1-2826-SM-4AT5F,0,Cerebellum 
+GTEX-Y111-2726-SM-4TT3N,0,Cortex 
+GTEX-Y111-2826-SM-4TT3O,0,Cerebellum 
+GTEX-Y8DK-0011-R10A-SM-4SOK1,0,Frontal Cortex (BA9) 
+GTEX-Y8DK-0011-R11A-SM-4SOK2,0,Cerebellar Hemisphere 
+GTEX-Y8DK-0011-R1A-SM-4RGLO,0,Hippocampus 
+GTEX-Y8DK-0011-R3A-SM-4RTW5,0.04326,Anterior cingulate cortex (BA24) 
+GTEX-Y8DK-0011-R4A-SM-EXUR1,0,Amygdala 
+GTEX-Y8DK-0011-R5B-SM-4RTW6,0,Caudate (basal ganglia) 
+GTEX-Y8DK-0011-R6A-SM-4V6EG,0.01662,Nucleus accumbens (basal ganglia) 
+GTEX-Y8DK-0011-R7A-SM-4SOJZ,0.06117,Putamen (basal ganglia) 
+GTEX-Y8DK-0011-R8B-SM-EYYVQ,0.01534,Hypothalamus 
+GTEX-Y8DK-0726-SM-4TT3S,0.04983,Cerebellum 
+GTEX-Y8DK-0826-SM-4TT3T,0,Cortex 
+GTEX-YFC4-0011-R10a-SM-4SOK5,0,Frontal Cortex (BA9) 
+GTEX-YFC4-0011-R11a-SM-4SOK6,0,Cerebellar Hemisphere 
+GTEX-YFC4-0011-R1a-SM-4V6EH,0.013,Hippocampus 
+GTEX-YFC4-0011-R2a-SM-4V6DZ,0,Substantia nigra 
+GTEX-YFC4-0011-R3a-SM-4RGLP,0.01885,Anterior cingulate cortex (BA24) 
+GTEX-YFC4-0011-R4a-SM-4RGLQ,0.01619,Amygdala 
+GTEX-YFC4-0011-R5a-SM-4RGLR,0.02535,Caudate (basal ganglia) 
+GTEX-YFC4-0011-R6b-SM-4V6E1,0.01721,Nucleus accumbens (basal ganglia) 
+GTEX-YFC4-0011-R7b-SM-4V6E2,0.01271,Putamen (basal ganglia) 
+GTEX-YFC4-0011-R8a-SM-4SOK3,0,Hypothalamus 
+GTEX-YFC4-0011-R9a-SM-4SOK4,0,Spinal cord (cervical c-1) 
+GTEX-YFC4-3026-SM-5IFJK,0,Cerebellum 
+GTEX-YFC4-3126-SM-5PNV6,0,Cortex 
+GTEX-YJ89-0011-R10a-SM-4SOK9,0,Frontal Cortex (BA9) 
+GTEX-YJ89-0011-R11a-SM-4SOKA,0.02749,Cerebellar Hemisphere 
+GTEX-YJ89-0011-R1a-SM-4RGLS,0.03374,Hippocampus 
+GTEX-YJ89-0011-R2b-SM-4RGLT,0.01697,Substantia nigra 
+GTEX-YJ89-0011-R3b-SM-4V6EF,0,Anterior cingulate cortex (BA24) 
+GTEX-YJ89-0011-R5a-SM-4V6GM,0.01129,Caudate (basal ganglia) 
+GTEX-YJ89-0011-R6a-SM-4V6GN,0,Nucleus accumbens (basal ganglia) 
+GTEX-YJ89-0011-R7a-SM-4V6GO,0,Putamen (basal ganglia) 
+GTEX-YJ89-0011-R8b-SM-4SOK8,0,Hypothalamus 
+GTEX-YJ89-0011-R9a-SM-4SOK7,0.04834,Spinal cord (cervical c-1) 
+GTEX-YJ89-2926-SM-5P9IT,0.0177,Cerebellum 
+GTEX-YJ89-3026-SM-5IFJI,0,Cortex 
+GTEX-Z93S-0011-R10a-SM-4RGNM,0,Frontal Cortex (BA9) 
+GTEX-Z93S-0011-R11a-SM-4RGNN,0,Cerebellar Hemisphere 
+GTEX-Z93S-0011-R2a-SM-4RGNG,0,Substantia nigra 
+GTEX-Z93S-0011-R3b-SM-4RGNH,0,Anterior cingulate cortex (BA24) 
+GTEX-Z93S-0011-R5b-SM-4RGNI,0,Caudate (basal ganglia) 
+GTEX-Z93S-0011-R6b-SM-4RGNJ,0,Nucleus accumbens (basal ganglia) 
+GTEX-Z93S-0011-R7b-SM-4RGNK,0,Putamen (basal ganglia) 
+GTEX-Z93S-0011-R8a-SM-4RGNL,0,Hypothalamus 
+GTEX-Z93S-2826-SM-57WBL,0,Cerebellum 
+GTEX-Z93S-2926-SM-57WB9,0,Cortex 
+GTEX-ZAB4-0011-R10a-SM-4SOKH,0,Frontal Cortex (BA9) 
+GTEX-ZAB4-0011-R11a-SM-4SOKI,0,Cerebellar Hemisphere 
+GTEX-ZAB4-0011-R1a-SM-4RGNO,0,Hippocampus 
+GTEX-ZAB4-0011-R2a-SM-4RGNP,0.02824,Substantia nigra 
+GTEX-ZAB4-0011-R3a-SM-4RGNQ,0,Anterior cingulate cortex (BA24) 
+GTEX-ZAB4-0011-R4a-SM-4SOKB,0.04677,Amygdala 
+GTEX-ZAB4-0011-R5a-SM-4SOKC,0.02357,Caudate (basal ganglia) 
+GTEX-ZAB4-0011-R6a-SM-4SOKD,0,Nucleus accumbens (basal ganglia) 
+GTEX-ZAB4-0011-R7a-SM-4SOKE,0.02635,Putamen (basal ganglia) 
+GTEX-ZAB4-0011-R8b-SM-4SOKF,0,Hypothalamus 
+GTEX-ZAB4-0011-R9a-SM-4SOKG,0.0254,Spinal cord (cervical c-1) 
+GTEX-ZAB4-2926-SM-57WCV,0,Cerebellum 
+GTEX-ZAJG-3026-SM-5HL92,0.03319,Cerebellum 
+GTEX-ZAJG-3126-SM-5HL9J,0,Cortex 
+GTEX-ZAK1-0011-R4a-SM-6AJBK,0,Amygdala 
+GTEX-ZAK1-2926-SM-5HL9S,0,Cerebellum 
+GTEX-ZAK1-3026-SM-5S2MJ,0,Cortex 
+GTEX-ZDXO-0011-R10a-SM-4WWD8,0,Frontal Cortex (BA9) 
+GTEX-ZDXO-0011-R11a-SM-4WWD9,0,Cerebellar Hemisphere 
+GTEX-ZDXO-0011-R1a-SM-4WKF4,0,Hippocampus 
+GTEX-ZDXO-0011-R2b-SM-4WKFG,0,Substantia nigra 
+GTEX-ZDXO-0011-R3a-SM-4WKFS,0.01874,Anterior cingulate cortex (BA24) 
+GTEX-ZDXO-0011-R5a-SM-4WKG5,0,Caudate (basal ganglia) 
+GTEX-ZDXO-0011-R6a-SM-4WWCT,0.05108,Nucleus accumbens (basal ganglia) 
+GTEX-ZDXO-0011-R7a-SM-4WWCU,0,Putamen (basal ganglia) 
+GTEX-ZDXO-0011-R8a-SM-4WWD7,0,Hypothalamus 
+GTEX-ZDXO-2126-SM-4WKFI,0.01837,Cortex 
+GTEX-ZDXO-2926-SM-4WKFM,0.03163,Cerebellum 
+GTEX-ZE7O-0011-R10a-SM-57WAZ,0,Frontal Cortex (BA9) 
+GTEX-ZE7O-0011-R11a-SM-57WBC,0,Cerebellar Hemisphere 
+GTEX-ZE7O-0011-R1a-SM-57WDM,0.009468,Hippocampus 
+GTEX-ZE7O-0011-R5a-SM-57WBO,0.01956,Caudate (basal ganglia) 
+GTEX-ZE7O-0011-R6a-SM-57WCI,0,Nucleus accumbens (basal ganglia) 
+GTEX-ZE7O-0011-R7a-SM-57WCU,0,Putamen (basal ganglia) 
+GTEX-ZE7O-3126-SM-5HL5X,0,Cortex 
+GTEX-ZE9C-0011-R11a-SM-4WKGG,0,Cerebellar Hemisphere 
+GTEX-ZE9C-0011-R2a-SM-4WKGH,0,Substantia nigra 
+GTEX-ZE9C-0011-R3a-SM-4WKGT,0,Anterior cingulate cortex (BA24) 
+GTEX-ZE9C-0011-R4a-SM-4WKH6,0,Amygdala 
+GTEX-ZE9C-0011-R5a-SM-5EGLO,0,Caudate (basal ganglia) 
+GTEX-ZE9C-0011-R6a-SM-4WWCW,0.0152,Nucleus accumbens (basal ganglia) 
+GTEX-ZE9C-0011-R7a-SM-4WWCX,0.01529,Putamen (basal ganglia) 
+GTEX-ZE9C-0011-R9a-SM-4WWCY,0,Spinal cord (cervical c-1) 
+GTEX-ZE9C-3026-SM-4WKHB,0,Cortex 
+GTEX-ZF28-0011-R10a-SM-4WWEH,0.01776,Frontal Cortex (BA9) 
+GTEX-ZF28-0011-R11a-SM-4WWEI,0,Cerebellar Hemisphere 
+GTEX-ZF28-0011-R1a-SM-4WWD1,0,Hippocampus 
+GTEX-ZF28-0011-R3a-SM-4WWDA,0,Anterior cingulate cortex (BA24) 
+GTEX-ZF28-0011-R5a-SM-4WWCZ,0,Caudate (basal ganglia) 
+GTEX-ZF28-0011-R6a-SM-4WKHI,0,Nucleus accumbens (basal ganglia) 
+GTEX-ZF28-0011-R7a-SM-4WKF5,0,Putamen (basal ganglia) 
+GTEX-ZF28-0011-R8a-SM-4WWFW,0,Hypothalamus 
+GTEX-ZF28-0011-R9a-SM-4WWDY,0,Spinal cord (cervical c-1) 
+GTEX-ZF28-2926-SM-4WKG1,0,Cerebellum 
+GTEX-ZF28-3026-SM-4WKHP,0,Cortex 
+GTEX-ZUA1-0011-R10a-SM-51MT6,0,Frontal Cortex (BA9) 
+GTEX-ZUA1-0011-R11b-SM-51MTI,0,Cerebellar Hemisphere 
+GTEX-ZUA1-0011-R1a-SM-4YCE2,0,Hippocampus 
+GTEX-ZUA1-0011-R3a-SM-4YCEE,0,Anterior cingulate cortex (BA24) 
+GTEX-ZUA1-0011-R5b-SM-51MTG,0,Caudate (basal ganglia) 
+GTEX-ZUA1-0011-R6b-SM-4YCDD,0.04989,Nucleus accumbens (basal ganglia) 
+GTEX-ZUA1-0011-R7b-SM-4YCDP,0,Putamen (basal ganglia) 
+GTEX-ZUA1-0011-R8b-SM-51MST,0,Hypothalamus 
+GTEX-ZUA1-2926-SM-59HL3,0,Cerebellum 
+GTEX-ZUA1-3026-SM-59HJC,0,Cortex 
+GTEX-ZV68-0011-R10a-SM-51MT7,0.01256,Frontal Cortex (BA9) 
+GTEX-ZV68-0011-R2a-SM-4YCDK,0,Substantia nigra 
+GTEX-ZV68-0011-R5a-SM-4YCDW,0,Caudate (basal ganglia) 
+GTEX-ZV68-0011-R6a-SM-51MSR,0,Nucleus accumbens (basal ganglia) 
+GTEX-ZV68-0011-R7a-SM-51MT4,0.02856,Putamen (basal ganglia) 
+GTEX-ZVT3-0011-R10b-SM-57WB6,0.02404,Frontal Cortex (BA9) 
+GTEX-ZVT3-0011-R11b-SM-57WBI,0.02946,Cerebellar Hemisphere 
+GTEX-ZVT3-0011-R3b-SM-51MTJ,0.01302,Anterior cingulate cortex (BA24) 
+GTEX-ZVT3-0011-R5a-SM-51MSI,0,Caudate (basal ganglia) 
+GTEX-ZVT3-0011-R6a-SM-51MSU,0,Nucleus accumbens (basal ganglia) 
+GTEX-ZVT3-0011-R7a-SM-57WCO,0.01167,Putamen (basal ganglia) 
+GTEX-ZVT3-0011-R8b-SM-57WDJ,0,Hypothalamus 
+GTEX-ZVT3-2926-SM-5GU6M,0,Cerebellum 
+GTEX-ZVT3-3026-SM-5E43N,0.03554,Cortex 
+GTEX-ZVZQ-0011-R10b-SM-51MRT,0.01716,Frontal Cortex (BA9) 
+GTEX-ZVZQ-0011-R11a-SM-51MS6,0.05961,Cerebellar Hemisphere 
+GTEX-ZVZQ-0011-R1a-SM-57WBU,0.01952,Hippocampus 
+GTEX-ZVZQ-0011-R3a-SM-57WC7,0,Anterior cingulate cortex (BA24) 
+GTEX-ZVZQ-0011-R4b-SM-57WCZ,0,Amygdala 
+GTEX-ZVZQ-0011-R5b-SM-57WDC,0.03255,Caudate (basal ganglia) 
+GTEX-ZVZQ-0011-R6b-SM-57WAY,0,Nucleus accumbens (basal ganglia) 
+GTEX-ZVZQ-0011-R7b-SM-57WBB,0,Putamen (basal ganglia) 
+GTEX-ZVZQ-0011-R8a-SM-51MR5,0,Hypothalamus 
+GTEX-ZVZQ-0011-R9a-SM-51MRH,0,Spinal cord (cervical c-1) 
+GTEX-ZXG5-0011-R10a-SM-57WDD,0,Frontal Cortex (BA9) 
+GTEX-ZXG5-0011-R5b-SM-57WBN,0.01316,Caudate (basal ganglia) 
+GTEX-ZXG5-0011-R6a-SM-57WBZ,0.01139,Nucleus accumbens (basal ganglia) 
+GTEX-ZXG5-0011-R7b-SM-57WCC,0,Putamen (basal ganglia) 
+GTEX-ZXG5-0011-R8a-SM-57WD1,0.006319,Hypothalamus 
+GTEX-ZYFD-2926-SM-5GID9,0,Cerebellum 
+GTEX-ZYFD-3026-SM-5E44C,0,Cortex 
+GTEX-ZYY3-3026-SM-5GIEJ,0.02613,Cerebellum 
+GTEX-ZYY3-3126-SM-5SI9L,0,Cortex 
+GTEX-ZZPT-2926-SM-5EQ5S,0.03126,Cerebellum 
+GTEX-ZZPT-3026-SM-5GZXH,0.01874,Cortex 
