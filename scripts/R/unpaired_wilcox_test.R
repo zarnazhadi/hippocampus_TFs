@@ -12,7 +12,7 @@ tissues <- unique(dat$tissue_type)
 # pvalues matrix
 pvalues <-  matrix(0, 13,10)
 
-row <- 0
+row <- 0 # row count
 
 for(col in 1:length(dat[,-11])){
   # subset by tf
@@ -40,6 +40,11 @@ for(col in 1:length(dat[,-11])){
 # matrix to df
 pvalues <- as.data.frame(pvalues)
 colnames(pvalues) <- tfs
-row.names(pvalues) <- tissues
+pvalues <- pvalues[-9,] # remove hippocampus row
 
-pvalues <- pvalues[-8,] # remove hippocampus row
+# filter to p values which reject null hyp
+reject <- as.data.frame(sapply(pvalues, function(x) ifelse(x<0.05, x, NA)))
+row.names(reject) <- tissues[-9]
+
+# summary- returns error
+reject %>% summarise_all(funs(min, max), na.rm =TRUE)
