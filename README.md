@@ -2,5 +2,6 @@
 
 This repository includes:
 1. Python scripts extracting and formatting data from an online GTEX dataset (https://storage.googleapis.com/gtex_analysis_v8/annotations/GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt)
-2. Python scripts computing the median of TF expression per tissue type
-3. R scripts to visualise data using statistical tests and graphs
+2. .csv files with the formatted dataset and other relevant data
+3. Python scripts computing the median of TF expression per tissue type
+4. R scripts to visualise data using statistical tests and graphs
